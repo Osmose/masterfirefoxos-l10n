@@ -1,0 +1,79 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Location tracking helps you find your device if you lose it. Remote wipe and"
+" lock capabilities help you keep your personal information safe."
+msgstr ""
+"تتبع الموقع  يساعدك على العثور على الجهاز الخاص بك إذا فقدته. المسح عن بعد "
+"وقدرات القفل تساعدك على الحفاظ على المعلومات الشخصية الخاصة بك آمنة."
+
+#: 2-0/introduction/ 2-1/introduction/
+msgid ""
+"Use your phone in your language, control your data usage and personalize it "
+"by creating your own ringtones. You can also download locally-relevant apps "
+"that enrich and simplify your daily life. Firefox OS is truly a phone made "
+"with you in mind."
+msgstr ""
+"استخدم الهاتف بلغتك، وراقب استخدام البيانات الخاصة بك و أضف إليها الطابع "
+"الشخصي من خلال إنشاء النغمات الخاصة بك. يمكنك أيضاً تحميل تطبيقات محلية ذات "
+"صلة تثري وتبسيط حياتك اليومية. نظام التشغيل فيرفكس حقاً هاتف موجه لك أنت "
+"بشكل أساسي."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely wipe the device."
+msgstr "قم بمسح محتويات الجهاز عن بعد."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace, the best preloaded apps and an awesome user "
+"experience, Firefox OS is packed with the features that users are looking "
+"for in a smartphone."
+msgstr ""
+"مع سوق فيرفكس ، أفضل التطبيقات المحملة مسبقا وتجربة المستخدم  الرائعة،نظام "
+"التشغيل فيرفكس حزم مع الميزات التي يبحث عنها المستخدمون في الهاتف الذكي."
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Ringtones"
+msgstr "النغمات"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely lock the device."
+msgstr "قم بقفل الجهاز عن بعد."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Create your own ringtones"
+msgstr "قم بإنشاء النغمات الخاصة بك"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Find My Device"
+msgstr "‎البحث عن جهازي"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Since it’s made by Firefox, Firefox OS is backed by a global community "
+"working on your behalf and with your interests in mind."
+msgstr ""
+"لأنها مصنوعة من قبل فيرفكس،  نظام التشغيل فيرفكس مدعوم من قبل المجتمع الدولي"
+" ليعمل بالنيابة عنك ومع مصالحك في الاعتبار."
+
+#: 2-0/demo-tips/ 2-1/demo-tips/
+msgid "Rich media experience"
+msgstr "تجربة الوسائط الغنية"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Customize your Firefox OS phone by creating new ringtones from your music "
+"collection or from songs you download from the Web."
+msgstr ""
+"قم بتخصيص هاتف نظام تشغيل فيرفكس عن طريق إنشاء نغمات رنين جديدة من مجموعتك "
+"الموسيقية أو من الأغاني التي تقوم بتحميلها من الويب."

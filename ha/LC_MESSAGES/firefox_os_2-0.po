@@ -1,0 +1,38 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ha\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/take-the-challenge/
+msgid ""
+"Actually, the Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"Haƙiƙa, Nemo Na'urata na taimaka maka kayi duk waɗan nan abubuwa ta hanyar "
+"Asusunka na Firefox."
+
+#: 2-0/take-the-challenge/
+msgid ""
+"That’s right! The Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"Ya yi dai dai! Nemo Na'urata na taimaka maka kayi duk waɗan nan abubuwa ta "
+"hanyar Asusunka na Firefox."
+
+#: 2-0/take-the-challenge/
+msgid "Track the location of your lost/stolen device"
+msgstr "Bi sawun wurin da na'urarka da ta ɓata/aka sace ta ke"
+
+#: 2-0/take-the-challenge/
+msgid ""
+"What does the Find My Device feature on your Firefox OS phone help you do in"
+" the case that your phone is lost or stolen?"
+msgstr ""
+"Me siffar Nemo Na'urata na wayar Firefox OS ke taimaka maka ka yi wajen nemo"
+" wayarka ko da zata ɓata ko a sace?"

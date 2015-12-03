@@ -1,0 +1,456 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Uncertain Upgrader"
+msgstr "Der unsichere Aktualisierer"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Your customer wants to understand the biggest benefits of Firefox OS versus "
+"its competitors. Select all of the statements that apply."
+msgstr ""
+"Ihr Kunde möchte die größten Vorteile von Firefox OS gegenüber Mitbewerbern "
+"verstehen. Wählen Sie alle zutreffenden Aussagen aus."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid "Key Features"
+msgstr "Wesentliche Funktionen"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. For a customer looking for a smartphone that is easy to use, "
+"Firefox OS is a great choice."
+msgstr ""
+"Ganz genau. Für einen Kunden, der nach einem einfach nutzbaren Smartphone "
+"sucht, ist Firefox OS eine hervorragende Wahl."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"A customer tells you that she’s ready to move up from her old feature phone."
+" What selling feature should you lead with?"
+msgstr ""
+"Eine Kundin sagt Ihnen, dass sie bereit ist, sich nach ihrem alten Feature-"
+"Phone ein neues Handy zu kaufen. Welches Alleinstellungsmerkmal nennen Sie "
+"zuerst?"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/ 2-0/introduction/
+#: 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Find out what makes Firefox OS perfect for new smartphone users by giving "
+"them just what they need."
+msgstr ""
+"Erfahren Sie, warum Firefox OS perfekt für neue Smartphone-Nutzer ist, indem"
+" es ihnen genau das liefert, was sie brauchen."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Not quite. A first time smartphone user will be most interested in ease of "
+"use."
+msgstr ""
+"Nicht ganz. Ein Kunde, der vorher noch kein Smartphone verwendet hat, "
+"interessiert sich vor allem für die einfache Bedienung."
+
+#: 1-1/which-version/ 1-3T/which-version/ 1-4/which-version/
+#: 2-0/which-version/ 1-3/which-version/ 2-1/which-version/
+msgid "Which Version Do I Have?"
+msgstr "Welche Version verwenden Sie?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Still have questions? Not for long! Find all the answers you're looking for "
+"here."
+msgstr ""
+"Haben Sie noch Fragen? Nicht mehr lange! Hier finden Sie alle Antworten, die"
+" Sie suchen."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Every Firefox phone includes the Firefox browser, the fast, smart and safe "
+"way to get online."
+msgstr ""
+"Jedes Firefox-Handy verfügt über den Firefox-Browser, den schnellen, "
+"intelligenten und sicheren Weg ins Internet."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I want a smartphone that is truly easy to use."
+msgstr "Ich möchte ein Smartphone, das sich ganz einfach bedienen lässt."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I’m a Firefox fan."
+msgstr "Ich bin ein Firefox-Fan."
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"It needs to be easy to use.\""
+msgstr "„Es muss sich einfach verwenden lassen.“"
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+#: 2-1/demo-tips/
+msgid ""
+"Learn how to show off and talk about the key features and benefits of "
+"Firefox OS to your customers."
+msgstr ""
+"Erfahren Sie, wie Sie Ihren Kunden die wichtigsten Funktionen und Vorteile "
+"von Firefox OS vorführen und präsentieren."
+
+#: 1-1/take-the-challenge/ 1-3T/key-features/ 1-3T/take-the-challenge/
+#: 1-4/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Facebook"
+msgstr "Facebook"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "What makes Firefox OS more secure than other phones?"
+msgstr "Was macht Firefox OS sicherer als andere Handys?"
+
+#: /1-1/ /1-3T/ /1-4/ /2-0/ /1-3/ /2-1/
+msgid ""
+"This global partner and community training hub has everything you need to "
+"effectively communicate the basics of Firefox OS. Select any topic to get "
+"started."
+msgstr ""
+"In diesem Ausbildungszentrum bezüglich Firefox OS für unsere Partner und "
+"unsere Gemeinschaft auf der ganzen Welt finden Sie alles, um effektiv die "
+"Grundlagen von Firefox OS zu vermitteln. Wählen Sie zum Start ein beliebiges"
+" Thema aus."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right!"
+msgstr "Ganz genau!"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Smartphone Rookie"
+msgstr "Die Smartphone-Einsteigerin"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right."
+msgstr "Ganz genau."
+
+#: 1-1/demo-tips/ 1-1/key-features/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/ 2-0/demo-tips/
+#: 2-0/key-features/ 1-3/demo-tips/ 1-3/key-features/ 2-1/demo-tips/
+#: 2-1/key-features/
+msgid "Marketplace"
+msgstr "Marketplace"
+
+#: /1-1/ /1-3T/ /1-4/ /2-0/ /1-3/ /2-1/
+msgid "Welcome!"
+msgstr "Willkommen!"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Value Seeker"
+msgstr "Die Wertsuchende"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "Do Android apps work on this phone?"
+msgstr "Funktionieren Android-Apps auf diesem Handy?"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"I love firefox!\""
+msgstr "„Ich liebe Firefox!“"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "You can easily import contacts from Facebook to your Firefox OS phone."
+msgstr ""
+"Sie können einfach Kontakte von Facebook in Ihr Firefox-OS-Handy "
+"importieren."
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+#: 2-1/demo-tips/
+msgid "Demo Tips"
+msgstr "Vorführ-Tipps"
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/
+#: 1-4/take-the-challenge/ 2-0/key-features/ 2-0/take-the-challenge/
+#: 1-3/key-features/ 1-3/take-the-challenge/ 2-1/key-features/
+#: 2-1/take-the-challenge/
+msgid "Camera and Gallery"
+msgstr "Kamera und Galerie"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "What about customer support for apps?"
+msgstr "Wie sieht es mit Kundenunterstützung für Apps aus?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS includes all the same features you’ll find in competitive "
+"smartphones and gives you more value for the money."
+msgstr ""
+"Firefox OS verfügt über die gleichen Funktionen, die Sie auch bei "
+"Smartphones von der Konkurrenz finden, und liefert Ihnen mehr Wert für "
+"gleiches Geld."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I’m looking for the best value for my money."
+msgstr "Ich suche nach einem guten Preis-Leistungs-Verhältnis."
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/ 2-0/introduction/
+#: 1-3/introduction/ 2-1/introduction/
+msgid "Introduction"
+msgstr "Einführung"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Firefox Fan"
+msgstr "Der Firefox-Fan"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "How many and what types of apps will be available?"
+msgstr "Wie viele und welche Typen von Apps werden verfügbar sein?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"A customer tells you that he uses Firefox as his desktop browser. With what "
+"selling feature should you lead?"
+msgstr ""
+"Ein Kunde sagt Ihnen, dass er Firefox als Desktop-Browser verwendet. Welches"
+" Alleinstellungsmerkmal nennen Sie zuerst?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS gives you access to popular, big name apps, as well as local "
+"content that means the most to you."
+msgstr ""
+"Mit Firefox OS haben Sie Zugang zu beliebten Apps bekannter Anbieter sowie "
+"lokalen Inhalten, die Ihnen am wichtigsten sind."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "False"
+msgstr "Falsch"
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-4/key-features/ 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid "Firefox browser"
+msgstr "Firefox-Browser"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily import your friends from Facebook "
+"too."
+msgstr ""
+"Firefox OS ist das einfachste Smartphone für den Anfang. Ihre Lieblings-Apps"
+" sind standardmäßig dabei und Sie können auch einfach Ihre Facebook-Freunde "
+"importieren."
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+#: 2-1/demo-tips/
+msgid "Demonstrations That Matter"
+msgstr "Entscheidende Vorführungen"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "Where should I go if I have more questions?"
+msgstr "Wo finde ich Antworten auf weitere Fragen?"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"See how Firefox OS fits into your customers' lives, no matter who they are "
+"or where they're from."
+msgstr ""
+"Sehen Sie sich an, wie sich Firefox OS in das Leben Ihrer Kunden einpasst, "
+"egal wer sie sind oder wo sie herkommen."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Ready to show what you know?"
+msgstr "Sind Sie bereit, Ihr Wissen zu zeigen?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. All of these customers are ideal candidates for Firefox OS!"
+msgstr "Ganz genau. Alle diese Kunden sind ideale Kandidaten für Firefox OS!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"A customer tells you that smartphones seem complicated. What selling feature"
+" should you lead with?"
+msgstr ""
+"Ein Kunde sagt Ihnen, dass Smartphones kompliziert zu sein scheinen. Welches"
+" Alleinstellungsmerkmal nennen Sie zuerst?"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Discover what makes Firefox OS the most unique and exciting mobile operating"
+" system."
+msgstr ""
+"Entdecken Sie, was Firefox OS zum einzigartigsten und aufregendsten "
+"Betriebssystem für Mobilgeräte macht."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I’ve never used a smartphone before."
+msgstr "Ich habe noch nie ein Smartphone verwendet."
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/key-features/ 1-4/take-the-challenge/
+#: 2-0/key-features/ 2-0/take-the-challenge/ 1-3/key-features/
+#: 1-3/take-the-challenge/ 2-1/key-features/ 2-1/take-the-challenge/
+msgid "Contacts"
+msgstr "Kontakte"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Which Firefox OS feature does this icon represent?"
+msgstr "Für welche Firefox-OS-Funktion steht dieses Symbol?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "You have questions? We have answers!"
+msgstr "Sie haben Fragen? Wir haben Antworten!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “How do I know this "
+"new phone is safe?”"
+msgstr ""
+"Was ist die beste Antwort auf diese Kritik eines Kunden? „Woher weiß ich, "
+"dass dieses neue Handy sicher ist?“"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "How do I download and install apps on Firefox OS?"
+msgstr "Wie kann ich Apps für Firefox OS herunterladen und installieren?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "True"
+msgstr "Wahr"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"I have never had a smartphone.\""
+msgstr "„Ich hatte noch nie ein Smartphone.“"
+
+#: /1-1/ /1-3T/ /1-4/ /2-0/ /1-3/ /2-1/
+msgid "Master Firefox OS"
+msgstr "Meistern Sie Firefox OS"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"I want a good deal.\""
+msgstr "„Ich möchte etwas für mein Geld.“"
+
+#: 1-1/about/ 1-3T/about/ 1-4/about/ 2-0/about/ 1-3/about/ 2-1/about/
+msgid ""
+"Our mission is to promote openness, innovation and opportunity on the Web."
+msgstr ""
+"Unsere Mission ist es, Offenheit, Innovation und Chancen im Internet zu "
+"fördern."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Put your new knowledge to the test with this series of fun, interactive "
+"quizzes."
+msgstr ""
+"Testen Sie Ihr neues Wissen in einer Reihe von lustigen, interaktiven "
+"Fragerunden."
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "Customer Guide"
+msgstr "Leitfaden über Kunden"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right. These statements are all true about Firefox OS."
+msgstr "Ganz genau. Diese Aussagen treffen alle auf Firefox OS zu."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid "Features that count"
+msgstr "Funktionen, die zählen"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "Who is your ideal Firefox customer?"
+msgstr "Wer ist der ideale Firefox-OS-Kunde?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "Frequently Asked Questions"
+msgstr "Häufig gestellte Fragen"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid "Music and Video"
+msgstr "Musik und Video"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"By now, you probably have questions and so will your customers! Select each "
+"question for more on Firefox OS."
+msgstr ""
+"Sie haben mittlerweile vermutlich Fragen und Ihre Kunden werden ebenfalls "
+"welche haben! Durch Auswählen der Fragen erhalten Sie weitere Informationen "
+"zu Firefox OS."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS isn’t cluttered with more than you need. It gives you what you’d "
+"expect in a smartphone, with an easy-to-use interface that makes it easy to "
+"get started."
+msgstr ""
+"Firefox OS ist nicht mit mehr vollgestopft als Sie brauchen. Es gibt Ihnen, "
+"was Sie von einem Smartphone erwarten, und hat eine einfach zu steuernde "
+"Benutzeroberfläche, welche die ersten Schritte erleichtert."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
+msgstr "Nein, ALLE diese Kunden sind ideale Kandidaten für Firefox OS!"

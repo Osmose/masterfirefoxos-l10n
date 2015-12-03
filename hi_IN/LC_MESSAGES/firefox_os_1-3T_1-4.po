@@ -1,0 +1,136 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hi-in\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Adaptive App Search is a new way to find content from across the Web and "
+"engage in an app-like experience without having to download the app to find "
+"what you need. Whenever you search, your phone adapts to the search result "
+"and makes it easy to add those results to your home screen for easy access "
+"later."
+msgstr ""
+"अनुकूली एप्प खोज वेब पर सामग्री खोजने के लिए एक नया तरीका है और संलग्न एप्प "
+"की तरह अनुभव व बिना डाउनलोड किए जो चाहिए खोजें. जब आप खोजते है तब आपके फ़ोन "
+"खोज परिणाम के अनुकूल हो जाते है और उन परिणामों को बाद में आसानी से प्राप्त  "
+"करने के लिए मुखपृष्ठ स्क्रीन पर जोड़ने देते है"
+
+#: 1-3T/customer-guide/ 1-4/customer-guide/
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below, then drag the bar to learn how to best respond to each of their "
+"unique needs."
+msgstr ""
+"अपने ग्राहकों की जरूरतों को समझना और मौके पर किस तरह प्रतिक्रिया करनी है यह "
+"किसी भी बिक्री अवसर के लिए महत्वपूर्ण है. नीचे दिए गए आम ग्राहक अनुभाग को "
+"देखें, उसके बाद उनके अद्वितीय जरूरतों का सबसे अच्छा जवाब जानने के लिए पट्टी "
+"खींचें."
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
+"OS shows a commitment to keeping the Web in their hands."
+msgstr ""
+"यदि आप Firefox से प्यार करते हैं, तो आप Firefox OS से भी प्यार करेंगे. "
+"Firefox OS डिवाइस का चुनाव करके वेब की शक्ति आपके हाथों में होती है."
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of these customer responses indicate a ideal candidate for Firefox OS?"
+" Select all that apply."
+msgstr ""
+"ग्राहकों की प्रतिक्रियाओं के कौन से संकेत, जो एक Firefox OS आदर्श उम्मीदवार "
+"को दर्शाता है? लागू होने वाले सभी का चयन करें."
+
+#: 1-3T/customer-guide/ 1-4/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> If you know and love Firefox, "
+"you’ll love Firefox OS. Firefox OS smartphones are entirely HTML5-based, "
+"bringing the best of the Web to your phone. Plus, Firefox OS is designed by "
+"a community dedicated to keeping the Web accessible to all. When you choose "
+"Firefox OS, you have the full power of the Web in your hands."
+msgstr ""
+"<strong>यहाँ आप कह सकते हैं क्या है:</strong> यदि आप Firefox को जानते हैं और"
+" प्यार करतेहैं, तो आप Firefox OS को भी प्यार करेंगे. Firefox OS स्मार्टफोन्स"
+" पूरी तरह से HTML5 के आधार पर है, अपके फ़ोन में वेब का सर्वश्रेष्ठ लाने के "
+"लिए. इसके अलावा, Firefox OS सभी के लिए वेब सुलभ रखने के लिए समर्पित एक "
+"समुदाय द्वारा बनाया गया है. जब आप Firefox OS चुनते हैं, तो आपके हाथों में "
+"वेब की पूरी शक्ति आ जाती है."
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. With a first time smartphone user, you should talk about its "
+"simplicity and features like Adaptive App Search."
+msgstr ""
+"यह सही है. पहली बार स्मार्टफोन का उपयोग करते हुए आपको, उसकी सादगी और अनुकूली"
+" एप्प खोज जैसी सुविधाओं के बारे में बात करनी चाहिए."
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Actually, with a first time smartphone user, you should talk about its "
+"simplicity and features like Adaptive App Search."
+msgstr ""
+"यह सही है. पहली बार स्मार्टफोन का उपयोग करते हुए, आपको उसकी सादगी और अनुकूली"
+" एप्प खोज जैसी सुविधाओं के बारे में बात करनी चाहिए."
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A customer says to you, “I’m looking for an easy way to stay in touch with "
+"my friends, but I don’t want to spend a lot of money”. Which of the "
+"following statements would be a good response? Select all that apply."
+msgstr ""
+"एक ग्राहक आपसे कहता है कि, “मैं अपने दोस्तों के साथ संपर्क में रहने के लिए "
+"एक आसान तरीका ढूंढ रहा हूँ, लेकिन मैं बहुत सारा पैसा खर्च नहीं करना चाहता”, "
+"निम्नलिखित बयानों में से कौन सी एक अच्छी प्रतिक्रिया होगी? लागू होने वाले "
+"सभी का चयन करें."
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, show a commitment to keeping the Web in "
+"the hands of the people. And while all of these statements are true, only "
+"this one is the best response for this particular customer."
+msgstr ""
+"यह सही है. यह ग्राहक एक firefox प्रशंसक की तरह प्रतीत होता है. विचार करें कि"
+" mozilla द्वारा बनाये गए Firefox OS फ़ोन्स वेब को करीब रखने की प्रतिबद्धता "
+"दिखाते हैं. जब ये बयान सत्य होंगे, यही एक चीज़ ग्राहकों के लिए सर्वोत्तम "
+"प्रतिक्रिया होगी."
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"All of these statements are true, but only one is the best response for this"
+" particular customer, who seems to be a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, are part of keeping the Web in the hands"
+" of the people."
+msgstr ""
+"ये सारे बयान सत्य हैं, लेकिन एक विशेष ग्राहक जो कि firefox प्रशंसक प्रतीत "
+"होता है ही सर्वोत्तम प्रतिक्रिया है. बात करें कि, कैसे mozilla द्वारा बनाए "
+"गए Firefox ओएस फोन, वेब को लोगों के पास में रखने का हिस्सा हैं."
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this icon represents Adaptive App Search."
+msgstr "दरअसल, यह आइकॉन अनुकूलन योग्य एप्प खोज को दर्शाता है."
+
+#: 1-3T/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Hotmail and Yahoo mail are currently supported with more on the way in the "
+"future."
+msgstr "Hotmail और Yahoo मेल भविष्य में अधिक अच्छे से अभी समर्थित है."
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Mozilla, the maker of Firefox, built a mobile OS to keep the Web accessible "
+"to all. And since Firefox OS is entirely built in HTML5, you get instant "
+"access to thousands of apps built already for the Web."
+msgstr ""
+"mozilla जो कि firefox के निर्माता हैं, ने सभी के लिए वेब सुलभ करने के लिए एक"
+" मोबाइल ओएस का निर्माण किया है. क्योंकि firefox os को HTML5 मैं बनाया गया है"
+" आपके हाथ मैं हज़ारो एप्प्स मौजूद रहेंगी."

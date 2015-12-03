@@ -1,0 +1,145 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: bn-bd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/frequently-asked-questions/ 1-4/frequently-asked-questions/
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "What email providers are supported?"
+msgstr "কোন কোন ই-মেইল সেবা সমর্থন করে?"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"The best response to this objection is to talk about the experience of the "
+"Mozilla community that is behind Firefox OS."
+msgstr ""
+"এই অভিযোগের প্রেক্ষিতে সব থেকে উত্তম প্রতিক্রিয়া হল Firefox OS এর পিছনে "
+"থাকা Mozilla কমিউনিটির অভিজ্ঞতার ব্যাপারে কথা বলা।"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Messages"
+msgstr "ম্যাসেজ"
+
+#: 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/ 1-3/key-features/
+#: 2-1/key-features/
+msgid "Messages and Email"
+msgstr "ম্যাসেজ ও ইমেইল"
+
+#: 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/ 1-3/key-features/
+#: 2-1/key-features/
+msgid ""
+"With built-in style filters for fun, creative shots and lots of ways to "
+"share your photographs, the full-featured camera and photo gallery will have"
+" all your subjects smiling."
+msgstr ""
+"মজা করার জন্য বিল্ট-ইন স্টাইল ফিল্টার, সৃষ্টিশীল শট এবং আপনার ছবি শেয়ার "
+"করার অনেক উপায়, পরিপূর্ণ-সুবিধাযুক্ত ক্যামেরা ও গ্যালারি আপনার মুখে হাসি "
+"ফুটিয়ে তুলবে।"
+
+#: 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid "Introducing Firefox OS"
+msgstr "Firefox OS পরিচিতি"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right! This icon represents Messages —or text messaging."
+msgstr "একদম সঠিক! এই আইকনটি ম্যাসেজ বা ক্ষুদে বার্তা নির্দেশ করে।"
+
+#: 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/ 1-3/key-features/
+#: 2-1/key-features/
+msgid ""
+"Firefox OS is packed with the features that your customers expect in a "
+"smartphone. It’s designed to fit their lives perfectly so they can keep pace"
+" with the world around them."
+msgstr ""
+"একটি স্মার্টফোনে ক্রেতা যা যা প্রত্যাশা করে তার সবই Firefox OS এ রয়েছে। এটি"
+" তাদের জীবন যাপনের সাথে এমনভাবে খাপ খাইয়ে নিবে যাতে তারা বাইরের দুনিয়ার "
+"সাথে তাল মিলিয়ে চলতে পারেন।"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Music"
+msgstr "সঙ্গীত"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"The best response to this objection is to talk about the robust security "
+"model."
+msgstr ""
+"এই অভিযোগের সর্বোত্তম জবাব হচ্ছে এর জোড়ালো নিরাপত্তা মডেল নিয়ে কথা বলা।"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"The best response to this objection is to talk about all the apps that are "
+"available."
+msgstr "এই প্রশ্নের সবচেয়ে ভালো উত্তর হল যে সকল অ্যাপ আছে তা নিয়ে কথা বলা।"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Think you are almost ready to start selling Firefox OS to your customers? "
+"Put your knowledge to the test and answer these questions to prove you have "
+"what it takes."
+msgstr ""
+"ভাবুন আপনি কি ক্রেতাদের নিকট Firefox OS  বিক্রি করার জন্য প্রায় প্রস্তত? "
+"আপনার জ্ঞান কাজে লাগান, উত্তর দিয়ে প্রমাণ করুন একাজে যা প্রয়োজন তা আপনার "
+"আছে।"
+
+#: 1-3T/frequently-asked-questions/ 1-4/frequently-asked-questions/
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the open Web. It is designed to protect the user"
+" and system from malicious applications and content."
+msgstr ""
+"Firefox OS এর একটি বলিষ্ঠ নিরাপত্তার কাঠামো আছে যা এক দশকের অধিক সময় ধরে "
+"মুক্ত ওয়েবকে সমর্থন করে দৃঢ়তা লাভ করেছে। এটি ব্যাবহারকারী ও সিস্টেমকে "
+"ক্ষতিকারক অ্যাপপ্লিকেশন ও বিষয়বস্তু থেকে সুরক্ষিত রাখার উপযোগী করে ডিজাইন "
+"করা হয়েছে।"
+
+#: 1-3T/frequently-asked-questions/ 1-4/frequently-asked-questions/
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "What do you mean I can convert mobile sites into apps?"
+msgstr "মোবাইল সাইটকে অ্যাপে পরিণত করতে পারব বলতে কি বোঝাচ্ছেন?"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, this icon represents Messages — or text messaging."
+msgstr "আসলে, এই আইকনটি ম্যাসেজ বা ক্ষুদে বার্তা নির্দেশ করে।"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Email and Messages"
+msgstr "ইমেইল ও এসএমএস"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, this icon represents the Contacts."
+msgstr "আসলে, এই আইকন কন্টাক্ট নির্দেশ করে।"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Get Ready to Sell!"
+msgstr "বিক্রির জন্য প্রস্তুত হয়ে যান!"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"While all of these statements are true, which two responses would be most "
+"useful to a first-time smartphone customer?"
+msgstr ""
+"যদি এখানকার প্রতিটি বিবৃতি সত্য হয় তাহলে কোন দুইটি প্রতিক্রিয়া প্রথমবারের "
+"মত স্মার্ট ফোন ব্যাবহারকারী একজন ক্রেতার ক্ষেত্রে সব থেকে উপযোগী হবে?"

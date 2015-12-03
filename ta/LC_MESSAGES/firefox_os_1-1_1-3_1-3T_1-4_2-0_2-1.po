@@ -1,0 +1,452 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Uncertain Upgrader"
+msgstr "நிச்சியமற்ற புதுப்பிப்பாளர்"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Your customer wants to understand the biggest benefits of Firefox OS versus "
+"its competitors. Select all of the statements that apply."
+msgstr ""
+"Firefox OS இன் போட்டியாளர்களை ஒப்பிடும்பொது இதில் உள்ள நன்மைகளை அறிய "
+"உங்கள் வாடிக்கையாளர்கள் விரும்புகிறார்கள். பொருத்தமான கூற்றுகள் அனைத்தையும்"
+" தேர்ந்தெடுக்கவும்."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid "Key Features"
+msgstr "முக்கிய அம்சங்கள்"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. For a customer looking for a smartphone that is easy to use, "
+"Firefox OS is a great choice."
+msgstr ""
+"இது சரி. பயன்படுத்த சுலபமாக உள்ள Firefox OS திறன்பேசியே வாடிக்கையாளரின் "
+"மிகச்சிறந்த தேர்வு."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"A customer tells you that she’s ready to move up from her old feature phone."
+" What selling feature should you lead with?"
+msgstr ""
+"இது சரி. சுலபமாக பயன்படுத்த ஏதுவாக உள்ள ஒரு திறன்பேசியான Firefox OS "
+"வாடிக்கையாளரின் சிறந்த தேர்வு."
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/ 2-0/introduction/
+#: 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Find out what makes Firefox OS perfect for new smartphone users by giving "
+"them just what they need."
+msgstr ""
+"புதிய திறன்பேசி பயனர்ளுக்கு Firefox OS இல் எவை பொருத்தமாக இருக்கும் என்பதை "
+"கண்டுணர்ந்து எதிர்பார்த்ததை வழங்குங்கள்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Not quite. A first time smartphone user will be most interested in ease of "
+"use."
+msgstr "நண்பர்களை ஒத்திசைவு செய்"
+
+#: 1-1/which-version/ 1-3T/which-version/ 1-4/which-version/
+#: 2-0/which-version/ 1-3/which-version/ 2-1/which-version/
+msgid "Which Version Do I Have?"
+msgstr "என்னிடம் எந்தப் பதிப்பு உள்ளது?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Still have questions? Not for long! Find all the answers you're looking for "
+"here."
+msgstr ""
+"இன்னமும் ஐயமா? நீண்ட நேரமில்லை! உங்களுக்கான அனைத்து பதில்களும் இங்கே உள்ளன."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Every Firefox phone includes the Firefox browser, the fast, smart and safe "
+"way to get online."
+msgstr ""
+"வேகமாக, இணையத்தில் பாதுகாப்பாக இருந்திட, ஒவ்வொரு பயர்பாக்ஸ் கைப்பேசியிலும் "
+"பயர்பாக்ஸ் உலாவி கொண்டிருக்கிறது."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I want a smartphone that is truly easy to use."
+msgstr "பயன்படுத்த சுலபமான ஒரு திறன்பேசியையே நான் வேண்டுவது."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I’m a Firefox fan."
+msgstr "நான் Firefox இரசிகர்."
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"It needs to be easy to use.\""
+msgstr "\"இது பயன்படுத்த சுலபமாக இருக்க வேண்டும்.\""
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+#: 2-1/demo-tips/
+msgid ""
+"Learn how to show off and talk about the key features and benefits of "
+"Firefox OS to your customers."
+msgstr ""
+"Firefox OS இல் உள்ள நன்மைகளையும் முக்கிய அம்சங்களையும் உங்கள் "
+"வாடிக்கையாளர்களிடம் எப்படி எடுத்துரைப்பது விளக்குவது என்பவற்றை அறியவும்."
+
+#: 1-1/take-the-challenge/ 1-3T/key-features/ 1-3T/take-the-challenge/
+#: 1-4/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Facebook"
+msgstr "முகநுல்"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "What makes Firefox OS more secure than other phones?"
+msgstr ""
+"எப்படி Firefox OS மற்ற செல்பேசிகளை விட கூடுதலான பாதுகாப்பைத் தருகிறது?"
+
+#: /1-1/ /1-3T/ /1-4/ /2-0/ /1-3/ /2-1/
+msgid ""
+"This global partner and community training hub has everything you need to "
+"effectively communicate the basics of Firefox OS. Select any topic to get "
+"started."
+msgstr ""
+"இந்த உலகலாவிய பங்குதாரர் மற்றும் சமூக பயிற்சி மையமானது வாடிக்கையாளர்களுக்கு "
+"எடுத்துரைக்கத் தேவைப்படும் Firefox OS பற்றிய அனைத்து அடிப்படை தகவல்களையும் "
+"வைத்திருக்கிறது. ஒரு தலைப்பை தேர்ந்தெடுத்து தொடங்கவும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right!"
+msgstr "தகவமைப்பு பேசி"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Smartphone Rookie"
+msgstr "ரூக்கீ திறன்பேசி"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right."
+msgstr "அது சரிதான்."
+
+#: 1-1/demo-tips/ 1-1/key-features/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/ 2-0/demo-tips/
+#: 2-0/key-features/ 1-3/demo-tips/ 1-3/key-features/ 2-1/demo-tips/
+#: 2-1/key-features/
+msgid "Marketplace"
+msgstr "Marketplace"
+
+#: /1-1/ /1-3T/ /1-4/ /2-0/ /1-3/ /2-1/
+msgid "Welcome!"
+msgstr "நல்வரவு!"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Value Seeker"
+msgstr "நல்ல பொருளை தேடுபவரா"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "Do Android apps work on this phone?"
+msgstr "ஆண்ட்ராய்டு பயன்பாடுகள் இந்த செல்பேசியிலும் வேலை செய்யுமா?"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"I love firefox!\""
+msgstr "\"நான் பயர்பாக்ஸை விரும்புகிறேன்!\""
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "You can easily import contacts from Facebook to your Firefox OS phone."
+msgstr ""
+"உங்களின் முகநூல் தொடர்புகளை Firefox OS கைப்பேசியில் எளிதாக இறக்க முடியும்."
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+#: 2-1/demo-tips/
+msgid "Demo Tips"
+msgstr "காட்சிமுறை குறிப்புகள்"
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/
+#: 1-4/take-the-challenge/ 2-0/key-features/ 2-0/take-the-challenge/
+#: 1-3/key-features/ 1-3/take-the-challenge/ 2-1/key-features/
+#: 2-1/take-the-challenge/
+msgid "Camera and Gallery"
+msgstr "படகருவி & படங்கள்"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "What about customer support for apps?"
+msgstr "பயன்பாடுகளுக்கான வாடிக்கையாளர் ஆதரவு பற்றி?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS includes all the same features you’ll find in competitive "
+"smartphones and gives you more value for the money."
+msgstr ""
+"பொதுவாக திறன்பேசிகளில் காணப்படும் அனைத்து வசதிகளும் Firefox OS "
+"கைப்பேசியிலும் இருப்பதோடு உங்கள் பணத்திற்கு கூடுதலான மதிப்பைத் தருகிறது."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I’m looking for the best value for my money."
+msgstr "விலைக்கேற்ற மதிப்பை எதிர்பார்க்கிறேன்."
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/ 2-0/introduction/
+#: 1-3/introduction/ 2-1/introduction/
+msgid "Introduction"
+msgstr "அறிமுகம்"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Firefox Fan"
+msgstr "பயர்பாக்ஸ் இரசிகன்"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "How many and what types of apps will be available?"
+msgstr "எத்தனை வகை செயலிகள் இருக்கும்?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"A customer tells you that he uses Firefox as his desktop browser. With what "
+"selling feature should you lead?"
+msgstr ""
+"இது சரி. பயன்படுத்த சுலபமாக உள்ள Firefox OS திறன்பேசியே வாடிக்கையாளரின் "
+"மிகச்சிறந்த தேர்வு."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS gives you access to popular, big name apps, as well as local "
+"content that means the most to you."
+msgstr ""
+"நீங்கள் முக்கியம் எனக் கருதும் உ ள்ளூர் தகவல்களுடன் பிரபலமான செயலிகளையும் "
+"Firefox OS கைப்பேசி வழங்குகிறது."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "False"
+msgstr "பொய்"
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-4/key-features/ 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid "Firefox browser"
+msgstr "பயர்பாக்ஸ் உலாவி"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily import your friends from Facebook "
+"too."
+msgstr ""
+"தொடங்க Firefox OS ஒரு சுலபமான திறன்பேசி. உங்களுக்கு பிடித்த பயன்பாடுகள் "
+"ஏற்கனவே உள்ளேற்றப்பட்டு வருவதோடு முகநூலிருந்து தொடர்புகளை ஒத்திசைவு செய்ய "
+"முடியும்."
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+#: 2-1/demo-tips/
+msgid "Demonstrations That Matter"
+msgstr "செய்முறை காட்சியே முக்கியம்"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "Where should I go if I have more questions?"
+msgstr "எனக்கு நிறைய கேள்விகள் இருப்பின் நான் எங்கே செல்ல வேண்டும்?"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"See how Firefox OS fits into your customers' lives, no matter who they are "
+"or where they're from."
+msgstr ""
+"உங்கள் வாடிக்கையாளர் யார் எங்கிருக்கிறார்கள் என்பதைவிட அவர்களின் "
+"வாழ்வியலுக்கு Firefox OS எப்படி பொருந்தும் என்பதை பாருங்கள்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Ready to show what you know?"
+msgstr "உங்களுக்கு தெரிந்ததை வெளிப்படுத்த தயாரா?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. All of these customers are ideal candidates for Firefox OS!"
+msgstr ""
+"அது சரிதான். அனைத்து வாடிக்கையாளர்களும் Firefox OS க்கு பொருத்தமானவர்களே!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"A customer tells you that smartphones seem complicated. What selling feature"
+" should you lead with?"
+msgstr ""
+"ஒரு வாடிக்கையாளர் திறன்பேசிகள் சிக்கலானது என உங்களிடம் கூறுகிறார். நீங்கள் "
+"எந்த அம்சத்தை முன்னெடுத்து விற்க முனைவீர்கள்?"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Discover what makes Firefox OS the most unique and exciting mobile operating"
+" system."
+msgstr ""
+"எது Firefox OSஐ மிகவும் தனித்த அற்புதமான கைப்பேசி இயங்குதளமாகக்குகிறது "
+"என்பதைக் கண்டறியுங்கள்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I’ve never used a smartphone before."
+msgstr "நான் திறன்பேசியை இதற்கு முன் பயன்படுத்தியதே இல்லை."
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/key-features/ 1-4/take-the-challenge/
+#: 2-0/key-features/ 2-0/take-the-challenge/ 1-3/key-features/
+#: 1-3/take-the-challenge/ 2-1/key-features/ 2-1/take-the-challenge/
+msgid "Contacts"
+msgstr "தொடர்பு"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Which Firefox OS feature does this icon represent?"
+msgstr "இந்தக் சின்னம் Firefox OS அம்சத்தில் எதைக் குறிக்கிறது?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "You have questions? We have answers!"
+msgstr "உங்களிடம் கேள்வி இருக்கிறதா? எங்களிடம் பதில் இருக்கிறது!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “How do I know this "
+"new phone is safe?”"
+msgstr ""
+"இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்? ”இந்தப் புதிய பேசி "
+"பாதுகாப்பானதா என எனக்கு எப்படி தெரியும்?”"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "How do I download and install apps on Firefox OS?"
+msgstr "நான் Firefox OS இல் எப்படி பயன்பாடுகளை பதிவிறக்கி நிறுவுவது?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "True"
+msgstr "மெய்"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"I have never had a smartphone.\""
+msgstr "\"என்னிடம் ஒரு திறன்பேசி கூட இல்லை.\""
+
+#: /1-1/ /1-3T/ /1-4/ /2-0/ /1-3/ /2-1/
+msgid "Master Firefox OS"
+msgstr "முதன்மை Firefox OS"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"I want a good deal.\""
+msgstr "\"எனக்கு மலிவாக இருக்கனும்.\""
+
+#: 1-1/about/ 1-3T/about/ 1-4/about/ 2-0/about/ 1-3/about/ 2-1/about/
+msgid ""
+"Our mission is to promote openness, innovation and opportunity on the Web."
+msgstr ""
+"இணையத்தில் வெளிப்படைத்தன்மை, புதுமை மற்றும் வாய்ப்பு ஆகியவற்றை "
+"மேம்படுத்துவதே எங்களின் நோக்கம்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Put your new knowledge to the test with this series of fun, interactive "
+"quizzes."
+msgstr ""
+"உங்களின் முழு அறிவாற்றலை பின்வரும் வேடிக்கையான, ஊடாடும் தொடர்  "
+"வினாவிடைகளில் செலுத்துங்கள்."
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "Customer Guide"
+msgstr "வாடிக்கையாளர் வழிமுறை"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right. These statements are all true about Firefox OS."
+msgstr "அது சரிதான். Firefox OS பற்றிய இந்தக் கூற்றுகள் அனைத்தும் மெய்யானதே."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid "Features that count"
+msgstr "முக்கிய அம்சங்கள்"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "Who is your ideal Firefox customer?"
+msgstr "உங்களுடைய Firefox வாடிக்கையாளர் யார்?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "Frequently Asked Questions"
+msgstr "அகேகே"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid "Music and Video"
+msgstr "இசையும் காணொளியும்"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"By now, you probably have questions and so will your customers! Select each "
+"question for more on Firefox OS."
+msgstr ""
+"இப்போது, உங்களுக்கு சில கேள்விகள் கேட்க தோனும் அதேப்போல தான் உங்கள் "
+"வாடிக்கையாளர்களுக்கும் தோனும்! அவர்களுக்கு தேவையான Firefox OS சார்ந்த "
+"கேள்வியை கீழே தேர்ந்தெடுங்க."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS isn’t cluttered with more than you need. It gives you what you’d "
+"expect in a smartphone, with an easy-to-use interface that makes it easy to "
+"get started."
+msgstr ""
+"உங்களுக்கு வேண்டியதை மட்டுமே Firefox OS கொண்டுள்ளது. சுலபமான இடைமுகமும் "
+"நீங்கள் எதிர்பார்த்தது போன்று இருப்பதால் திறன்பேசியை பயன்படுத்தத் "
+"தொடங்கலாம்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
+msgstr ""
+"உண்மையாக. அனைத்து வாடிக்கையாளர்களும் Firefox OS க்கு பொருத்தமானவர்களே!"

@@ -1,0 +1,227 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"All the audio you want on the go, all on one device. Just plug in your "
+"earphones and start listening."
+msgstr ""
+"Minden zene, amit út közben hallgatni szeretne, egy készüléken. "
+"Csatlakoztassa fülhallgatóját, és kezdheti is a zenehallgatást."
+
+#: 1-1/which-version/ 1-3T/which-version/ 1-4/which-version/
+msgid ""
+"<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
+"select <strong>Device information</strong>.</li> <li>On the Device "
+"information screen, look for the version numbers under <em>Software</em>. "
+"<ul> <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
+"</ol>"
+msgstr ""
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "The Adaptive Phone"
+msgstr "Az alkalmazkodó telefon"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Swipe to the left."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following statements about Adaptive App Search are true? Select"
+" all that apply."
+msgstr ""
+"A következő, az adaptív app keresésről szóló állítások közül melyik igaz? "
+"Jelölje be az összes jó választ."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Deeply integrated with your favorite social networks. You can easily import "
+"your Facebook contacts to your phone to keep your community all in one "
+"place."
+msgstr ""
+"Mélyen integrálva kedvenc közösségi hálózataival. Egyszerűen importálhatja "
+"facebookos ismerőseit telefonjára, így közösségét egy helyen tarthatja."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. All of these are true of Adaptive App Search!"
+msgstr "Mi az az adaptív app keresés?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and open Web standards."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "A unique feature included in every Firefox OS smartphone."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With Adaptive App Search, you can use an app once, quickly and easily, "
+"without installing it. If you want to use it again later, it’s easy to add "
+"it to your homescreen."
+msgstr ""
+"Az adaptív app kereséssel egy appot használhat egyszer, gyorsan és "
+"egyszerűen, telepítés nélkül is. Ha később újra szeretné használni, akkor "
+"egyszerűen hozzáadhatja a kezdőoldalához."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Actually, all of these are true except for the statement about “broadest "
+"selection of devices.” This may be true in the future, but it is not "
+"currently true."
+msgstr ""
+
+#: 1-1/about/ 1-3T/about/ 1-4/about/
+msgid "The Firefox Mission"
+msgstr "A Firefox küldetése"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there are"
+" not many apps.”"
+msgstr ""
+"Mi a legjobb válasz a következő vásárlói tiltakozásra: „Úgy hallottam, nincs"
+" sok app.”?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Adaptive App Search."
+msgstr "Mi az az adaptív app keresés?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "Do my apps work offline?"
+msgstr "Az appok működnek offline?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web."
+msgstr ""
+"A Firefox OS robusztus biztonsági modellel rendelkezik, amely a nyílt web "
+"évtizedesnél régebbi támogatásában edződött. Ezt a felhasználók és a "
+"rendszer rosszindulatú alkalmazásoktól és tartalmaktól való megvédésére "
+"tervezték."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. Adaptive App Search anticipates your needs better than any "
+"other phone."
+msgstr ""
+"Az adaptív app kereséssel a Firefox OS jobban alkalmazkodik Önhöz, mint "
+"bármely másik telefon."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.”"
+msgstr ""
+"Mi a legjobb válasz a következő vásárlói tiltakozásra: „Soha nem hallottam a"
+" Firefox OS telefonokról.”?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"When you type a word or subject that interests you using Adaptive App Search"
+" what happens? Select all that apply."
+msgstr ""
+"Mi történik, amikor beír egy szót vagy témát, ami érdekli? Jelölje be az "
+"összes jó választ."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "How do you access the Adaptive App Search feature on Firefox OS?"
+msgstr "Hogyan érhető el az adaptív app keresés funkció a Firefox OS-en?"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Stay connected, with easy access to your friends and colleagues from "
+"wherever you are."
+msgstr ""
+"Maradjon kapcsolatban, egyszerűen elérve ismerőseit és kollégáit, bárhol is "
+"legyen."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. A first time smartphone user will be most interested in ease "
+"of use."
+msgstr "Mi az az adaptív app keresés?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results include photos, video, music, news, maps and more."
+msgstr ""
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "Keep the Web in Your Hands"
+msgstr "Tartsa kezében a webet"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "A phone that makes every moment count"
+msgstr "Egy telefon, amellyel minden pillanatot kihasználhat."
+
+#: 1-1/demo-tips/ 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/
+#: 1-4/take-the-challenge/
+msgid "Adaptive App Search"
+msgstr "Adaptív app keresés"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, all of these are true of Adaptive App Search!"
+msgstr "Mi az az adaptív app keresés?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Works just like Web search on Firefox browsers."
+msgstr ""
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "What is Adaptive App Search?"
+msgstr "Mi az az adaptív app keresés?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results from around the Web are displayed like apps on your phone."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Your background image changes instantly to reveal popular photos from the "
+"Web."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Take the challenge"
+msgstr "Tesztelje tudását!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the broadest selection of devices on the market today."
+msgstr ""
+"A Firefox OS biztosítja ma a legszélesebb készülékválasztékot a piacon."
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/key-features/ 1-4/take-the-challenge/
+msgid "FM Radio"
+msgstr "FM-rádió"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results are instantly usable — you don’t have to download the app first."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results include relevant maps, pictures, music, news, videos, Twitter feeds "
+"and more."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this is true."
+msgstr "A Firefox böngésző megnyitásával."

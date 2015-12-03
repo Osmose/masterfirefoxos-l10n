@@ -1,0 +1,199 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid "Maps"
+msgstr "வரைபடங்கள்"
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid ""
+"Play it all from your phone, or online via Youtube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+"அனைத்தையும் உங்கள் கைப்பேசியிலோ அல்லது இணையம் வாயிலாக Youtube இலோ "
+"இயக்கலாம். உங்கள் இசைக் தொகுப்புகளில் தேடியோ பாடியவர் அல்லது மதிப்பெண் "
+"அடிப்படையிலோ இயக்கலாம், பிடித்த பாடல் பட்டியலையும் உருவாக்கலாம்."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Access to over 20,000 free and paid apps at launch, including some of the "
+"most popular global apps today."
+msgstr ""
+"முதல் வெளியீட்டிலிருந்தே ஒவ்வொரு கைப்பேசியலும் உலகெங்கும் பிரபலமாக "
+"இருக்கும் 20,000 கும் மேற்பட்ட இலவசமான பணும் செலுத்திப்பெறும் செயலிகளை அணுக "
+"வாய்ப்பளிக்கிறது."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this icon represents Contacts."
+msgstr "உண்மையில், இந்தச் சின்னம் தொடர்ப்புகளைச் சுட்டுகிறது."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open the Firefox browser."
+msgstr "பயர்பாக்ஸ் உலாவியைத் திறக்கவும்."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Packed with the features that made you want a smartphone in the first place."
+msgstr ""
+"உங்கள் மனதில் முதிலிடம் பிடித்த  வசதிகளைக் கொண்டு திறன்பேசிகள் "
+"உருவாக்கப்பட்டுள்ளன."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
+"Firefox OS keeps the power of the Web in your hands."
+msgstr ""
+"நீங்கள் Firefox உலாவியை விரும்பினால், உங்களுக்கு Firefox OS கைப்பேசிகளும் "
+"பிடிக்கும். Firefox OS ஐ தேர்வுச்செய்வதன் மூலம் சக்தி வாய்ந்த இணையம் உங்கள் "
+"கைகளில் இருக்கும்."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"The Firefox Marketplace features thousands of apps for free or at very low "
+"prices."
+msgstr ""
+"பயர்பாக்ஸ் Marketplace ஆயிரக்கணக்கில் செயலிகளை இலவசமாகவும் குறைந்த "
+"விலையிலும் கிடைக்க வழிச்செய்கிறது."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open Firefox Marketplace."
+msgstr "பயர்பாக்ஸ் Marketplace ஐத் திறக்கவும்."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Contacts."
+msgstr "அது சரி! இந்தச் சின்னம் தொடர்ப்புகளைச் குறிக்கிறது."
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Consumers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the consumer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Firefox OS க்காக உருவாக்கப்பட்ட செயலிகளின் ஆதரவு பயனர்களுக்கு தேவையெனில் "
+"அந்தப் பயன்பாட்டை உருவாக்கிய உருவாக்குநருக்கு கோரிக்கை அனுப்பப்படும். "
+"ஒருவேளை பயனரின் Firefox OS அனுபவம் அந்தச் செயலியால் சீர்க்குழைகிறது எனில் "
+"உருவாக்குநரிடமிருந்து தகுந்த ஆதரவு கிட்டும் வரையில் பயன்பாட்டை நீக்கச் "
+"சொல்வதே தீர்வாகும்."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "It’s easier than ever to stay connected with Firefox OS."
+msgstr ""
+"Firefox OS உடன் இணைந்திருப்பது தற்போது முன்பை விட மிகவும் சுலபமாக உள்ளது."
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search."
+msgstr ""
+"நேரடியாக இல்லை. எப்படியாகினும், மிகவும் பிரபலமான Android மற்றும் iOS "
+"பயன்பாடுகள் உண்மையில் இணைய பயன்பாடுகளே அவை சொந்தமாக “wrapper” என்பதைப் "
+"பயன்படுத்தி தனியுரிம தளங்களிலும் இயங்குகின்றன. எனவே, அதுப்போன்ற பயன்பாடுகளை"
+" தகவமைப்பு செயலி தேடல் வாயிலாக பெறுங்கள்."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Demonstrate the powerful map features of Firefox OS, including local transit"
+" info."
+msgstr ""
+"Firefox OS இன் சக்தி வாய்ந்த வரைபட அம்சங்களையும் உள்ளூர் போக்குவரத்து "
+"தகவலையும் விளக்குங்கள்."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Every phone has access to over 20,000 free and paid apps at launch, "
+"including some of the most popular global apps today."
+msgstr ""
+"முதல் வெளியீட்டிலிருந்தே ஒவ்வொரு கைப்பேசியிலும் பிரபலமான செயலிகளுடன் "
+"சேர்த்து 20000 கும் மேற்பட்ட செயலிகளை இலவசமாக அணுக வழிவகுக்கிறது."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Show customers how Firefox OS adapts to them, giving them more of what they "
+"need, when they need it."
+msgstr ""
+"வாடிக்கையாளரிடம் Firefox OS எப்படி தகவமைகிறது என்பதைக் காண்பியுங்கள், "
+"அவர்களுக்கு தேவையானதை எதிர்பார்த்தை அப்பொழுதே கூடுதலாகவும் "
+"கிடைக்கச்செய்கிறது."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following apps is pre-loaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"பின்வரும் செயலிகளில் எவை முன்கூட்டியே Firefox OS பேசியில் நிறுவப்பட்டு "
+"இருக்கும்? பொருந்தும் அனைத்தையும் தேர்ந்தெடுங்கள்."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Tens of thousands of Web apps from around the world are searched instantly."
+msgstr "உலகமெங்கும் ஆயிரக்கணக்கான இணைய குறுந்செயலிகள் உடனடியாக தேடப்படுகிறது."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "Firefox Marketplace has the cool games and apps your customers want."
+msgstr ""
+"உங்கள் வாடிக்கையாளர்கள் விரும்பும் விளையாட்டுகளையும் குறுந்செயலிகளையும் "
+"Firefox Marketplace வைத்துள்ளது."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace and dozens of preloaded apps, like email, maps,"
+" Facebook, a camera, music, and more, Firefox OS is packed with the features"
+" you’d expect in a smartphone."
+msgstr ""
+"Firefox Marketplace உடன் டெசன் அளவு செயலிகள் , மின்னஞ்சல், படகருவி, இசை "
+"மேலும் Firefox OS நீங்கள் எதிர்பார்த்ததை விட கூடுதலாக பல அம்சங்களை "
+"உள்ளடக்கிய ஒரு திறன்பேசி ஆகும்."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"New and backed by a global community working to help keep the Web accessible"
+" to all."
+msgstr ""
+"புதுமையாக இருக்கவும் அனைவருக்கும் இணையம் கிடைக்கவும் உலகலாவிய சமூகம் "
+"தொடர்ந்து பக்கபலமாக இருந்து உதவி வருகிறது."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices. Plus, Adaptive App Search feature makes it easy to find the apps "
+"you really need, when you need it."
+msgstr ""
+"Firefox OS உங்களுடைய பணத்திற்கு தகுந்த மதிப்பைத் தருவதோடு, நீங்கள் "
+"எதிர்பார்த்த அனைத்தையும் — படகருவி, மின்னஞ்சல், செயலிகள், இசை மேலும் "
+"கூடுதலாகவும் — குறைந்த விலையிலும் தருகிறது. மெலும், நீங்கள் எதிர்பார்க்கும் "
+"செயலிகளை தக்க சமயத்தில் தகவமைப்பு செயலித் தேடல் வசதி எளிதில் செயலிகளை தேடித்"
+" தருகிறது ."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web. Designed to protect the user and system from "
+"malicious applications and content, it also protects applications from each "
+"other."
+msgstr ""
+"ஒரு வலுவான பாதுகாப்பு மாதிரியுடன் சுமார் 10 ஆண்டுகளுக்கு மேலாக திறந்த "
+"இணையத்தை ஆதரித்து வருவது கடினம் ஆகும். இதன் வடிவமைப்பு பயனர்களையும் "
+"கணினியையும் நச்சு நிரல்களிடமிருந்து பயன்பாடுகளையும் அதன் உள்ளடக்கங்களையும் "
+"பாதுகாப்பதோடு தன்னையும் காப்பாற்றிக்கொள்கிறது."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"With music at their fingertips, your customers will see how Firefox OS keeps"
+" them entertained and dancing in the streets."
+msgstr ""
+"Firefox OS இன் வாடிக்கையாளர்கள் கைகளில் உள்ள இசை அவர்களை தெருவில் குதுகலமாக "
+"ஆட வைப்பதை பார்த்து அவர்களே அசந்துப்போவார்கள்."

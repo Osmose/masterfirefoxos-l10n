@@ -1,0 +1,262 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-12-03 06:41+0000\n"
+"PO-Revision-Date: 2015-12-03 06:41+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr "Γίνετε ειδικοί στο Firefox OS"
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr "Μενού"
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+"Τμήματα αυτού του περιεχομένου αποτελούν πνευματικά δικαιώματα ©1998–{0} "
+"ξεχωριστών ατόμων.  Το περιεχόμενο είναι διαθέσιμο σύμφωνα με την<a "
+"href=\"https://www.mozilla.org/foundation/licensing/website-content/\">άδεια"
+" Creative Commons</a>."
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr "Πηγαίος κώδικας"
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr "Επικοινωνήστε"
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr "Συνεργαστείτε μαζί μας"
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr "Κάντε μια δωρεά"
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr "Πολιτική Απορρήτου"
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr "Νομικές Σημειώσεις"
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr "Αναφορά παραβίασης εμπορικών σημάτων"
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr "Ο Mozilla στο Twitter"
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr "Ο Firefox στο Twitter"
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr "Ο Mozilla στο Facebook"
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr "Ο Firefox στο Facebook"
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr "Μάθετε περισσότερα"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr "Αρχική"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr "Σχετικά"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr "Έκδοση Firefox OS"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Which version do I have?"
+msgstr "Ποια έκδοση έχω;"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:25
+msgid "Change"
+msgstr "Αλλαγή"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+"Η τεκμηρίωση για το Firefox OS {version} δεν είναι ακόμα διαθέσιμη στα "
+"{language}, γιαυτό σας παραπέμπουμε στην Αγγλική έκδοση."
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:41
+msgid "The latest version available in {language} is {version}."
+msgstr "Η τελευταία έκδοση που διατίθεται στα {language} είναι η {version}."
+
+#: masterfirefoxos/settings/base.py:206
+msgid "Afrikaans"
+msgstr "Αφρικάανς"
+
+#: masterfirefoxos/settings/base.py:207
+msgid "Arabic"
+msgstr "Αραβικά"
+
+#: masterfirefoxos/settings/base.py:208
+msgid "Bengali (Bangladesh)"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:209
+msgid "Bengali (India)"
+msgstr "Μπενγκάλι"
+
+#: masterfirefoxos/settings/base.py:210
+msgid "Croatian"
+msgstr "Κροατικά"
+
+#: masterfirefoxos/settings/base.py:211
+msgid "Czech"
+msgstr "Τσέχικα"
+
+#: masterfirefoxos/settings/base.py:212
+msgid "Ewe"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:213
+msgid "English"
+msgstr "Αγγλικά"
+
+#: masterfirefoxos/settings/base.py:214
+msgid "German"
+msgstr "Γερμανικά"
+
+#: masterfirefoxos/settings/base.py:215
+msgid "Greek"
+msgstr "Ελληνικά"
+
+#: masterfirefoxos/settings/base.py:216
+msgid "Fulah"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:217
+msgid "French"
+msgstr "Γαλλικά"
+
+#: masterfirefoxos/settings/base.py:218
+msgid "Hausa"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:219
+msgid "Hindi"
+msgstr "Χίντι"
+
+#: masterfirefoxos/settings/base.py:220
+msgid "Hungarian"
+msgstr "Ουγγρικά"
+
+#: masterfirefoxos/settings/base.py:221
+msgid "Igbo"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:222
+msgid "Italian"
+msgstr "Ιταλικά"
+
+#: masterfirefoxos/settings/base.py:223
+msgid "Japanese"
+msgstr "Ιαπωνικά"
+
+#: masterfirefoxos/settings/base.py:224
+msgid "Lingala"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:225
+msgid "Polish"
+msgstr "Πολωνικά"
+
+#: masterfirefoxos/settings/base.py:226
+msgid "Portuguese"
+msgstr "Πορτογαλικά"
+
+#: masterfirefoxos/settings/base.py:227
+msgid "Romanian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:228
+msgid "Russian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:229
+msgid "Serbian"
+msgstr "Σέρβικα"
+
+#: masterfirefoxos/settings/base.py:230
+msgid "Kiswahili"
+msgstr "Σουαχίλι"
+
+#: masterfirefoxos/settings/base.py:231
+msgid "Spanish"
+msgstr "Ισπανικά"
+
+#: masterfirefoxos/settings/base.py:232
+msgid "Tamil"
+msgstr "Ταμίλ"
+
+#: masterfirefoxos/settings/base.py:233
+msgid "Wolof"
+msgstr "Γουόλοφ"
+
+#: masterfirefoxos/settings/base.py:234
+msgid "Xhosa"
+msgstr "Ξόσα"
+
+#: masterfirefoxos/settings/base.py:235
+msgid "Pirate"
+msgstr "Πειρατικά"
+
+#: masterfirefoxos/settings/base.py:236
+msgid "Yoruba"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:237
+msgid "Zulu"
+msgstr "Ζουλού"
+
+#: masterfirefoxos/settings/base.py:238
+msgid "Azams"
+msgstr ""

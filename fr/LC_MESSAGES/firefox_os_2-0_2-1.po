@@ -1,0 +1,84 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Location tracking helps you find your device if you lose it. Remote wipe and"
+" lock capabilities help you keep your personal information safe."
+msgstr ""
+"La géolocalisation vous aide à trouver votre appareil si vous le perdez. "
+"Pouvoir effacer et verrouiller à distance vous aide à garder vos "
+"renseignements personnels en toute sécurité."
+
+#: 2-0/introduction/ 2-1/introduction/
+msgid ""
+"Use your phone in your language, control your data usage and personalize it "
+"by creating your own ringtones. You can also download locally-relevant apps "
+"that enrich and simplify your daily life. Firefox OS is truly a phone made "
+"with you in mind."
+msgstr ""
+"Utilisez votre téléphone dans votre langue, contrôlez votre consommation de "
+"données et personnalisez-le en créant vos propres sonneries. Vous pouvez "
+"également télécharger des applications locales pertinentes qui enrichissent "
+"et simplifient votre vie quotidienne. Un téléphone Firefox OS est vraiment "
+"conçu en pensant à vous.                "
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely wipe the device."
+msgstr "Effacer à distance les données de votre appareil."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace, the best preloaded apps and an awesome user "
+"experience, Firefox OS is packed with the features that users are looking "
+"for in a smartphone."
+msgstr ""
+"Grâce au Firefox Marketplace, aux meilleures applications préinstallées et à"
+" une facilité d'utilisation remarquable, Firefox OS dispose des "
+"fonctionnalités qu'un utilisateur attend d'un smartphone."
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Ringtones"
+msgstr "Sonneries"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely lock the device."
+msgstr "Verrouiller votre appareil à distance."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Create your own ringtones"
+msgstr "Créer des sonneries personnalisées"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Find My Device"
+msgstr "Localiser mon appareil"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Since it’s made by Firefox, Firefox OS is backed by a global community "
+"working on your behalf and with your interests in mind."
+msgstr ""
+"Firefox OS étant lié à Firefox, il est soutenu par une communauté mondiale "
+"qui contribue en votre nom en gardant toujours vos intérêts à l'esprit."
+
+#: 2-0/demo-tips/ 2-1/demo-tips/
+msgid "Rich media experience"
+msgstr "Une expérience média riche"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Customize your Firefox OS phone by creating new ringtones from your music "
+"collection or from songs you download from the Web."
+msgstr ""
+"Personnalisez votre téléphone Firefox OS en créant de nouvelles sonneries à "
+"partir de votre collection de musiques ou des chansons que vous téléchargez "
+"à partir du Web."

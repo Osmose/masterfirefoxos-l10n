@@ -1,0 +1,51 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid "Click on the home button."
+msgstr "Klikněte na tlačítko domovské stránky."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"To není ono. Tři z uvedených jsou správně. Zatímco adaptivní vyhledávání "
+"aplikací odpovídá lépe vašim aktuálním potřebám než u jiného telefonu, "
+"nefunguje stejné jako vyhledávání na webu v prohlížeči Firefox."
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid "Have It All"
+msgstr "Získejte vše"
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid ""
+"Firefox OS adapts to the needs of customers better than any other phone by "
+"anticipating their needs and instantly delivering the information they want."
+" With Adaptive App Search your customers will get more of what they’re "
+"looking for, exactly when they need it."
+msgstr ""
+"Firefox OS se umí přizpůsobit potřebám zákazníkům lépe než jiné telefony a "
+"poskytuje jim informace, které chtějí. S funkcí Adaptivního vyhledávání "
+"aplikací vaši zákazníci získají více, než hledají, přesně tehdy, když to "
+"potřebují."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s quite not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"To není úplně ono. Tři z uvedených jsou správně. Zatímco adaptivní "
+"vyhledávání aplikací odpovídá lépe vašim aktuálním potřebám než u jiného "
+"telefonu, nefunguje stejné jako vyhledávání na webu v prohlížeči Firefox."

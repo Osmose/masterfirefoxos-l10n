@@ -1,0 +1,25 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-3T/take-the-challenge/ 2-1/key-features/
+msgid "Usage"
+msgstr "Uso"
+
+#: 1-3T/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music and more — at the most competitive "
+"prices."
+msgstr ""
+"Firefox OS te ofrece más valor por tu dinero, con todo lo que cabe esperar "
+"de un teléfono inteligente —cámara, correo electrónico, apps, música, y "
+"mucho más— a los precios más competitivos."

@@ -1,0 +1,79 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ee\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Location tracking helps you find your device if you lose it. Remote wipe and"
+" lock capabilities help you keep your personal information safe."
+msgstr ""
+"Teƒee tracking akpe ɖe ŋuwo ne wo mɔ bu. Nu tutu alo mɔ tutu tso adzɔge nana"
+" be wo nyawo le dedie."
+
+#: 2-0/introduction/ 2-1/introduction/
+msgid ""
+"Use your phone in your language, control your data usage and personalize it "
+"by creating your own ringtones. You can also download locally-relevant apps "
+"that enrich and simplify your daily life. Firefox OS is truly a phone made "
+"with you in mind."
+msgstr ""
+"Za wo kaƒomɔ le wo gbe me, aza wo data ɖe wo didi nu eye awɔe ɖokuitɔe tso "
+"wo ŋutɔ ƒe ringtonewo wɔwɔ me. Agateŋu download locally-relevant appwo si "
+"ado wo gbesiagbe ƒe agbenɔnɔ ɖe dzi eye agawɔe bɔbɔe. Firefox OS nye kaƒomɔ "
+"si wowɔ kple wo le susu me."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely wipe the device."
+msgstr "Etutuna nu le mɔ dzi tso didiƒe."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace, the best preloaded apps and an awesome user "
+"experience, Firefox OS is packed with the features that users are looking "
+"for in a smartphone."
+msgstr ""
+"Firefox ƒe Marketplace nye teƒe si app nyuietɔwo le si na na ezala dzidzeme."
+" Firefox OS sɔgbe fuu kple dzedzeme siwo dim wo le le smartphone me."
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Ringtones"
+msgstr "Ringtonewo"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely lock the device."
+msgstr "Etuna mɔ tso didiƒe."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Create your own ringtones"
+msgstr "Wɔ woŋutɔ ƒe ringtonewo"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Find My Device"
+msgstr "Dzi Nye Kaƒomɔ"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Since it’s made by Firefox, Firefox OS is backed by a global community "
+"working on your behalf and with your interests in mind."
+msgstr ""
+"Esime Firefox tui la, Firefox xɔa megbedede tso xexeame godoo ƒe community "
+"si le dɔwɔm ɖe tawo kpakple woƒe didi veviwo le ta me."
+
+#: 2-0/demo-tips/ 2-1/demo-tips/
+msgid "Rich media experience"
+msgstr "Media ƒe numetoto detotɔ"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Customize your Firefox OS phone by creating new ringtones from your music "
+"collection or from songs you download from the Web."
+msgstr ""
+"Customize wo Firefox OS phone to ringtone yeyewo wɔwɔ me tso ha siwo neƒoƒu "
+"me loo alo esiwo ne download tso Web."

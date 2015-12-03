@@ -1,0 +1,81 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ig\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Location tracking helps you find your device if you lose it. Remote wipe and"
+" lock capabilities help you keep your personal information safe."
+msgstr ""
+"Nsochi ọnọdụ na enyere gị aka ịchọta ngwaọrụ gị ma ọ bụrụ na i tufuo ya. Ike"
+" nhicha na mkpọchi si n'ebe tere aka na enyere gị aka ikpuchido ozi nkeonwe "
+"gị."
+
+#: 2-0/introduction/ 2-1/introduction/
+msgid ""
+"Use your phone in your language, control your data usage and personalize it "
+"by creating your own ringtones. You can also download locally-relevant apps "
+"that enrich and simplify your daily life. Firefox OS is truly a phone made "
+"with you in mind."
+msgstr ""
+"Jiri ekwentị gị n'asụsụ gị, jikwaa ojiji data gị ma hazie ya site na ịmepụta"
+" ụda ọkụkụ nke gị. Ị nwekwara ike ibudata ngwa dị mkpa na mpaghara na "
+"ebuwanye ma mee ndụ gị ka ọ dị mfe. Firefox OS n'ezie bụ ekwentị ebu gị "
+"n'uche wee mee."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely wipe the device."
+msgstr "Si ebe tere aka hichaa ngwaọrụ ahụ."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace, the best preloaded apps and an awesome user "
+"experience, Firefox OS is packed with the features that users are looking "
+"for in a smartphone."
+msgstr ""
+"Iji Ọdụ Ahịa Firefox, ngwa ndị arụnyere n'oge nrụpụta kachasị mma yana "
+"ahụmịhe onye ọrụ mara oke mma, ekpojuru Firefox OS atụmatụ ndị ọrụ na achọ "
+"n'ekwentị amamịghe."
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Ringtones"
+msgstr "Ụda ọkụkụ"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely lock the device."
+msgstr "Si ebe tere aka kpọchie ngwaọrụ ahụ."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Create your own ringtones"
+msgstr "Mepụta ụda ọkụkụ nke gị"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Find My Device"
+msgstr "Chọta Ngwaọrụ M"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Since it’s made by Firefox, Firefox OS is backed by a global community "
+"working on your behalf and with your interests in mind."
+msgstr ""
+"Ebe ọ bụ Firefox mere ya, Firefox OS nwere nkwado nke ogbe gburugburu ụwa na"
+" arụ ọrụ na nnọchite gị, bu mmasị gị n'uche."
+
+#: 2-0/demo-tips/ 2-1/demo-tips/
+msgid "Rich media experience"
+msgstr "Ahụmịhe mgbasa ozi bara ụba"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Customize your Firefox OS phone by creating new ringtones from your music "
+"collection or from songs you download from the Web."
+msgstr ""
+"Hazie ekwentị Firefox OS gị otu ịchọrọ site na ịmepụta ụda ọkụkụ ọhụrụ site "
+"na mkpokọta egwu gị ma ọ bụ site na egwu ndị i budatara site na Weebụ."

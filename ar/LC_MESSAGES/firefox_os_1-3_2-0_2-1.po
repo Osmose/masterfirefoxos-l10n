@@ -1,0 +1,465 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. A first-time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+"هذا صحيح. يمكن لمستخدمي الهاتف الذكي لأول مرة يكون الأكثر اهتماما في سهولة "
+"الاستخدام."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What are some examples of the kind of personalization and control that "
+"Firefox OS allows?  Select all that apply."
+msgstr ""
+"ما هي بعض الأمثلة على هذا النوع من التخصيص والتحكم التي يسمح بها نظام "
+"التشغيل فيرفكس؟ اختر كل ما ينطبق."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is made with you and your needs in mind, so it is extremely easy "
+"to use and allows for greater control, personalization and customization "
+"than many other smartphones on the market."
+msgstr ""
+"نظام التشغيل فيرفكس مصنوع لكم واحتياجاتكم في الاعتبار، لذلك استخدامه سهل "
+"للغاية ويسمح لقدر أكبر من السيطرة والتخصيص أكثر من العديد من الهواتف الذكية "
+"الأخرى في السوق."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "An excellent user experience"
+msgstr "تجربة مستخدم ممتازة"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "A phone for everyone"
+msgstr "هاتف للجميع"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid "Social and contact sync"
+msgstr "التزامن الاجتماعي و لجهات الاتصال"
+
+#: 2-0/about/ 1-3/about/ 2-1/about/
+msgid "The Mozilla Mission"
+msgstr "مهمة موزيلا"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, this icon represents the Firefox Browser."
+msgstr "في الواقع, هذه الأيقونة تمثل متصفح فيرفكس."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, show a commitment to keeping the power "
+"of the Web in the hands of the people. And while all of these statements are"
+" true, only this one is the best response for this particular customer."
+msgstr ""
+"هذا صحيح. يبدو أن هذا العميل من المعجبين بفيرفكس. قم بالحديث عن كيفية صنع "
+"نظام التشغيل فيرفكس التي قام بها موزيلاا، وأظهر الالتزام بإبقاء قوة الويب في"
+" أيدي الناس. وعلى الرغم من كل هذه التصريحات صحيحة،هذه الاستجابة فقط هي "
+"الأفضل لهذا العميل."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share contacts"
+msgstr "شارك جهات الاتصال "
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you’ve worked through all of the questions and content, you’re ready to "
+"match Firefox OS to the needs of your customers.  Easy to use, a Firefox OS "
+"smartphone is perfect for new smartphone users and full of all the features "
+"that customers want and need.  And it’s powered by Mozilla, making Firefox "
+"OS the right choice for anyone committed to ensuring that the power of the "
+"Web remains in their hands!"
+msgstr ""
+"إذا كنت قد مررت على جميع الأسئلة والمحتوى، فأنت على استعداد لمطابقة نظام "
+"التشغيل فيرفكس مع احتياجات الزبائن. سهل الاستخدام، والهاتف الذكي بنظام "
+"التشغيل فيرفكس مثالي لمستخدمي الهاتف الذكي لأول مرة و مليء بجميع الميزات "
+"التي يريدها و يحتاجها العملاء . مدعوم من قبل موزيلا، مما يجعل نظام التشغيل "
+"فيرفكس الاختيار الصحيح لأي ملتزم بضمان أن قوة الإنترنت لا تزال في أيديهم!"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there "
+"aren’t many apps available.”"
+msgstr ""
+"ما هو أفضل رد على اعتراض هذا العميل؟ \"لقد سمعت أنه لا يوجد العديد من "
+"التطبيقات المتاحة\"."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and adapts to your needs"
+" better than any other phone. That means you get more of what you need with "
+"less time spent searching. Plus, it’s packed with all the features you’d "
+"expect — camera, email, apps, music, maps and more!"
+msgstr ""
+"<strong>إليك ما يمكنك قوله:</strong>نظام التشغيل فيرفكس هو الخيار الأفضل "
+"لمستخدمي الهاتف الذكي للمرة الأولى. انه سهل الاستعمال ويتكيف مع الاحتياجات "
+"الخاصة بك أفضل من أي هاتف آخر. هذا يعني أنك تحصل على أكثر من ما تحتاج إليه "
+"مع أقل وقت تنفقه في البحث. بالاضافة الى ذلك، انه مكتظ بجميع الميزات التي "
+"تتوقعها - الكاميرا، والبريد الإلكتروني، والتطبيقات، والموسيقى والخرائط "
+"وغيرها!"
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below to learn how to best respond to each of their unique needs."
+msgstr ""
+"فهم احتياجات عملائك ومعرفة كيفية الرد على الفور أمر بالغ الأهمية لأي فرصة "
+"بيع. تحقق من شرائح العملاء الشائعة أدناه لمعرفة كيفية الرد الأفضل على كل من "
+"احتياجاتهم الفريدة."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"انهم جدد ومدعومون من قبل المجتمع الدولي للعمل على المساعدة في الحفاظ على "
+"الويب في متناول الجميع."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.\""
+msgstr ""
+"ما هو أفضل رد على اعتراض هذا العميل؟ \"لم اسمع ابداً عن هواتف نظام تشغيل "
+"فيرفكس \"."
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Will my apps work offline?"
+msgstr "هل تطبيقي يعمل و أنا غير متصل ؟"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Stay connected easily and conveniently. Set up multiple email accounts, with"
+" support for the most common Exchange, POP3 or IMAP email providers."
+msgstr ""
+"ابق على اتصال بكل بسهولة و راحة. قم بإعداد حسابات بريد الكتروني متعددة، مع "
+"دعم للتبادل الأكثر شيوعاً ،POP3  أو IMAP  مقدمي خدمات الإيميل."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Life is complicated, your smartphone shouldn’t be. Firefox OS is designed "
+"for better performance, easier customization and simpler navigation. "
+"Everything your customer needs or wants is either one scroll or swipe away."
+msgstr ""
+"الحياة معقدة، هاتفك الذكي لا ينبغي أن يكون كذلك. تم تصميم نظام التشغيل "
+"فيرفكس لأداء أفضل ، وتخصيص أسهل وملاحة أبسط . كل شيء يحتاجه أو يريده العميل "
+"الخاص بك يبعد عنه إما انتقالاً واحداً أو تمريراً."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these are true about Firefox OS."
+msgstr "في الواقع, كل هذا صحيح بخصوص نظام تشغيل فيرفكس."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is backed by a global community of developers and content "
+"providers dedicated to creating new and exciting content and even locally-"
+"relevant apps for the Firefox OS platform. New apps and content are added "
+"every day."
+msgstr ""
+"نظام تشغيل فيرفكس تم بناؤه من قبل مجموعة من مطوري المجتمع الخاص بموزيلا "
+"ومزودي المحتوى الذين وهبوا أنفسهم لإنشاء محتوى جديد و ممتع وحتى تطبيقات "
+"مرتبطة محلياً للبنية الأساسية لنظام تشغيل فيرفكس. تطبيقات ومحتويات جديدة يتم"
+" إضافتها كل يوم."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things are possible with a Firefox OS phone."
+msgstr "هذا صحيح! كل هذا محتمل مع نظام تشغيل فيرفكس. "
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Exchange, POP3 and IMAP are currently supported."
+msgstr "تحويل, POP3 و IMAP مدعومين بالفعل."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "There are more. Try again."
+msgstr "هنالك المزيد. حاول مره أخرى."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping power of the the Web in their hands."
+msgstr ""
+"في الواقع، عندما تقابل أحداً من محبي فيرفكس، تحدث عن أن نظام التشغيل اختيار "
+"فيرفكس يظهر الالتزام بالحفاظ على قوة الشبكة في أيديهم."
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"Firefox OS comes preloaded with popular instant messaging and social media "
+"apps, like Facebook, so your customers will be able to stay connected with "
+"friends and family. They can also sync their contacts to the phone, quickly "
+"and easily."
+msgstr ""
+"نظام التشغيل فيرفكس يأتي مسبقاً مع الرسائل الفورية الشهيرة وتطبيقات وسائل "
+"الإعلام الاجتماعية، مثل فيسبوك، بحيث يمكن لعملائك أن يبقوا على اتصال مع "
+"الأصدقاء والعائلة. يمكنهم أيضا مزامنة جهات الاتصال على الهاتف، بسرعة وسهولة."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share images"
+msgstr "شارك الصور"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Your go-to source for the best apps on Firefox OS. Browse multiple "
+"categories, including games, utilities, music, travel, sports and more."
+msgstr ""
+"انت تتوجه الى مصدر أفضل البرامج لنظام تشغيل فيرفكس. تصفح فئات متعدده, منها "
+"الألعاب, خدمات, موسيقى, رحلات, رياضة و غيرها."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Firefox Browser."
+msgstr "هذا صحيح. هذه الأيقونة تمثل متصفح فيرفكس."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Keep the Web in your hands"
+msgstr "أبق الويب في يديك"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Firefox Marketplace is our go-to source for free apps, including favorites "
+"like Twitter and Facebook, and for awesome local content from the best Web "
+"developers in your region."
+msgstr ""
+"سوق فيرفكس مصدرنا للتطبيقات المجانية, و يتضمن المفضلات مثل تويتر و فيسبوك و "
+"المحتوى الرائع من أفضل المطورين في منطقتك."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re packed with the features that made you want a smartphone in the "
+"first place."
+msgstr "تم بناؤهه بمواصفات تجعلك تريد هاتف ذكي في المقام الأول."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps already built for the Web."
+msgstr ""
+"موزيلا, المنتج لفيرفكس, صنعت نظام تشغيل للهواتف لجعل الويب سهل الوصول من قبل"
+" الجميع. ولأن نظام تشغيل فيرفكس مبني باستخدام HTML5, يمكنك الوصول لآلاف "
+"التطبيقات المبنية للويب."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Set your phone to your language"
+msgstr "خصص هاتفك بلغتك"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Users can place bookmarks to any website on their home screen to provide the"
+" functionality of that site directly from there. Also, users can simply "
+"enter any search term on the home screen and instantly create a one-time use"
+" or downloadable app. Creating and consuming these apps on demand puts users"
+" in complete control of their smartphone experience and makes it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+"يمكن للمستخدمين وضع الإشارات على أي موقع على الشاشة الرئيسية لتوفير وظائف "
+"لذلك الموقع مباشرة من هناك. أيضا، يمكن للمستخدمين ببساطة إدخال أي مصطلح "
+"البحث على الشاشة الرئيسية وعلى الفور إنشاء الاستعمال لمرة واحدة أو تحميل "
+"التطبيق. إنشاء و استهلاك هذه التطبيقات على الطلب يضع المستخدمين في السيطرة "
+"الكاملة على تجربة الهاتف الذكي، ويجعل من الممكن للناس للحصول على المحتوى "
+"الدقيق الذي يريدون، و وقتما يريدون."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily pair your device with a wide range of Bluetooth accessories. Share "
+"contacts, images, videos or your favorite URLs with friends."
+msgstr ""
+"قم بإقران الجهاز بسهولة مع مجموعة واسعة من ملحقات البلوتوث. قم بمشاركة جهات "
+"الاتصال والصور وأشرطة الفيديو أو عناوين المواقع المفضلة لديك مع الأصدقاء."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> If you know and love Firefox, "
+"you’ll love Firefox OS.  Firefox OS smartphones are entirely HTML5-based, "
+"bringing the best of the Web to your phone.  Plus, Firefox OS is designed by"
+" a community dedicated to keeping the Web accessible to all. When you choose"
+" Firefox OS, you have the full power of the Web in your hands."
+msgstr ""
+"<strong>إليك مما يمكنك قوله: إذا كنت تعرف وتحب فيرفكس، ستحب نظام التشغيل "
+"فيرفكس . تستند هواتف  نظام التشغيل فيرفكس الذكية على HTML5 بالكامل ، وبذلك "
+"يصبح أفضل من الويب على هاتفك. بالإضافة إلى ذلك، تم تصميم نظام التشغيل فيرفكس"
+" من قبل مجتمع مكرس للحفاظ على الويب في متناول الجميع. عندما تختار نظام "
+"التشغيل فيرفكس  ، لديك قدرة كاملة على الويب في متناول يديك."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"All of these statements are true, but only one is the best response for this"
+" particular customer, who seems to be a Firefox fan. Talk about how Firefox "
+"OS phones, made by Mozilla, help keep the power of the Web in the hands of "
+"the people."
+msgstr ""
+"كل هذه التصريحات صحيحة، ولكن عناك الاستجابة واحدة فقط هي الأفضل لهذا العميل."
+" الذس يبدو أنه من المعجبين بفيرفكس. قم بالحديث عن كيفية صنع نظام التشغيل "
+"فيرفكس التي قام بها موزيلا، وأظهر الالتزام بإبقاء قوة الويب في أيدي الناس. "
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
+msgstr ""
+"نظام التشغيل فيرفكس مبني كلياً باستخدام HTML5 ومعايير الويب المفتوح."
+"                "
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Take the Challenge"
+msgstr "اقبل التحدي"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
+"OS shows a commitment to keeping the power of the Web in their hands."
+msgstr ""
+"هذا صحيح. عندما تقابل أحداً من محبي فيرفكس، تحدث عن أن اختيار نظام التشغيل "
+"فيرفكس يظهر الالتزام بإبقاء قوة الشبكة في أيديهم."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share videos"
+msgstr "شارك الفيديو"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit.   Firefox OS "
+"smartphones are backed by a global community of developers working to "
+"innovate and further Web technologies.    When you choose Firefox OS, you’re"
+" helping build a brighter future for the Web for all."
+msgstr ""
+"في موزيلا، نحن هنا لإحداث فرق، وليس للربح. الهواتف الذكية لنظام التشغيل "
+"فيرفكس مدعومة من قبل مجتمع عالمي من المطورين الذين يعملون على الابتكار ومزيد"
+" من تقنيات الويب. عندما تختار نظام التشغيل فيرفكس ، فإنك تساعد في بناء "
+"مستقبل أكثر إشراقاً للويب للجميع."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s packed with the features that made you want a smartphone in the first "
+"place."
+msgstr "تم بناؤهه بمواصفات تجعلك تريد هاتف ذكي في المقام الأول."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"انها جديدة و مدعومة من قبل المجتمع الدولي للعمل على المساعدة في الحفاظ على "
+"الويب في متناول الجميع."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things can be shared via Bluetooth with your "
+"Firefox OS phone."
+msgstr ""
+"هذا صحيح! كل هذا من الممكن نشره باستخدام البلوتوث على أجهزة نظام تشغيل "
+"فيرفكس."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Apps developers are slowly realizing the benefit of HTML5 in support of the "
+"Open Web."
+msgstr "تطبيقات المطورين يدركون ببطء فائدة HTML5 لدعم فتح الويب المفتوح."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily import your Facebook friends to your phone and keep your community "
+"all in one place thanks to deep integration with your favorite social "
+"networks."
+msgstr ""
+"قم باستيراد أصدقاء الفيسبوك على الهاتف الخاص بك وحافظ على مجتمعك في مكان "
+"واحد وذلك بفضل التكامل العميق مع الشبكات الاجتماعية المفضلة لديك."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Your customers want to get the most out of life, so why should they get any "
+"less from their mobile device?  Firefox OS devices are perfect for new "
+"smartphone users — easy to use and full of all the features that they "
+"expect. And because Firefox OS devices are powered by Mozilla, they’re the "
+"perfect choice for anyone committed to keeping the Web open for all."
+msgstr ""
+"زبائنك ترغب في الحصول على أقصى استفادة من الحياة، فلماذا إذاً يحصلون على أقل"
+" من أجهزتهم النقالة؟ أجهزة نظام التشغيل فيرفكس مثالية لمستخدمي الهاتف الذكي "
+"الجديد - سهل الاستخدام وكامل من جميع الميزات التي يتوقعونها. ولأن أجهزة نظام"
+" التشغيل فيرفكس مدعومة من قبل موزيلا، فهم الخيار الأمثل لأي ملتزم في إبقاء "
+"الويب مفتوح للجميع."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Play it all from your phone, or online via YouTube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+"تحكم بكل ذلك عن طريق الهاتف الخاص بك، أو عبر الإنترنت من خلال موقع يوتيوب. "
+"تصفح و شغل مجموعتك الموسيقية عن طريق الألبوم أو الفنان، قيم الأغنية و أنشئ "
+"قوائم التشغيل المفضلة لديك."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone to get you started.  The user interface is so intuitive, you’ll "
+"be able to quickly discover and download your favorite apps and be ready to "
+"go in no time."
+msgstr ""
+"<strong>إليك ما يمكنك قوله:</strong>نظام التشغيل فيرفكس هو أسهل هاتف ذكي "
+"تبدأ معه. واجهة المستخدم بديهية جداً، ستكون قادراً على اكتشاف و تحميل "
+"التطبيقات المفضلة لديك بسرعة و على استعداد للذهاب في أي وقت من الأوقات."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid "Bluetooth"
+msgstr "بلوتوث"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"With Camera, Gallery, Music apps and more, Firefox OS will keep your "
+"customers entertained on the go and connected to the things that matter most"
+" to them.  <br><br>Camera: Photograph, edit and share. Show off our full-"
+"featured camera and gallery apps, including built-in style filters, video "
+"and more.  <br><br>Music: With music at their fingertips, your customers "
+"will see how Firefox OS keeps them entertained and dancing in the streets."
+msgstr ""
+"مع الكاميرا، المعرض، وتطبيقات الموسيقى وأكثر من ذلك، نظام التشغيل فيرفكس "
+"سيحافظ على زبائن مرفهة ومتصلة بالأشياء الأكثر أهمية بالنسبة إليهم.  "
+"<br><br>الكاميرا: التصوير والتحرير والمشاركة.تباهى بمواصفات الكاميرا ومعرض "
+"التطبيقات، بما في ذلك الفلاتر المضمنة والفيديو وأكثر من ذلك. <br><br> "
+"الموسيقى: مع الموسيقى التي في متناول أيديهم، زبائنك سوف ترى كيف يجعلهم نظام "
+"التشغيل فيرفكس مرفهين ويرقصون في الشوارع."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Made with you in mind"
+msgstr "تم تقديمه لك أنت بشكل أساسي"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It features a robust security model that is battle-hardened from more than a"
+" decade supporting the Open Web. Designed to protect the user and system "
+"from malicious applications and content, it also protects applications from "
+"each other."
+msgstr ""
+"ويتميز بنظام أمان القوي منذ أكثر من عقد لدعم الويب المفتوح. صمم لحماية "
+"المستخدم والنظام من التطبيقات والمحتويات الخبيثة, وهي تقوم أيضاً بحماية "
+"التطبيقات من بعضها البعض."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Control your data usage"
+msgstr "تحكم باستهلاك بياناتك"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
+"power of the Web in your hands."
+msgstr ""
+"إذا كنت تحب فيرفكس، ستحب نظام التشغيل فيرفكس . اختيار نظام التشغيل فيرفكس "
+"يبقي قوة الويب تحت يديك."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these things are possible with a Firefox OS phone."
+msgstr "في الواقع, كل هذا محتمل مع نظام تشغيل فيرفكس."

@@ -1,0 +1,261 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-12-03 06:41+0000\n"
+"PO-Revision-Date: 2015-12-03 06:41+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr "Master Firefox OS"
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr "Submit"
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr "Menu"
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr "Source code"
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr "Partner with Us"
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr "Donate"
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr "Legal Notices"
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr "Report Trademark Abuse"
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr "Mozilla on Twitter"
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr "Firefox on Twitter"
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr "Mozilla on Facebook"
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr "Firefox on Facebook"
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr "Learn more"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr "Home"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr "About"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr "Language"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr "Firefox OS version"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Which version do I have?"
+msgstr "Which version do I have?"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:25
+msgid "Change"
+msgstr "Change"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:41
+msgid "The latest version available in {language} is {version}."
+msgstr "The latest version available in {language} is {version}."
+
+#: masterfirefoxos/settings/base.py:206
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: masterfirefoxos/settings/base.py:207
+msgid "Arabic"
+msgstr "Arabic"
+
+#: masterfirefoxos/settings/base.py:208
+msgid "Bengali (Bangladesh)"
+msgstr "Bengali (Bangladesh)"
+
+#: masterfirefoxos/settings/base.py:209
+msgid "Bengali (India)"
+msgstr "Bengali (India)"
+
+#: masterfirefoxos/settings/base.py:210
+msgid "Croatian"
+msgstr "Croatian"
+
+#: masterfirefoxos/settings/base.py:211
+msgid "Czech"
+msgstr "Czech"
+
+#: masterfirefoxos/settings/base.py:212
+msgid "Ewe"
+msgstr "Ewe"
+
+#: masterfirefoxos/settings/base.py:213
+msgid "English"
+msgstr "English"
+
+#: masterfirefoxos/settings/base.py:214
+msgid "German"
+msgstr "German"
+
+#: masterfirefoxos/settings/base.py:215
+msgid "Greek"
+msgstr "Greek"
+
+#: masterfirefoxos/settings/base.py:216
+msgid "Fulah"
+msgstr "Fulah"
+
+#: masterfirefoxos/settings/base.py:217
+msgid "French"
+msgstr "French"
+
+#: masterfirefoxos/settings/base.py:218
+msgid "Hausa"
+msgstr "Hausa"
+
+#: masterfirefoxos/settings/base.py:219
+msgid "Hindi"
+msgstr "Hindi"
+
+#: masterfirefoxos/settings/base.py:220
+msgid "Hungarian"
+msgstr "Hungarian"
+
+#: masterfirefoxos/settings/base.py:221
+msgid "Igbo"
+msgstr "Igbo"
+
+#: masterfirefoxos/settings/base.py:222
+msgid "Italian"
+msgstr "Italian"
+
+#: masterfirefoxos/settings/base.py:223
+msgid "Japanese"
+msgstr "Japanese"
+
+#: masterfirefoxos/settings/base.py:224
+msgid "Lingala"
+msgstr "Lingala"
+
+#: masterfirefoxos/settings/base.py:225
+msgid "Polish"
+msgstr "Polish"
+
+#: masterfirefoxos/settings/base.py:226
+msgid "Portuguese"
+msgstr "Portuguese"
+
+#: masterfirefoxos/settings/base.py:227
+msgid "Romanian"
+msgstr "Romanian"
+
+#: masterfirefoxos/settings/base.py:228
+msgid "Russian"
+msgstr "Russian"
+
+#: masterfirefoxos/settings/base.py:229
+msgid "Serbian"
+msgstr "Serbian"
+
+#: masterfirefoxos/settings/base.py:230
+msgid "Kiswahili"
+msgstr "Kiswahili"
+
+#: masterfirefoxos/settings/base.py:231
+msgid "Spanish"
+msgstr "Spanish"
+
+#: masterfirefoxos/settings/base.py:232
+msgid "Tamil"
+msgstr "Tamil"
+
+#: masterfirefoxos/settings/base.py:233
+msgid "Wolof"
+msgstr "Wolof"
+
+#: masterfirefoxos/settings/base.py:234
+msgid "Xhosa"
+msgstr "Xhosa"
+
+#: masterfirefoxos/settings/base.py:235
+msgid "Pirate"
+msgstr "Pirate"
+
+#: masterfirefoxos/settings/base.py:236
+msgid "Yoruba"
+msgstr "Yoruba"
+
+#: masterfirefoxos/settings/base.py:237
+msgid "Zulu"
+msgstr "Zulu"
+
+#: masterfirefoxos/settings/base.py:238
+msgid "Azams"
+msgstr "Azams"

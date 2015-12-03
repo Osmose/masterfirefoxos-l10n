@@ -1,0 +1,430 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 2-1/take-the-challenge/
+msgid "Which of the following statements are true of Easy Nav on Firefox OS?"
+msgstr ""
+"¿Cuál de las siguientes frases es cierta acerca de la aplicación de la "
+"Navegación fácil en Firefox OS?"
+
+#: 2-1/key-features/
+msgid ""
+"Monitor mobile and WiFi data usage through this useful, preloaded feature.  "
+"You will also be able to view data usage by application."
+msgstr ""
+"Vigila el uso de datos móviles y WiFi a través de esta útil función, ya "
+"preinstalada. También podrás ver el uso de datos por aplicación."
+
+#: 2-1/take-the-challenge/
+msgid "Actually, all of these apps come preloaded on every Firefox OS phone."
+msgstr ""
+"De hecho, todas estas apps vienen preinstaladas en cada teléfono Firefox OS."
+
+#: 2-1/take-the-challenge/
+msgid "What are Smart Collections?"
+msgstr "¿Qué son las colecciones inteligentes?"
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music more — at the most competitive prices."
+msgstr ""
+"Firefox OS te ofrece más valor por tu dinero, con todo lo que cabe esperar "
+"de un teléfono inteligente —cámara, correo electrónico, apps, música, y más—"
+" a los precios más competitivos."
+
+#: 2-1/demo-tips/ 2-1/key-features/
+msgid "Easy Nav"
+msgstr "Navegación fácil"
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s right. On the Firefox OS home screen a user can find Smart "
+"Collections - collections of apps containing curated content based on a "
+"certain theme (e.g., sports, music, games etc).  Users can also create their"
+" own Smart Collections based on presets or their own creativity."
+msgstr ""
+"Correcto. En la pantalla de inicio de Firefox OS un usuario puede encontrar "
+"las colecciones inteligentes -colecciones de contenido curado basado en "
+"cierto tópico (ejemplo: deportes, música, juegos). Los usuarios también "
+"pueden crear sus propias colecciones inteligentes basándose en las "
+"prediseñadas, o hacer nuevas basadas en su propia creatividad."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"What does the 'Find My Device' feature on your Firefox OS phone help you do "
+"in the case that your phone is lost or stolen?"
+msgstr ""
+"¿Qué te permite hacer la función \"Encontrar mi dispositivo\" en tu teléfono"
+" Firefox OS en el caso de que tu teléfono se haya perdido o lo hayan robado?"
+
+#: 2-1/take-the-challenge/
+msgid "Change the look of your home screen"
+msgstr "Cambia la apariencia de tu pantalla de inicio"
+
+#: 2-1/demo-tips/
+msgid ""
+"Easy Nav is the fast, smart and safe way to get the best of the Web.  Using "
+"Easy Nav allows you to access the Firefox browser and search from anywhere "
+"on your Firefox OS device.  Simply tap on the ‘Search’ field at the top of "
+"the screen and type in a keyword to get results from the web, your "
+"favorites, browsing history, applications and the Firefox Marketplace."
+msgstr ""
+"La navegación fácil es la manera rápida, inteligente y segura de conseguir "
+"lo mejor de la Web. Al usar la navegación fácil puedes acceder al navegador "
+"Firefox y buscar desde donde sea en tu dispositivo Firefox OS. Simplemente "
+"toca el campo \"busqueda\" en la parte superior de la pantalla y escribe una"
+" palabra clave para obtener resultados de la web, tus favoritos, tu "
+"historial de navegación, aplicaciones, y el Firefox Marketplace."
+
+#: 2-1/key-features/
+msgid ""
+"Improve productivity by using a more intuitive way to switch between "
+"applications.  Simply swipe left or right from the edge of the screen to "
+"switch between your open applications."
+msgstr ""
+"Mejora tu productividad usando una manera más intuitiva de alternar entre "
+"aplicaciones. Simplemente desliza hacia la izquierda o derecha desde el "
+"borde de la pantalla para alternar entre tus aplicaciones abiertas."
+
+#: 2-1/key-features/
+msgid ""
+"Experience the fast, smart, safe way to get the best of the Web. The Firefox"
+" browser and search are available from anywhere on the device simply by "
+"tapping on the ‘Search’ field at the top of the screen.  Search results "
+"include web search, favorites, browsing history, applications and "
+"Marketplace results.  You can also access your bookmarks directly from the "
+"home screen."
+msgstr ""
+"Conoce la manera fácil, inteligente y segura de conseguir lo mejor de la "
+"Web. El navegador y la búsqueda de Firefox están disponibles desde cualquier"
+" parte del dispositivo simplemente tocando en el campo \"Búsqueda\" en la "
+"parte superior de la pantalla. Los resultados de búsqueda incluyen búsqueda "
+"web, favoritos, historial de navegación, aplicaciones y resultados de "
+"Marketplace. También puedes acceder a tus marcadores directamente desde la "
+"pantalla de inicio."
+
+#: 2-1/frequently-asked-questions/
+msgid "Can I customize my device to suit my needs?"
+msgstr "¿Puedo personalizar mi dispositivo para que cubra mis necesidades?"
+
+#: 2-1/demo-tips/
+msgid ""
+"Task Switcher improves productivity by using a more intuitive way to switch "
+"between your open applications.  Simply swipe left or right from the edge of"
+" your screen to switch between apps."
+msgstr ""
+"El administrador de tareas mejora la productividad al usar una manera más "
+"intuitiva para alternar entre tus aplicaciones abiertas. Simplemente desliza"
+" hacia la derecha o izquierda desde el borde de la pantalla para alternar "
+"entre tus aplicaciones."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Actually, this is true. The Task Switcher improves productivity by giving "
+"Firefox OS users a more intuitive way to switch between applications.  From "
+"the edge of their screen, users simply swipe left or right to move between "
+"their open apps."
+msgstr ""
+"De hecho, es verdadero. El administrador de tareas mejora la productividad "
+"al darle a los usuarios de Firefox OS una manera intuitiva de alternar entre"
+" aplicaciones. Desde el borde de la pantalla, los usuarios simplemente "
+"deslizan hacia la derecha o izquierda para moverse entre sus aplicaciones "
+"abiertas."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s right. With a first time smartphone user, you should talk about its "
+"simplicity and features including ways to control their experience and "
+"personalize their phones."
+msgstr ""
+"Exacto. Con un nuevo usuario de teléfonos inteligentes, debes hablar sobre "
+"su sencillez y destacar características relacionadas con el control de su "
+"experiencia y la personalización del teléfono."
+
+#: 2-1/take-the-challenge/
+msgid "Featured apps on the Firefox Marketplace."
+msgstr "Aplicaciones destacadas en el Firefox Marketplace."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"A customer says, “I use Firefox on my home computer and I love it, but I "
+"didn’t know they had a smartphone OS. Why?”  Which of the following "
+"statements would be the most appropriate response to this particular "
+"customer?"
+msgstr ""
+"Un cliente afirma, “Uso Firefox en mi equipo de escritorio de casa y me "
+"encanta, pero no sabía que también había un sistema operativo para teléfonos"
+" inteligentes. ¿Por qué?”. ¿Cuál de las siguientes afirmaciones sería la "
+"respuesta más apropiada a este cliente en concreto?"
+
+#: 2-1/key-features/
+msgid ""
+"Stay connected with friends and colleagues on your favorite social networks "
+"from wherever your are."
+msgstr ""
+"Mantente en contacto con tus amigos y colegas en tus redes sociales "
+"favoritas desde donde quiera que estés."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Actually, with a first time smartphone user, you should talk about its "
+"simplicity and features including ways to control their experience and "
+"personalize their phones."
+msgstr ""
+"En realidad, con un nuevo usuario de teléfonos inteligentes, deberías hablar"
+" sobre su sencillez y destacar características relacionadas con el control "
+"de su experiencia y la personalización del teléfono."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Actually, all of these things can be shared via Bluetooth with your Firefox "
+"OS phone."
+msgstr ""
+"De hecho, todas estas cosas pueden compartirse a través de Bluetooth con tu "
+"teléfono Firefox OS."
+
+#: 2-1/demo-tips/
+msgid ""
+"When you only have a minute, make it count with this simple pitch.  Make a "
+"point to focus on how Firefox OS is intuitive and simple.  Your customers "
+"will find it easy to use from the start thanks to its beautifully designed "
+"interface."
+msgstr ""
+"Si solo dispones de un minuto, aprovéchalo con esta simple demostración. "
+"Recuerda enfocar lo simple e intuitivo que es Firefox OS. Tus clientes desde"
+" un principio verán lo fácil que es de usar gracias al hermoso diseño de la "
+"interfaz."
+
+#: 2-1/take-the-challenge/
+msgid "Actually, all of these are true of Easy Nav on Firefox OS."
+msgstr ""
+"De hecho, todas son verdaderas respecto a la función Navegación fácil "
+"Firefox OS."
+
+#: 2-1/key-features/
+msgid "Smart Collections"
+msgstr "Colecciones inteligentes"
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these apps come preloaded on every Firefox OS phone."
+msgstr ""
+"¡Exacto! Todas estas apps vienen preinstaladas en cada teléfono Firefox OS."
+
+#: 2-1/take-the-challenge/
+msgid "Create Smart Collections of apps"
+msgstr "Crea colecciones inteligentes de aplicaciones"
+
+#: 2-1/demo-tips/
+msgid "Vertical Home Screen & Smart Collections"
+msgstr "Pantalla de inicio vertical y colecciones inteligentes"
+
+#: 2-1/take-the-challenge/
+msgid "What does Bluetooth allow users to do? Select all that apply."
+msgstr ""
+"¿Qué les permite hacer Bluetooth a los usuarios? Selecciona todas las que "
+"sean pertinentes."
+
+#: 2-1/take-the-challenge/
+msgid "That’s right. All of these are true of Easy Nav on Firefox OS."
+msgstr ""
+"Correcto. Todas son verdaderas respecto a la función Navegación fácil en "
+"Firefox OS."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Actually, the 'Find My Device' feature helps you do all these things through"
+" your Firefox Account."
+msgstr ""
+"De hecho, la función \"Encontrar mi dispositivo\" te permite hacer todo esto"
+" mediante tu cuenta de Firefox."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s right! The 'Find My Device' helps you do all these things through "
+"your Firefox Account."
+msgstr ""
+"¡Correcto! La función \"Encontrar mi dispositivo\" te ayuda a hacer todas "
+"estas cosas mediante tu cuenta de Firefox."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"True or False - You can switch between apps on Firefox OS simply by swiping "
+"left or right on your screen?"
+msgstr ""
+"Verdadero o falso: Puedes alternar entre aplicaciones en Firefox OS "
+"simplemente deslizando hacia la izquierda o derecha de tu pantalla."
+
+#: 2-1/key-features/
+msgid ""
+"Customize your Home Screen the way you like.  Get immediate access to your "
+"most important apps by choosing between having either 3 or 4 apps across the"
+" screen.  Scroll down to find all the things you love on one page."
+msgstr ""
+"Personaliza la pantalla de inicio a tu gusto. Tendrás acceso inmediato a tus"
+" aplicaciones más importantes al elegir entre tener 3 o 4 columnas de "
+"aplicaciones en la pantalla. Desplázate hacia abajo para encontrar todas las"
+" cosas que te encantan en una sola página."
+
+#: 2-1/key-features/
+msgid ""
+"Experience the fast, smart, safe way to get the best of the Web. Visit "
+"websites, perform searches and access apps from the Marketplace. Multitask "
+"with tabs and browse multiple pages at the same time."
+msgstr ""
+"Conoce la manera rápida, inteligente y segura de obtener lo mejor de la Web."
+" Visita páginas web, realiza búsquedas y accede a aplicaciones del "
+"Marketplace. Navega en varias páginas y haz de todo a la vez con pestañas."
+
+#: 2-1/take-the-challenge/
+msgid "The Dialer"
+msgstr "El Teléfono"
+
+#: 2-1/take-the-challenge/
+msgid "It includes web search, favorites, browsing history and applications."
+msgstr ""
+"Incluye búsqueda web, favoritos, historial de navegación y aplicaciones."
+
+#: 2-1/take-the-challenge/
+msgid "It includes Firefox Marketplace results."
+msgstr "Incluye resultados de Firefox Marketplace."
+
+#: 2-1/key-features/
+msgid "Vertical Home Screen"
+msgstr "Pantalla de inicio vertical"
+
+#: 2-1/take-the-challenge/
+msgid "A group of educational apps on Firefox OS."
+msgstr "Un grupo de aplicaciones educativas en Firefox OS."
+
+#: 2-1/demo-tips/
+msgid ""
+"Show your customers how easy it is to get apps in the Firefox Marketplace. "
+"Tell them that the Marketplace has the cool games and apps that they’re "
+"looking for. Demonstrate an example of a local app designed to help make "
+"their lives easier."
+msgstr ""
+"Muéstrale a tus clientes lo fácil que es conseguir aplicaciones en Firefox "
+"Marketplace. Diles que el Marketplace tiene los juegos geniales y las "
+"aplicaciones que están buscando. Enséñales un ejemplo de una aplicación "
+"local que les ayudará a hacer su vida más fácil."
+
+#: 2-1/demo-tips/ 2-1/key-features/
+msgid "Task Switcher"
+msgstr "Administrador de tareas"
+
+#: 2-1/key-features/
+msgid ""
+"Smart Collections contain content that has been curated by themes.  With one"
+" tap you can access and explore all the curated mobile web content.  You can"
+" access the pre-set options, or create your own Smart Collection."
+msgstr ""
+"Las colecciones inteligentes contienen contenido que ha sido curado por "
+"tópicos. Con un toque puedes acceder y explorar todo el contenido web móvil "
+"curado. Puedes acceder a las colecciones predeterminadas, o crear tu propia "
+"colección inteligente."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"It is available from anywhere on the device simply by tapping on the "
+"‘Search’ field."
+msgstr ""
+"Está disponible desde donde sea en el dispositivo simplemente tocando el "
+"campo \"Búsqueda\"."
+
+#: 2-1/demo-tips/
+msgid ""
+"Your Firefox OS device lets you customize your Home Screen the way you like "
+"it. Choose from either 3 or 4 apps across the screen and group your apps "
+"into Smart Collections - curated mobile web content.  You can access preset "
+"collections or create your own.  Best of all, just keep scrolling down to "
+"find all your favorites on one page."
+msgstr ""
+"Tu dispositivo Firefox OS te permite personalizar tu pantalla de inicio a tu"
+" gusto. Elige si quieres ver 3 o 4 aplicaciones a lo ancho de la pantalla y "
+"agrupa tus aplicaciones en colecciones inteligentes —contenido web "
+"seleccionado—. Puedes acceder a colecciones predeterminadas o crear las "
+"tuyas. Lo mejor de todo, sigue desplazándote hacia abajo para encontrar "
+"todas tus favoritas en una sola página."
+
+#: 2-1/which-version/
+msgid ""
+"<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
+"select <strong>Device information</strong>.</li> <li>On the Device "
+"information screen, select <strong>More Information</strong> and look for "
+"the version numbers under <em>OS version</em> at the top of the screen. <ul>"
+" <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> "
+"<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
+"means you have version 2.0</li> </ul> </li> </ol><li><em>2.1.0.0</em> means "
+"you have version 2.1</li> </ul> </li> </ol>"
+msgstr ""
+"<ol> <li>Abre la aplicación Ajustes de tu dispositivo.</li> <li>Desplázate "
+"hacia abajo y selecciona <strong>Información del dispositivo</strong>.</li> "
+"<li>En la pantalla de información del dispositivo, selecciona <strong>Más "
+"información</strong> y busca los números de la versión en <em>Version de "
+"SO</em> en la parte superior de la pantalla. <ul><li><em>Firefox OS "
+"1.0.1.0</em> significa que tienes la versión 1.0.1</li> <li><em>Firefox OS "
+"1.1.0.0</em> significa que tienes la versión 1.1</li> <li><em>1.3.0.0</em> "
+"significa que tienes la versión 1.3</li><li><em>2.0.0.0</em> significa que "
+"tienes la versión 2.0</li> </ul> </li></ol><li><em>2.1.0.0</em> significa "
+"que tienes la versión 2.1</li> </ul> </li> </ol>"
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s not it. On the Firefox OS home screen a user can find Smart "
+"Collections - collections of apps containing curated content based on a "
+"certain theme (e.g., sports, music, games etc).  Users can also create their"
+" own Smart Collections based on presets or their own creativity."
+msgstr ""
+"Incorrecto. En la pantalla de inicio de Firefox OS un usuario puede "
+"encontrar las colecciones inteligentes -colecciones de contenido curado "
+"basado en cierto tópico (ejemplo: deportes, música, juegos). Los usuarios "
+"también pueden crear sus propias colecciones inteligentes basándose en las "
+"prediseñadas, o hacer nuevas basadas en su propia creatividad."
+
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Firefox OS allows users to make their devices unique by allowing user to "
+"customize their language preference, ringtones, home screen design, lock "
+"screen and app collections."
+msgstr ""
+"Firefox OS le permite a sus usuarios hacer sus dispositivos únicos "
+"permitiéndoles personalizar sus preferencias de lenguaje, tonos de llamada, "
+"diseño de pantalla de inicio, pantalla de bloqueo, y colecciones de "
+"aplicaciones."
+
+#: 2-1/take-the-challenge/
+msgid "Track the location of your lost/stolen device."
+msgstr "Rastrea la ubicación de tu dispositivo perdido/robado."
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Curated content found on your Firefox OS home screen that is based on a "
+"given theme."
+msgstr ""
+"Contenido curado en tu pantalla de inicio de Firefox OS, basado en tópicos "
+"en específico."
+
+#: 2-1/frequently-asked-questions/
+msgid ""
+"App developers around the world are committed to Firefox OS and tens of "
+"hundreds of free applications will be available at launch. The growing list "
+"includes leading app developers like Facebook, YouTube, Twitter, YouTube, "
+"Pinterest as well as a Flashlight app and Calculator."
+msgstr ""
+"Hay desarrolladores de aplicaciones de todo el mundo comprometidos con "
+"Firefox OS y habrá decenas de miles de aplicaciones gratuitas disponibles en"
+" el momento del lanzamiento. Esta lista, que va en aumento, incluye a "
+"destacados desarrolladores de aplicaciones como Facebook, YouTube, Twitter, "
+"YouTube, y Pinterest, así como las apps Linterna y Calculadora."

@@ -1,0 +1,469 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ff\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. A first-time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+"A yiytii. Kuutoro smartfon gadano foti yizde ko yoo cinndel ngel weeɓ "
+"huutoraade."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What are some examples of the kind of personalization and control that "
+"Firefox OS allows?  Select all that apply."
+msgstr ""
+"Holi e ɗii yeruuji keertingol Firefox OS e ɗowgol mum newotoo e Firefox OS?"
+"  Labo kala ko goongɗi heen."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is made with you and your needs in mind, so it is extremely easy "
+"to use and allows for greater control, personalization and customization "
+"than many other smartphones on the market."
+msgstr ""
+"So aɗa yiɗi Firefox, maa yiɗ Firefox OS. Suɓaade Firefox OS ko mooftude "
+"doole Geese e juuɗe mah."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "An excellent user experience"
+msgstr "Dawtol kuutoro moolanaangol"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "A phone for everyone"
+msgstr "Cinndel men enen kala"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid "Social and contact sync"
+msgstr "Ceŋondiral jokkondire renndo"
+
+#: 2-0/about/ 1-3/about/ 2-1/about/
+msgid "The Mozilla Mission"
+msgstr "Darnde Moɗilla"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, this icon represents the Firefox Browser."
+msgstr "E jaati ngel maanndel toɗɗii ko Wanngorde Firefox."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, show a commitment to keeping the power "
+"of the Web in the hands of the people. And while all of these statements are"
+" true, only this one is the best response for this particular customer."
+msgstr ""
+"A yiytii. Kiliyaan oo wayi ko no jiɗɗo Firefox. Hollu hol no Firefox OS, mo "
+"Mozilla feewni, hollu mbaawka mum daranaade doolnude Geese e juuɗe yimɓe. "
+"Hay sinno jaabuwuuji ɗii fof ina ngooŋɗi, ko ngol jaabawol tan ɓuri saŋde e "
+"oo cokluɗo keeriiɗo."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share contacts"
+msgstr "Lollin jokkondiral"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you’ve worked through all of the questions and content, you’re ready to "
+"match Firefox OS to the needs of your customers.  Easy to use, a Firefox OS "
+"smartphone is perfect for new smartphone users and full of all the features "
+"that customers want and need.  And it’s powered by Mozilla, making Firefox "
+"OS the right choice for anyone committed to ensuring that the power of the "
+"Web remains in their hands!"
+msgstr ""
+"So a reftiima naamne e loowdi ndii fof, a hebiima yahdinde Firefox OS e "
+"soklaaji kiliyaneeɓe maa   Smartfon Firefox OS ena weeɓi huutoraade, kadi "
+"ena heewani nafoore huutorɓe hesɓe etee enaheewi fannuuji ɗi huutorɓe "
+"katojini. Kadi ko Mozilla doolni ɗum.  Ko ɗum waɗi Firefox OS wonde suɓre "
+"moƴƴere wonande kala daraniiɗo yoo doole Geese heddo e juuɗe mum!"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there "
+"aren’t many apps available.”"
+msgstr ""
+"Hol ko woni jaabawol ɓurngel moƴƴude ngal naamnal kiliyaan? “Mi nanii alaa "
+"jaaɓɗe ngoodi.”"
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and adapts to your needs"
+" better than any other phone. That means you get more of what you need with "
+"less time spent searching. Plus, it’s packed with all the features you’d "
+"expect — camera, email, apps, music, maps and more!"
+msgstr ""
+"<strong>Aɗa waawi wiyd nih:</strong> Firefox OS ko cuɓol ɓurngol yuɓɓude "
+"wonande huutorɓe hesɓe smartfon. Ena weeɓani hoore mum, tee ena jaaɓda e "
+"soklaaji maa no ɓuri yuɓɓirde. Wadde keɓaa ko coklu-ɗaa tawa a yiylaaki ko "
+"juuti. Kadi, ena arda e fannuuji kala ɗi ɗamini-ɗaa — kameraa, iimeel, "
+"jaaɓɗe, gaaci, karte e geɗe goɗɗe!"
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below to learn how to best respond to each of their unique needs."
+msgstr ""
+"Faamde ko kiliyaneeɓe maa njiɗi kadi anndude no jaabortee e saasi ena teeŋti"
+" sanne ngam ɓeydude njeeygu maa. Ƴeew ɗiiɗoo ngoƴaaji kiliyaneeɓe les ɗoo "
+"ngam humpitaade no njooborto-ɗaa gooto kala e soklaaji maɓɓe keeriiɗi."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"Ko ɗe kesekadi tammbii-ɗe ko renndo huuɓngo gollantoogu yoo Geese keɓo tee "
+"wonana ɗoo mo woni kala."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.\""
+msgstr ""
+"Hol ko woni jaabawol ɓurngel moƴƴude ngal naamnal kiliyaan? “Mi meeɗaa nande"
+" cinnde haala Firefox OS.\""
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Will my apps work offline?"
+msgstr "Maa jaaɓɗe am ndog e ceŋtol?"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Stay connected easily and conveniently. Set up multiple email accounts, with"
+" support for the most common Exchange, POP3 or IMAP email providers."
+msgstr ""
+"Hoto seer e jokkondireede no ɓuri weeɓrude e no ɓuri himmirde. Sos konte "
+"iimeel keewɗe, tawaena tammbaa sarwinooɓe iimeel ɓurɓe yaajde POP3 walla "
+"IMAP."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Life is complicated, your smartphone shouldn’t be. Firefox OS is designed "
+"for better performance, easier customization and simpler navigation. "
+"Everything your customer needs or wants is either one scroll or swipe away."
+msgstr ""
+"Nguurndam ena anii sanne, smartfon maa fotaani anaade. Firefox OS waɗiraa ko"
+" yoo ɓeydu yuɓɓude, weeɓtude e weeɓde haartinde e peeragol newigol. Kala ko "
+"kiliyaan maa sokli walla yiɗi ena ɓadii pittol walla goragol."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these are true about Firefox OS."
+msgstr "E jaati, ɗee fof ina ngooŋɗi e Firefox OS."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is backed by a global community of developers and content "
+"providers dedicated to creating new and exciting content and even locally-"
+"relevant apps for the Firefox OS platform. New apps and content are added "
+"every day."
+msgstr ""
+"Firefox OS tammbii ɗum ko renndo topayɓe huuɓngo e sarwibooɓe loowdi "
+"daraniiɓe sosde loowdi kesiri moolanaandi e jaaɓɗe joopiiɗe nguurndam ɗo "
+"koɗ-ɗaa ɗoo. Jaaɓɗe e loowdi kesiri ena ɓeydee ñalnde kala"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things are possible with a Firefox OS phone."
+msgstr "A yiytii! Ɗee-ɗoon geɗe fof ena ngaamnoo e cinndel Firefox OS."
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Exchange, POP3 and IMAP are currently supported."
+msgstr "Exchange, POP3 e IMAP ena tammbitaa e oo sahaa."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "There are more. Try again."
+msgstr "Ina waɗi goɗɗi. Eto kadi."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping power of the the Web in their hands."
+msgstr ""
+"E jaati, so a hawrii e jiɗɗo Firefox, hollu mo wonde cuɓagol Firefox OS ko "
+"daranaade doolnude Geese e juuɗe hutortooɓe."
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"Firefox OS comes preloaded with popular instant messaging and social media "
+"apps, like Facebook, so your customers will be able to stay connected with "
+"friends and family. They can also sync their contacts to the phone, quickly "
+"and easily."
+msgstr ""
+"Firefox OS arata ko ena loowaa jaaɓɗe jeewtidal saasi ganndaaɗe e jaaɓɗe "
+"laylayte renndo, wano Facebook, wadde maa kiliyaneeɓe mbaaw seŋaade e "
+"jokkondirde e sehilaaɓe e ɓesngu. Eɓe mbaawi kadi seŋondirde jokkondire "
+"maɓɓe e cinndel ngel e ko yaawi, weeɓi."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share images"
+msgstr "Lollin nate"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Your go-to source for the best apps on Firefox OS. Browse multiple "
+"categories, including games, utilities, music, travel, sports and more."
+msgstr ""
+"Nokku maa ɗo jaaɓɗe Firefox OS ɓurɗe moƴƴude keɓetee. Yiylo pelle, wano "
+"pije, kuutorɗe, gaaci, ɗanngal, coftal e geɗe goɗɗe."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Firefox Browser."
+msgstr "A yiytii. Ngel maanndel toɗɗii ko Wanngorde Firefox."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Keep the Web in your hands"
+msgstr "Tam Geese ɗee e juuɗe maa"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Firefox Marketplace is our go-to source for free apps, including favorites "
+"like Twitter and Facebook, and for awesome local content from the best Web "
+"developers in your region."
+msgstr ""
+"Firefox Marketplace woni sewnde maa jaaɓɗe dokkel, wonndude e labaaɗe wano "
+"Twitter e Facebook, e loowde nokku maa mbaɗndi faayiida ummoraade e topayɓe "
+"Geese wonɓe e diiwaan maa."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re packed with the features that made you want a smartphone in the "
+"first place."
+msgstr "Eɗe keewi fannuuji gaddanooji-ma yiɗe smartfon ko adii fof."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps already built for the Web."
+msgstr ""
+"Mozilla, peewnuɗo Firefox, mahii Yuɓɓo smartfon ngam jokkude keɓagol Geese "
+"oo wonande fof en. Kadi caggal nde Firefox OS mahaa e HTML5, aɗa waawi heɓde"
+" ujunnaaje jaaɓɗe topanaaɗe Geese."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Set your phone to your language"
+msgstr "Waɗ cinndel maa e ɗemngal maa"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Users can place bookmarks to any website on their home screen to provide the"
+" functionality of that site directly from there. Also, users can simply "
+"enter any search term on the home screen and instantly create a one-time use"
+" or downloadable app. Creating and consuming these apps on demand puts users"
+" in complete control of their smartphone experience and makes it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+"Huutorɓe ena mbaawi maantoraade lowre kala e jaɓɓorgo mum'en ngam heɓde "
+"ndeen lowre ko yaawi. Kadi, eɓe mbaawi tan naatnude helmere njiilaw e "
+"jaɓɓorgo maɓɓe ngam huutoraade jaaɓɗe gaawteteeɗe loowol gootol. Sosde e "
+"huutoraade ɗeen jaaɓɗe tawa ko nde soklaa maa hokke fartaŋŋe ɗowande hoore "
+"maa dawtol maa e smartfon kadi waɗa neɗɗo kala heɓde ko yiɗi koo tan, tuma "
+"nde o yiɗi ɗum."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily pair your device with a wide range of Bluetooth accessories. Share "
+"contacts, images, videos or your favorite URLs with friends."
+msgstr ""
+"Seŋondir kaɓirgol maa e yoga e ceŋɗe Bluutuus no ɓuri weeɓrude. Lollinan "
+"sehilaaɓe maa jokkondire, nate, widewooji walla URLs maa ɓurɗe yiɗeede."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> If you know and love Firefox, "
+"you’ll love Firefox OS.  Firefox OS smartphones are entirely HTML5-based, "
+"bringing the best of the Web to your phone.  Plus, Firefox OS is designed by"
+" a community dedicated to keeping the Web accessible to all. When you choose"
+" Firefox OS, you have the full power of the Web in your hands."
+msgstr ""
+"<strong>Aɗa waawi wiyde nih:</strong> So aɗa yiɗi Firefox, maa yiɗ Firefox "
+"OS.  Cinnde Firefox OS tugnii e kuuɓal ko e HTML5, ɗuum addi ko ɓuri e Geese"
+" haa e nder cinndel maa.  Kadi, Firefox OS waɗi ɗum ko renndo daraniingo yoo"
+" Geese wonan ɗoo mo woni kala. So a suɓiima Firefox OS, a heɓat doole kuuɓɗe"
+" Geese e junngo maa."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"All of these statements are true, but only one is the best response for this"
+" particular customer, who seems to be a Firefox fan. Talk about how Firefox "
+"OS phones, made by Mozilla, help keep the power of the Web in the hands of "
+"the people."
+msgstr ""
+"Denndaangal ɗii jaabawuuji ina celli, kono gootol tan woni ɓurngol saŋde e "
+"oo kiliyaan keeriiɗo. Hollu hol no cinndon Firefox OS kon Mozilla feewni, "
+"ina mballa e doolnude Geese e juuɗe yimɓe."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
+msgstr ""
+"Firefox OS mahiraa ko huutoraade HTML5 ɓolo e karalleeje Geese udditiiɗe."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Take the Challenge"
+msgstr "Ƴeewto Ganndal maa"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
+"OS shows a commitment to keeping the power of the Web in their hands."
+msgstr ""
+"A yiytii. So a hawrii e jiɗɗo Firefox, hollu cuɓagol Firefox OS ko daranagol"
+" doolnude Geese e juuɗe huutortooɓe."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share videos"
+msgstr "Lollin widooji"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit.   Firefox OS "
+"smartphones are backed by a global community of developers working to "
+"innovate and further Web technologies.    When you choose Firefox OS, you’re"
+" helping build a brighter future for the Web for all."
+msgstr ""
+"Ɗoo e Mozilla, ummini min ko addude kesum, wonaa ɗaɓɓude ngalu.  Cinnde "
+"Firefox OS ɗee ena tambii ɗum'en renndo  topayɓe gollotooɓe ngam addude "
+"kesum e karalleeje Geese.  So a suɓiima Firefox OS, ngon-ɗaa ko e wallude "
+"mahde janngo ɓuranɗo enen kala wonande Geese."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s packed with the features that made you want a smartphone in the first "
+"place."
+msgstr "Eɗum heewi fannuuji gaddanooji-ma yiɗe smartfon ko adii fof."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"Ko ɗum kesum kadii tammbii-ɗum ko renndo huuɓngo gollantoogu yoo Geese keɓo "
+"tee wonana ɗoo mo woni kala."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things can be shared via Bluetooth with your "
+"Firefox OS phone."
+msgstr ""
+"A yiytii! Ɗee geɗe fof ina mbaawi lollineede tawa ko Bluutuus e cinndel mah "
+"Firefox OS."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Apps developers are slowly realizing the benefit of HTML5 in support of the "
+"Open Web."
+msgstr ""
+"Topayɓe jaaɓɗe nana ɓeydoo seeɗa-seeɗa faamde nafoore HTML5 addande Geese "
+"Udditiiɗe."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily import your Facebook friends to your phone and keep your community "
+"all in one place thanks to deep integration with your favorite social "
+"networks."
+msgstr ""
+"Jiggo no ɓuri weeɓrude sehilaaɓe maa Facebook e cinndel maa tee moofte "
+"renndo maa e nokku gooto Alla e naattondiral e laylayte maa renndo ɗe ɓur-"
+"ɗaa hatojinde."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Your customers want to get the most out of life, so why should they get any "
+"less from their mobile device?  Firefox OS devices are perfect for new "
+"smartphone users — easy to use and full of all the features that they "
+"expect. And because Firefox OS devices are powered by Mozilla, they’re the "
+"perfect choice for anyone committed to keeping the Web open for all."
+msgstr ""
+"Kiliyaneeɓe maa njiɗi ko heɓde ko ɓuri e nguurndam, wadde hol sabaabu ɓe "
+"kaɓa ko jaasi ko cinndel foti addude?  Kaɓirɗi Firefox OS ena kimmani "
+"huutorɓe smartfon hesɓe — ena weeɓi huutoraade etee ena heewi fannuuji kala "
+"ɗi ɓe ɗaminii. Kadi sabu kaɓirɗi Firefox OS ko Mozilla doolni ɗum'en, alaa "
+"ko ɓuri ɗi himmande kala daraniiɗo udditaare Geese men enen kal."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Play it all from your phone, or online via YouTube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+"Tar fof e cinndel maa wallae ceŋol tawa ko e Youtube. Weɗɗit kisa taraa "
+"gaaci maa e fannu albom walla naalaŋke, hokku jimɗi toɓɓe walla sos doggi "
+"taro baaruuji maa labaaɗi."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone to get you started.  The user interface is so intuitive, you’ll "
+"be able to quickly discover and download your favorite apps and be ready to "
+"go in no time."
+msgstr ""
+"<strong>Aɗa waawi wiyde nih:</strong> Firefox OS ko cinndel ɓurngel weeɓde "
+"wonande fuɗoraade.  Daartorde kuutoro ndee ena laaɓti, maa waaw yiytude ko "
+"yaawi e aawtaade jaaɓɗe maa ɓur-ɗaa yiɗde kisa puɗɗo-ɗaa e tuma daɓɓo golla "
+"maa."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid "Bluetooth"
+msgstr "Blootuus"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"With Camera, Gallery, Music apps and more, Firefox OS will keep your "
+"customers entertained on the go and connected to the things that matter most"
+" to them.  <br><br>Camera: Photograph, edit and share. Show off our full-"
+"featured camera and gallery apps, including built-in style filters, video "
+"and more.  <br><br>Music: With music at their fingertips, your customers "
+"will see how Firefox OS keeps them entertained and dancing in the streets."
+msgstr ""
+"Huutoro jaaɓɗe kameraa, Gerngal, Gaaci e goɗɗe ngam dakmitaade e no Firefox "
+"OS naatnirta welirta dawol kiliyaneeɓe maa kadi ɓe njokkoo e geɗe ɗe ɓe ɓuri"
+" hatinjinde.   <br><br>Kameraa: Fot, taƴto kisa lollinaa. Faarnoro jaaɓɗe "
+"amen kameraa e gerngal kimmuɗe to senngo fannuuji, ena jeyaa heen ceɗe panni"
+" ñiiɓɗe, widewoo e geɗe goɗɗe.   <br><br>Gaaci: Tawde gaaci ena ɓadii "
+"peɗeeli maɓɓe, kiliyaneeɓe mah maa njiy no Firefox OS ɓeydata welemma maɓɓe "
+"wonande ngamri e mbumbaay."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Made with you in mind"
+msgstr "Ena hiisii soklaaji maa"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It features a robust security model that is battle-hardened from more than a"
+" decade supporting the Open Web. Designed to protect the user and system "
+"from malicious applications and content, it also protects applications from "
+"each other."
+msgstr ""
+"Fannuuji mum ena jogii yuɓɓo kisal ɓurngal ñisde ttiɗtinaande e duuɓi sappo "
+"pawɗe ɗe min ndaranii Geese udditiiɗe. Waɗiraa ko suurde kuutoro oo e yuɓɓo "
+"ngoo e jaaɓnirɗe e loowdi bonnooje kadi ena hisna jaaɓɗe hakkunde mum'en."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Control your data usage"
+msgstr "Ƴeewto kuutoragol keɓe maa"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
+"power of the Web in your hands."
+msgstr ""
+"So aɗa yiɗi Firefox, maa yiɗ Firefox OS. Cuɓagol Firefox OS ko mooftude "
+"doole Geese e juuɗe mah."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these things are possible with a Firefox OS phone."
+msgstr "E jaati, ɗee-ɗoon geɗe fof ena ngaamnoo e cinndel Firefox OS."

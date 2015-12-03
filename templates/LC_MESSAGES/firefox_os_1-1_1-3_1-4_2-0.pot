@@ -1,0 +1,33 @@
+# 
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+msgid "When you only have a minute, make it count with this simple pitch."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/
+msgid ""
+"Facebook is preloaded on every Firefox OS device and you can import your "
+"Facebook contacts easily!"
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/
+msgid ""
+"A customer says, “I use Firefox on my home computer and I love it, but I "
+"didn’t know they had a smartphone OS. Why?” Which of the following "
+"statements would be the most appropriate response to this particular "
+"customer?"
+msgstr ""

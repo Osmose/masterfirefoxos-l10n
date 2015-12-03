@@ -1,0 +1,244 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hi-in\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"All the audio you want on the go, all on one device. Just plug in your "
+"earphones and start listening."
+msgstr ""
+"सभी ऑडियो जो आप चाहते हैं वह सभी एक डिवाइस पर. बस अपने इयरफ़ोन प्लग करे, और "
+"सुनना प्रारंभ करें."
+
+#: 1-1/which-version/ 1-3T/which-version/ 1-4/which-version/
+msgid ""
+"<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
+"select <strong>Device information</strong>.</li> <li>On the Device "
+"information screen, look for the version numbers under <em>Software</em>. "
+"<ul> <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
+"</ol>"
+msgstr ""
+" <ol> <li> अपने डिवाइस पर सेटिंग एप्लिकेशन खोलें.</ li> <li> नीचे स्क्रॉल "
+"करें और <strong> उपकरण जानकारी </ strong> .</li> <li>डिवाइस जानकारी स्क्रीन "
+"पर संस्करण संख्या देखें <em>सॉफ्टवेयर</em>. <ul> <li> <em> Firefox OS "
+"1.0.1.0</em> इसका मतलब है कि आपके पास संस्करण 1.0.1 है</li> <li><em>Firefox "
+"OS 1.1.0.0</ em> इसका मतलब है कि आपके पास संस्करण 1.1 है</li> </ul> </ li> "
+"</ol>"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "The Adaptive Phone"
+msgstr "अनुकूलनीय फ़ोन"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Swipe to the left."
+msgstr "बाईं ओर स्वाइप करें।"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following statements about Adaptive App Search are true? Select"
+" all that apply."
+msgstr ""
+"निम्नलिखित बयानों में से कौन सा अनुकूली एप्प खोज के बारे में सही हैं? लागू "
+"होने वाले सभी का चयन करें."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Deeply integrated with your favorite social networks. You can easily import "
+"your Facebook contacts to your phone to keep your community all in one "
+"place."
+msgstr ""
+"गहरा अपने पसंदीदा सामाजिक नेटवर्क के साथ एकीकृत. आप आसानी से एक जगह में अपने"
+" सभी समुदाय रखने के लिए अपने फोन को अपने फेसबुक संपर्कों को आयात कर सकते "
+"हैं."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. All of these are true of Adaptive App Search!"
+msgstr "यह सही है. इन सब के सब अनुकूली अनुप्रयोग खोज के सत्य हैं!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and open Web standards."
+msgstr ""
+"फ़ायरफ़ॉक्स ओएस पूरी तरह एचटीएमएल 5 और खुले वेब मानकों का उपयोग कर बनाया गया"
+" है।"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "A unique feature included in every Firefox OS smartphone."
+msgstr "एक अनूठी विशेषता हर फ़ायरफ़ॉक्स ओएस स्मार्टफोन में शामिल है।"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With Adaptive App Search, you can use an app once, quickly and easily, "
+"without installing it. If you want to use it again later, it’s easy to add "
+"it to your homescreen."
+msgstr ""
+"अनुकूली एप्प खोज के साथ, आप इसे स्थापित करने के बिना, जल्दी और आसानी से, एक "
+"बार एप्प का उपयोग कर सकते हैं. यदि आप बाद में इसे फिर से उपयोग करना चाहते "
+"हैं, तो यह अपने होमस्क्रीन पर जोड़ने भी आसान है."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Actually, all of these are true except for the statement about “broadest "
+"selection of devices.” This may be true in the future, but it is not "
+"currently true."
+msgstr ""
+"असल में, इन सभी का यह भविष्य में सच हो सकता है \"उपकरणों की विस्तृत चयन\" के"
+" बारे में बयान के लिए छोड़कर सभी सही हैं, लेकिन यह वर्तमान में सच नहीं है."
+
+#: 1-1/about/ 1-3T/about/ 1-4/about/
+msgid "The Firefox Mission"
+msgstr "Firefox का मिशन"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there are"
+" not many apps.”"
+msgstr ""
+"इस ग्राहक के आपत्ति करने के लिए सबसे अच्छी प्रतिक्रिया क्या है? “मैं सुना "
+"हैं कि इसमें ज्यादा एप्प्स नहीं हैं.”"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Adaptive App Search."
+msgstr "यह सही है. यह आइकन अनुकूली app की खोज का प्रतिनिधित्व करता है."
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "Do my apps work offline?"
+msgstr "कया मेरा एप्प्स ऑफ़लाइन काम करेगा?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web."
+msgstr ""
+"Firefox OS के पास एक मजबूत सुरक्षा मॉडल है जो एक दशक से खोलो वेब का समर्थन "
+"के लिए कठोर युद्ध कर रहा है यह दुर्भावनापूर्ण अनुप्रयोगों और सामग्री से "
+"उपयोक्ता और सिस्टम को सुरक्षित रखने के लिए बनाया गया है."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. Adaptive App Search anticipates your needs better than any "
+"other phone."
+msgstr ""
+"अनुकूल एप्प खोज के साथ, Firefox OS आपको किसी दूसरे फ़ोन से बेहतर जरूरत के "
+"लिए अनुकूल बनाता है."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.”"
+msgstr ""
+"ग्राहक के आपत्ति करने के लिए सबसे अच्छी प्रतिक्रिया क्या है? “मैंनें Firefox"
+" OS फ़ोन के बारे में कभी नहीं सुना है.”"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"When you type a word or subject that interests you using Adaptive App Search"
+" what happens? Select all that apply."
+msgstr ""
+"आप क्या होता है अनुकूली एप्लिकेशन की खोज का उपयोग करके आप हितों कि एक शब्द "
+"या विषय टाइप करते हैं? लागू होने वाले सभी का चयन करें."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "How do you access the Adaptive App Search feature on Firefox OS?"
+msgstr ""
+"कैसे आप Firefox OS पर अनुकूली एप्प खोजने की सुविधा का उपयोग कर सकते हैं ?"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Stay connected, with easy access to your friends and colleagues from "
+"wherever you are."
+msgstr ""
+"आप जहाँ भी रहे हैं से अपने मित्रों और सहकर्मियों के लिए आसान पहुँच के साथ, "
+"जुड़े रहते हैं."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. A first time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+"यह सही है. पहली बार स्मार्टफोन का उपयोग करने वाले उपभोगकर्ता को उपयोग की "
+"सरलता मैं ज्यादा रूचि होगी."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results include photos, video, music, news, maps and more."
+msgstr "परिणाम में फोटो, वीडियो, संगीत, समाचार, नक्शे और अधिक शामिल हैं।"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "Keep the Web in Your Hands"
+msgstr "अपने हाथ में वेब को रखें"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "A phone that makes every moment count"
+msgstr "एक फ़ोन जो हर पल को महत्वपूर्ण बनाता है"
+
+#: 1-1/demo-tips/ 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/
+#: 1-4/take-the-challenge/
+msgid "Adaptive App Search"
+msgstr "अनुकूलित एप्प खोज"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, all of these are true of Adaptive App Search!"
+msgstr "असल में, इन सभी के अनुकूली अनुप्रयोग खोज के सत्य हैं!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Works just like Web search on Firefox browsers."
+msgstr "यह ऐसे काम करता है जैसे फ़ायरफ़ॉक्स ब्राउज़रों पर वेब खोज।"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "What is Adaptive App Search?"
+msgstr "अनुकूली एप्प्स खोज क्या है?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results from around the Web are displayed like apps on your phone."
+msgstr "वेब से परिणाम अपने फोन पर क्षुधा की तरह प्रदर्शित कर रहे हैं।"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Your background image changes instantly to reveal popular photos from the "
+"Web."
+msgstr ""
+"अपनी पृष्ठभूमि छवि परिवर्तन से तुरन्त वेब से लोकप्रिय तस्वीरें प्रकट करने के"
+" लिए।"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Take the challenge"
+msgstr "चुनौती लें"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the broadest selection of devices on the market today."
+msgstr "Firefox OS आपको बाजार में उपकरणों का विस्तृत चयन देता है."
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/key-features/ 1-4/take-the-challenge/
+msgid "FM Radio"
+msgstr "FM रेडियो"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results are instantly usable — you don’t have to download the app first."
+msgstr ""
+"परिणाम तुरंत प्रयोग करने योग्य हैं — आपको पहले एप्लिकेशन डाउनलोड करने की "
+"जरुरत नहीं है।"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results include relevant maps, pictures, music, news, videos, Twitter feeds "
+"and more."
+msgstr ""
+"परिणाम में प्रासंगिक नक्शे, चित्र, संगीत, समाचार, वीडियो, ट्विटर फ़ीड "
+"इत्यादि शामिल हैं।"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this is true."
+msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"

@@ -1,0 +1,441 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ee\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Uncertain Upgrader"
+msgstr "Upgrader si dzi womekaɖo o"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Your customer wants to understand the biggest benefits of Firefox OS versus "
+"its competitors. Select all of the statements that apply."
+msgstr ""
+"Wo nuƒlela di be yease Firefox OS ƒe vevinyenyewo gãtɔ gɔme kple eƒe "
+"competitors. Tia nyagblɔgblɔ siwo de."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid "Key Features"
+msgstr "Feature veviwo"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. For a customer looking for a smartphone that is easy to use, "
+"Firefox OS is a great choice."
+msgstr ""
+"Nyateƒee ma, ne nuƒlela le smartphone di si ƒe zãzã le bɔbɔe la, Firefox "
+"OS nye tiatia gatɔ."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"A customer tells you that she’s ready to move up from her old feature phone."
+" What selling feature should you lead with?"
+msgstr ""
+"Nuƒlela gblɔ na wo be yele dzadrado me be yeaɖe asi le yeƒe kaƒomɔ xoxo ŋu. "
+"Nudzradzra ƒe feature vevietɔ kae natsɔ do ŋgɔe?"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/ 2-0/introduction/
+#: 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Find out what makes Firefox OS perfect for new smartphone users by giving "
+"them just what they need."
+msgstr ""
+"Kpɔ nusi nana be Firefox OS nyo ŋutɔ na smartphone yeye zalawo to nusiwo hia"
+" nawo la nana me."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Not quite. A first time smartphone user will be most interested in ease of "
+"use."
+msgstr ""
+"Menye tutu o. Smartphone zigbatɔ̃ zãla ƒe didi vevietɔ anye eƒe zaza ƒe "
+"bɔbɔenyenye."
+
+#: 1-1/which-version/ 1-3T/which-version/ 1-4/which-version/
+#: 2-0/which-version/ 1-3/which-version/ 2-1/which-version/
+msgid "Which Version Do I Have?"
+msgstr "Version kae le asinye?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Still have questions? Not for long! Find all the answers you're looking for "
+"here."
+msgstr "Biabia gale asiwo a? Maadidi o! Kpɔ ŋuɖoɖo siwo dim nele le afii."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Every Firefox phone includes the Firefox browser, the fast, smart and safe "
+"way to get online."
+msgstr ""
+"Firefox browser, si tsɔna, le smart eye ganye mɔnu dedie si woyina online "
+"la, le Firefox ƒe kaƒomɔ ɖesiaɖe me."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I want a smartphone that is truly easy to use."
+msgstr "Medi smartphone si ƒe zaza le bɔbɔe ŋutɔ"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I’m a Firefox fan."
+msgstr "Me nye Firefox ƒe fan."
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"It needs to be easy to use.\""
+msgstr "\"Edzebe woanɔ bɔbɔe be woazee.\""
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+#: 2-1/demo-tips/
+msgid ""
+"Learn how to show off and talk about the key features and benefits of "
+"Firefox OS to your customers."
+msgstr ""
+"Srɔ alesi na da alo aƒo nu tso Firefox OS menuwo kple nusiwo nyo le eŋu la "
+"na wo nuƒlelawo."
+
+#: 1-1/take-the-challenge/ 1-3T/key-features/ 1-3T/take-the-challenge/
+#: 1-4/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Facebook"
+msgstr "Facebook"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "What makes Firefox OS more secure than other phones?"
+msgstr "Nukawoe na be Firefox OS le dedie wu kaƒomɔ bubuwo?"
+
+#: /1-1/ /1-3T/ /1-4/ /2-0/ /1-3/ /2-1/
+msgid ""
+"This global partner and community training hub has everything you need to "
+"effectively communicate the basics of Firefox OS. Select any topic to get "
+"started."
+msgstr ""
+"Nusianu si nehia be awɔ dzeɖoɖo na Firefox OS la le xexeame godoo ƒe partner"
+" kple community ƒe nufiaƒe sia. Tia tanya aɖe ne na dze egɔ̃me."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right!"
+msgstr "Ele teƒe!"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Smartphone Rookie"
+msgstr "Smartphone la ƒe Rookie"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right."
+msgstr "Ele teƒe!"
+
+#: 1-1/demo-tips/ 1-1/key-features/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/ 2-0/demo-tips/
+#: 2-0/key-features/ 1-3/demo-tips/ 1-3/key-features/ 2-1/demo-tips/
+#: 2-1/key-features/
+msgid "Marketplace"
+msgstr "Marketplace"
+
+#: /1-1/ /1-3T/ /1-4/ /2-0/ /1-3/ /2-1/
+msgid "Welcome!"
+msgstr "Woezɔ"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Value Seeker"
+msgstr "Nuvevi Dila"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "Do Android apps work on this phone?"
+msgstr "Android ƒe appwo wɔnadɔ le mɔ sia dzi a?"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"I love firefox!\""
+msgstr "\"Melɔ̃ firefox!\""
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "You can easily import contacts from Facebook to your Firefox OS phone."
+msgstr "Ateŋu ahe kɔntatiwo tso Facebook yiɖe wo Firefox OS ƒe kaƒomɔ dzi."
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+#: 2-1/demo-tips/
+msgid "Demo Tips"
+msgstr "Nufiamenuwo"
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/
+#: 1-4/take-the-challenge/ 2-0/key-features/ 2-0/take-the-challenge/
+#: 1-3/key-features/ 1-3/take-the-challenge/ 2-1/key-features/
+#: 2-1/take-the-challenge/
+msgid "Camera and Gallery"
+msgstr "Camera kple Gallery"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "What about customer support for apps?"
+msgstr "Ke kpeɖeŋu nana nuƒlelawo ɖe?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS includes all the same features you’ll find in competitive "
+"smartphones and gives you more value for the money."
+msgstr ""
+"Firefox OS xɔ na feature siwo le smartphone bubuwo si eye wogana na nusi dea"
+" asixɔxɔ wo ga ŋu."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I’m looking for the best value for my money."
+msgstr "Mele nunyui si ade asixɔxɔ nye ga ŋu la dim."
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/ 2-0/introduction/
+#: 1-3/introduction/ 2-1/introduction/
+msgid "Introduction"
+msgstr "Ŋgɔdonya"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "The Firefox Fan"
+msgstr "Firefox la ƒe Fan"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "How many and what types of apps will be available?"
+msgstr "Appwo neni alo vovototo kawoe li?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"A customer tells you that he uses Firefox as his desktop browser. With what "
+"selling feature should you lead?"
+msgstr ""
+"Nuƒlela gblɔ na wo be yezãna Firefox abe yeƒe desktop browser. Nudzradzra "
+"ƒe feature kae natsɔ do ŋgɔe?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS gives you access to popular, big name apps, as well as local "
+"content that means the most to you."
+msgstr ""
+"Firefox OS ɖea mɔ nawo be woasi nasu appga siwo bɔ kple local content siwo "
+"ne lɔ la dzi."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "False"
+msgstr "Alakpa"
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-4/key-features/ 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid "Firefox browser"
+msgstr "Firefox ƒe browser"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily import your friends from Facebook "
+"too."
+msgstr ""
+"Firefox OS nye smartphone bɔbɔetɔ wu si woakɔ dze egɔme. Woʋu mɔ na wo app "
+"vevitɔwo eye ateŋu ahe xɔlɔ̃wo tso Facebook bɔbɔe ha."
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+#: 2-1/demo-tips/
+msgid "Demonstrations That Matter"
+msgstr "Nufiamenuwo Siwo Hia"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "Where should I go if I have more questions?"
+msgstr "Afikae mayi ne biabia bubuwo le asinye?"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"See how Firefox OS fits into your customers' lives, no matter who they are "
+"or where they're from."
+msgstr ""
+"Kpɔ alesi Firefox OS sɔ ɖe wo nuƒlelawo ƒe agbenɔnɔ dzi la eɖanye amesi "
+"wonye loo alo afisi wotso."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Ready to show what you know?"
+msgstr "Ele ŋdzɔ be yeafia nusi ne nya?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. All of these customers are ideal candidates for Firefox OS!"
+msgstr "Ema nyo. Nuƒlela siawo kata dzɔ na Firefox OS!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"A customer tells you that smartphones seem complicated. What selling feature"
+" should you lead with?"
+msgstr ""
+"Nuƒlela gblɔ na wo be smartphonewo ƒe zãzã sese. Nudzradzra ƒe feature "
+"vevietɔ kae natsɔ do ŋgɔe?"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Discover what makes Firefox OS the most unique and exciting mobile operating"
+" system."
+msgstr ""
+"Keɖe nusi si na be Firefox OS to vovo eye wonye mobile ƒe operating system."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "I’ve never used a smartphone before."
+msgstr "Nye meza smartphone kpɔ o."
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/key-features/ 1-4/take-the-challenge/
+#: 2-0/key-features/ 2-0/take-the-challenge/ 1-3/key-features/
+#: 1-3/take-the-challenge/ 2-1/key-features/ 2-1/take-the-challenge/
+msgid "Contacts"
+msgstr "Kɔntatiwo"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Which Firefox OS feature does this icon represent?"
+msgstr "Firefox OS ƒe feature kae icon sia fia?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "You have questions? We have answers!"
+msgstr "Biabia le asiwo a? Ŋuɖoɖo le miasi!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “How do I know this "
+"new phone is safe?”"
+msgstr ""
+"Nukae nye ŋuɖoɖonyuitɔ na nuƒlela sia ƒe nugɔmemasemase? \"Aleke manya be "
+"nuƒomɔ yeye sia le nyuie?\""
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "How do I download and install apps on Firefox OS?"
+msgstr "Alekee ma download alo a install appwo ɖe Firefox OS dzi?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "True"
+msgstr "Nyateƒe"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"I have never had a smartphone.\""
+msgstr "\"Smartphone menɔ asinye kpɔ o.\""
+
+#: /1-1/ /1-3T/ /1-4/ /2-0/ /1-3/ /2-1/
+msgid "Master Firefox OS"
+msgstr "Master Firefox OS"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "\"I want a good deal.\""
+msgstr "\"Medi deal nyui aɖe.\""
+
+#: 1-1/about/ 1-3T/about/ 1-4/about/ 2-0/about/ 1-3/about/ 2-1/about/
+msgid ""
+"Our mission is to promote openness, innovation and opportunity on the Web."
+msgstr ""
+"Miaƒe taɖodzinu enye be miado openness, innovation kple mɔnuʋuʋu le Web ɖe "
+"dzi."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Put your new knowledge to the test with this series of fun, interactive "
+"quizzes."
+msgstr "Do wonunya kpɔ kple akɔɖiɖi kple kadodonyuitɔ biabia sia wo."
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "Customer Guide"
+msgstr "Nuƒlela ƒe Nufiamɔnuwo"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right. These statements are all true about Firefox OS."
+msgstr "Ema nyo. Nyagblɔgblɔ siawo katã le eteƒe tso Firefox OS ŋu."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid "Features that count"
+msgstr "Feature siwo hia la"
+
+#: 1-1/customer-guide/ 1-3T/customer-guide/ 1-4/customer-guide/
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid "Who is your ideal Firefox customer?"
+msgstr "Amekae nye wo nuƒlela si nedi la?"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid "Frequently Asked Questions"
+msgstr "Biabia siwo vana edziedzi"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/ 2-0/key-features/
+#: 1-3/key-features/ 2-1/key-features/
+msgid "Music and Video"
+msgstr "Hadzidzi and Video"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"By now, you probably have questions and so will your customers! Select each "
+"question for more on Firefox OS."
+msgstr ""
+"Ɖewomahi biabiawo anɔ asiwo fifia. Nenemakee nye wo nuƒlelawo ha! Tia biabia"
+" ɖesiaɖe nakpɔ nububuwo le Firefox OS dzi."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS isn’t cluttered with more than you need. It gives you what you’d "
+"expect in a smartphone, with an easy-to-use interface that makes it easy to "
+"get started."
+msgstr ""
+"Firefox OS meva kple nusiwo mahiawo la o. Anawo nusiwo nedi le smartphone "
+"me. Eva kple interface si le bɔbɔe na zaza la/"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
+msgstr "Le nyateƒe me la, nuƒlela siawo kata dzɔ na Firefox OS!"

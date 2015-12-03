@@ -1,0 +1,549 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-1/take-the-challenge/
+msgid ""
+"That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
+"OS helps to keep the Web free and open."
+msgstr ""
+"Ganz genau. Wenn Sie einen Firefox-Fan treffen, sprechen Sie darüber, dass "
+"die Entscheidung für Firefox OS dabei hilft, das Internet frei und offen zu "
+"halten."
+
+#: 1-1/frequently-asked-questions/
+msgid ""
+"Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the Open Web. It is designed to protect the user"
+" and system from malicious applications and content."
+msgstr ""
+"Firefox OS hat ein robustes Sicherheitsmodell, das in über einem Jahrzehnt "
+"der Unterstützung für das offene Web erprobt wurde. Es wurde entwickelt, um "
+"den Anwender und das System vor schädlichen Anwendungen und Inhalten zu "
+"schützen."
+
+#: 1-1/demo-tips/
+msgid "Music & FM Radio"
+msgstr "Musik und UKW-Radio"
+
+#: 1-1/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"helps to keep the Web free and open."
+msgstr ""
+"Wenn Sie einen Firefox-Fan treffen, sollten Sie eher darüber sprechen, dass "
+"die Entscheidung für Firefox OS hilft, das Internet frei und offen zu "
+"halten."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"Actually, the best response to this objection is to talk about the "
+"experience of the Mozilla community that is behind Firefox OS."
+msgstr ""
+"Eigentlich ist es die beste Antwort auf diese Kritik, über die Erfahrung der"
+" Mozilla-Gemeinschaft zu sprechen, die hinter Firefox OS steht."
+
+#: 1-1/introduction/
+msgid ""
+"Firefox OS is packed with all the features that made your customers want a "
+"smartphone in the first place: apps, maps, camera, gallery, social features,"
+" music and more. With all the features and no compromises, Firefox OS phones"
+" fit your customers' lives more perfectly, so they can fit in with the world"
+" around them."
+msgstr ""
+"Firefox OS ist voll mit den Funktionen, wegen denen Ihre Kunden überhaupt "
+"ein Smartphone verwenden möchten: Apps, Karten, Kamera, Galerie, soziale "
+"Funktionen, Musik und mehr. Dank all dieser Funktionen ohne Kompromisse "
+"passen Firefox-OS-Handys noch besser zum Leben Ihrer Kunden, so dass sie "
+"sich in die Welt um sie herum einfügen können."
+
+#: 1-1/take-the-challenge/
+msgid "Actually, this icon represents the Adaptive App Search."
+msgstr "Nein, dieses Symbol steht für die adaptive App-Suche."
+
+#: 1-1/frequently-asked-questions/
+msgid ""
+"Adaptive App Search is a new way to find content from across the Web and "
+"engage in an app-like experience without the headaches of downloading the "
+"app to find what you need. Whenever you search, your phone adapts to the "
+"search result and makes it easy to add those results to your home screen for"
+" easy access later."
+msgstr ""
+"Die adaptive App-Suche ist eine neue Möglichkeit, Inhalte aus dem gesamten "
+"Internet zu finden und ein App-ähnliches Erlebnis zu haben, ohne sich "
+"mühselig die App herunterladen zu müssen, um zu finden, was Sie suchen. Wann"
+" immer Sie suchen, passt sich Ihr Handy an die Suchergebnisse an und "
+"erleichtert es, diese Ergebnisse für den späteren Zugriff zum "
+"Startbildschirm hinzuzufügen."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"The Firefox OS smartphone includes all the features that you’d expect, "
+"including SMS, Facebook, email, maps and more, all at a better value."
+msgstr ""
+"Das Firefox-OS-Smartphone verfügt über alle Funktionen, die Sie erwarten "
+"würden, darunter SMS, Facebook, E-Mail, Karten und mehr, alles zu einem "
+"günstigen Preis."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"That’s right! You simply swipe to the left to access the Adaptive App Search"
+" feature."
+msgstr ""
+"Ganz genau! Man wischt einfach nach links, um auf die Funktion „Adaptive "
+"App-Suche“ zuzugreifen."
+
+#: 1-1/demo-tips/
+msgid "Camera & Gallery"
+msgstr "Kamera und Galerie"
+
+#: 1-1/customer-guide/
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below, and tap the bar to learn how to best respond to each of their unique"
+" needs."
+msgstr ""
+"Das Verständnis für die Bedürfnisse Ihres Kunden und eine schnelle Reaktion "
+"darauf sind Grundvoraussetzungen für jede Verkaufsgelegenheit. Sehen Sie "
+"sich die folgenden häufigen Kundensegmente an und tippen Sie auf die Leiste,"
+" um zu erfahren, wie Sie auf die jeweiligen besonderen Bedürfnisse am besten"
+" reagieren."
+
+#: 1-1/key-features/
+msgid ""
+"The fast, smart, safe way to get the best of the Web. Use the URL bar to "
+"enter websites, perform searches and access your browsing history. Plus, "
+"tabs let you multitask by browsing multiple pages simultaneously."
+msgstr ""
+"Der schnelle, intelligente und sichere Weg, das Beste aus dem Internet "
+"herauszuholen.Verwenden Sie die Adressleiste, um die Adresse einer Website "
+"einzugeben, zu suchen und auf Ihre Surf-Chronik zuzugreifen. Außerdem können"
+" Sie mit Tabs auf mehreren Seiten gleichzeitig surfen."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"Actually, they're are more. All of these apps come pre-loaded on every "
+"Firefox OS phone."
+msgstr ""
+"Es sind sogar noch mehr. Alle diese Apps sind standardmäßig auf jedem "
+"Firefox-OS-Handy installiert."
+
+#: 1-1/key-features/
+msgid "SMS and Email"
+msgstr "SMS und E-Mail"
+
+#: 1-1/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit. Firefox OS "
+"smartphones are backed by a global community of thousands of developers "
+"working to innovate on your customers' behalf and made locally with their "
+"interests and needs in mind. When customers' choose Firefox OS, they’re "
+"helping build a brighter future for the Web for all."
+msgstr ""
+"Bei Mozilla wollen wir etwas bewegen, nicht Gewinne erzielen. Hinter "
+"Firefox-OS-Smartphones steht eine weltweite Gemeinschaft aus Tausenden von "
+"Entwicklern, die Innovationen im Sinne Ihrer Kunden bewirken möchten. "
+"Außerdem werden sie mit Rücksicht auf die Interessen und Bedürfnisse Ihrer "
+"Kunden vor Ort entwickelt. Wenn Kunden sich für Firefox OS entscheiden, "
+"helfen sie dabei, eine leuchtendere Zukunft für das Internet für alle zu "
+"schaffen."
+
+#: 1-1/key-features/
+msgid ""
+"Your go-to source for the best apps for Firefox OS. Browse tens of thousands"
+" of free and paid apps in multiple categories, including games, utilities, "
+"music, travel, sports, and more."
+msgstr ""
+"Ihre Anlaufstelle für die besten Apps für Firefox OS. Durchsuchen Sie "
+"zehntausende von kostenlosen und kostenpflichtigen Apps in mehreren "
+"Kategorien, von Spielen bis Hilfsmittel, Musik, Reise, Sport und mehr."
+
+#: 1-1/take-the-challenge/
+msgid "Get ready to sell!"
+msgstr "Bereitmachen zum Verkaufen!"
+
+#: 1-1/customer-guide/
+msgid ""
+"<strong>What can you say?</strong> Firefox OS gives you the most value for "
+"your money. It has everything you expect in a smartphone — camera, email, "
+"apps, music, maps and more — at the most competitive prices."
+msgstr ""
+"<strong>Was können Sie sagen?</strong> Mit Firefox OS bekommen Sie das "
+"Meiste für Ihr Geld. Es hat alles, was Sie von einem Smartphone erwarten – "
+"Kamera, E-Mail, Apps, Musik, Karten und mehr – und das zu günstigsten "
+"Preisen."
+
+#: 1-1/demo-tips/
+msgid "Stay Connected"
+msgstr "In Verbindung bleiben"
+
+#: 1-1/frequently-asked-questions/
+msgid ""
+"Firefox OS is built on Web technologies but has offline capabilities for all"
+" the phone’s core functionalities. That means apps do not require an active "
+"internet connection to function unless the app must send or receive data to "
+"another system through the internet to continue working."
+msgstr ""
+"Firefox OS basiert auf Web-Technologien, verfügt aber über Offline-"
+"Möglichkeiten für die Kernfunktionen des Handys. Das bedeutet, dass Apps, "
+"die keine ständige Internet-Verbindung benötigen, weiter funktionieren, "
+"außer wenn die App für ihr Funktionieren Daten mit einem anderen System über"
+" das Internet austauschen muss."
+
+#: 1-1/frequently-asked-questions/
+msgid ""
+"App developers around the world are committed to Firefox OS and tens of "
+"thousands of free and paid applications will be available at launch. The "
+"growing list includes leading app developers like Accuweather, Airbnb, Box, "
+"Cut the Rope, EA Games, Facebook, Nokia HERE&reg;, MTV Brasil, Pulse News, "
+"SoundCloud, SporTV, Time Out and Twitter."
+msgstr ""
+"App-Entwickler auf der ganzen Welt setzen sich für Firefox OS ein und "
+"zehntausende kostenloser und kostenpflichtiger Anwendungen werden zum "
+"Verkaufsstart verfügbar sein. Zu der wachsenden Liste gehören führende App-"
+"Entwickler wie Accuweather, Airbnb, Box, Cut the Rope, EA Games, Facebook, "
+"Nokia HERE&reg;, MTV Brasil, Pulse News, SoundCloud, SporTV, Time Out und "
+"Twitter."
+
+#: 1-1/key-features/
+msgid ""
+"Firefox OS is packed with the features that your customers expect in a "
+"smartphone. It fits their lives perfectly so they can keep pace with the "
+"world around them."
+msgstr ""
+"Firefox OS ist voll mit den Funktionen, die Ihre Kunden in einem Smartphone "
+"erwarten. Es passt sich perfekt an ihre Leben an, damit sie mit der Welt um "
+"sie herum Schritt halten können."
+
+#: 1-1/take-the-challenge/
+msgid "That’s right. This icon represents the Firefox browser."
+msgstr "Ganz genau. Dieses Symbol steht für den Firefox-Browser."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"That’s right. With this customer, highlight the great value of Firefox OS "
+"and the full feature set, including social apps that are preloaded on the "
+"phone."
+msgstr ""
+"Ganz genau. Bei diesem Kunden sollten Sie den großen Wert von Firefox und "
+"seine umfangreichen Funktionen hervorheben, darunter Apps für soziale "
+"Medien, die auf dem Handy vorinstalliert sind."
+
+#: 1-1/demo-tips/
+msgid ""
+"Firefox OS lets customers take control of their online lives and get the "
+"best of the Web no matter where they go."
+msgstr ""
+"Mit Firefox OS haben die Nutzer die Kontrolle über ihr Online-Leben und "
+"holen das Beste aus dem Internet heraus, egal wo sie sind."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"That’s right. With a first time smart phone user, you should talk about its "
+"simplicity and features like Adaptive App Search."
+msgstr ""
+"Ganz genau. Bei einem Anwender, der noch nie ein Smartphone hatte sollten "
+"Sie über seine Einfachheit und Funktionen wie die „Adaptive App-Suche“ "
+"sprechen."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"Actually, with a first time smart phone user, you should talk about its "
+"simplicity and features like Adaptive App Search."
+msgstr ""
+"Bei einem Kunden, der vorher noch kein Smartphone hatte, sollten Sie eher "
+"darüber sprechen, wie einfach es ist und über Funktionen wie die adaptive "
+"App-Suche."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"Think you're ready to start selling Firefox OS to your customers? Put your "
+"knowledge to work and answer these questions to prove you have what it "
+"takes."
+msgstr ""
+"Halten Sie sich für so gut wie bereit, Ihren Kunden Firefox OS zu verkaufen?"
+" Lassen Sie Ihr Wissen arbeiten und beantworten Sie diese Fragen, um zu "
+"zeigen, dass Sie das notwendige Wissen besitzen."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"Not quite, the best response to this objection is to talk about all the apps"
+" that are available."
+msgstr ""
+"Nicht ganz, die beste Antwort auf diese Kritik ist es, über die vielen "
+"verfügbaren Apps zu sprechen."
+
+#: 1-1/take-the-challenge/
+msgid "Music Player"
+msgstr "Musikwiedergabe"
+
+#: 1-1/take-the-challenge/
+msgid "Email and SMS"
+msgstr "E-Mail und SMS"
+
+#: 1-1/frequently-asked-questions/
+msgid ""
+"Firefox OS offers two ways to get apps: <ul> <li>Firefox Marketplace — Our "
+"go-to source for great apps like Twitter and awesome local content from the "
+"best Web developers in your region.</li> <li>Adaptive App Search — Just type"
+" a single word like “sushi” to discover related mobile apps in your region, "
+"delivered by a superior mobile experience and tuned to bring you what you "
+"want.</li> </ul>"
+msgstr ""
+"Firefox OS bietet zwei Möglichkeiten um Apps zu erhalten: <ul><li>Firefox "
+"Marketplace – Unsere Anlaufstelle für tolle Apps wie Twitter und wunderbare "
+"lokale Inhalte von den besten Web-Entwicklern in Ihrer "
+"Region.</li><li>Adaptive App-Suche – Geben Sie einfach ein Wort wie „Sushi“ "
+"ein, um passende mobile Apps in Ihrer Region zu entdecken, die Ihnen von "
+"einem besseren mobilen Erlebnis zur Verfügung gestellt werden, und Ihnen "
+"geben sollen, was Sie möchten.</li></ul>"
+
+#: 1-1/introduction/
+msgid ""
+"Your customers' needs are always changing. Firefox OS smartphones adapt to "
+"your customers' needs so they can live every moment to its fullest. Easy to "
+"use, they’re perfect for new smartphone users and full of all the features "
+"that customers expect. Powered by Mozilla, Firefox OS devices are the right "
+"choice for anyone committed to ensuring that the Web remains a public "
+"resource available to all."
+msgstr ""
+"Die Bedürfnisse Ihrer Kunden ändern sich ständig. Smartphones mit Firefox OS"
+" passen sich den Bedürfnissen Ihrer Kunden an, damit sie jeden Augenblick "
+"voll ausleben können. Sie sind einfach zu verwenden, sind perfekt für "
+"Smartphone-Einsteiger und voll mit den Funktionen, die Kunden erwarten. "
+"Hinter den Firefox-OS-Geräten steht Mozilla  und sie sind die richtige Wahl "
+"für jeden, der sich dafür einsetzt, dass das Internet eine für alle "
+"zugängliche öffentliche Ressource bleibt."
+
+#: 1-1/take-the-challenge/
+msgid "Actually, this icon represents the Firefox browser."
+msgstr "Nein, dieses Symbol steht für den Firefox-Browser."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"If you have worked through the questions and all of the content, then you "
+"have the basics to match the needs of Firefox OS to your customers. Easy to "
+"use, a Firefox OS smartphone is perfect for new smartphone users and full of"
+" all the features that customers want and need. And it is powered by "
+"Mozilla, making Firefox OS the right choice for anyone committed to ensuring"
+" that the power of the Web remains in the hands of users everywhere!"
+msgstr ""
+"Wenn Sie sich durch die Fragen und den Inhalt gearbeitet haben, dann haben "
+"Sie jetzt das Grundwissen, um Firefox OS und die Bedürfnisse Ihrer Kunden "
+"abzugleichen. Ein Firefox-OS-Smartphone ist einfach zu benutzen, perfekt für"
+" Smartphone-Einsteiger und voll mit den Funktionen, die Kunden wollen und "
+"benötigen. Und hinter allem steht Mozilla, was Firefox OS zur richtigen Wahl"
+" für jeden macht, der sich dafür engagiert, dass die Kraft des Internets in "
+"den Händen der Nutzer auf der ganzen Welt bleibt!"
+
+#: 1-1/take-the-challenge/
+msgid ""
+"Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps ready for the web."
+msgstr ""
+"Mozilla, die Entwickler von Firefox, haben ein Betriebssystem für "
+"Smartphones entwickelt, um das Internet für alle zugänglich zu halten. "
+"Firefox OS wurde komplett in HTML5 entwickelt, daher erhalten Sie direkten "
+"Zugang zu Tausenden von Apps, die bereits für das Web entwickelt wurden."
+
+#: 1-1/key-features/
+msgid ""
+"Get satellite, public transport, and live traffic views, search for points "
+"of interest and even save your map locally for quicker remote access. HERE "
+"Maps can pinpoint your location and even give you directions (car, walking "
+"or public transportation) to get you to your destination."
+msgstr ""
+"Sie erhalten eine Satellitenansicht, ÖPNV-Informationen und "
+"Echtzeitverkehrsdaten, können nach Orten von Interesse suchen und sogar Ihre"
+" Karte lokal für einen schnelleren Zugriff unterwegs speichern. Here Maps "
+"kann Ihren Standort erkennen und Ihnen sogar Wegbeschreibungen (Auto, zu Fuß"
+" oder ÖPNV) liefern, um Sie an Ihr Ziel zu bringen."
+
+#: 1-1/take-the-challenge/
+msgid "That’s right! This icon represents SMS—or text messaging."
+msgstr "Ganz genau! Dieses Symbol steht für die SMS-App."
+
+#: 1-1/key-features/
+msgid ""
+"With built-in style filters for fun, creative shots, and lots of ways to "
+"share your photographs, the full-featured camera and photo gallery will have"
+" all your subjects smiling."
+msgstr ""
+"Dank integrierten Stilfiltern für interessante, kreative Fotos und vielen "
+"Möglichkeiten, Ihre Fotos zu teilen, bringen die funktionsbeladene Kamera "
+"und Fotogalerie alle Ihre Motive zum Lächeln."
+
+#: 1-1/frequently-asked-questions/
+msgid "Which email providers are supported?"
+msgstr "Welche E-Mail-Anbieter werden unterstützt?"
+
+#: 1-1/customer-guide/
+msgid ""
+"<strong>What can you say?</strong> If you know and love Firefox, you’ll love"
+" Firefox OS. Firefox OS smartphones are entirely HTML5-based, bringing the "
+"best of the Web to your phone. Plus, Firefox OS is designed by a community "
+"dedicated to keeping the Web accessible to all. When you choose Firefox OS, "
+"you have the full power of the Web in your hands."
+msgstr ""
+"<strong>Was können Sie sagen?</strong> Wenn Sie Firefox kennen und lieben, "
+"werden Sie auch Firefox OS lieben. Firefox-OS-Smartphones basieren komplett "
+"auf HTML5 und bringen so das Beste des Internets auf Ihr Handy. Außerdem "
+"wird Firefox OS von einer Gemeinschaft entwickelt, die sich dafür einsetzt, "
+"dass das Internet für alle zugänglich bleibt. Wenn Sie sich für Firefox OS "
+"entscheiden, haben Sie die geballte Macht des Internets in Ihren Händen."
+
+#: 1-1/key-features/
+msgid ""
+"A new way to get what you need right when you need it, without any of the "
+"headaches of downloading applications. Search for anything, and Firefox OS "
+"adapts to your request, displaying photos, video, music, news, maps and more"
+" - making it much easier for you to find what you were really looking for."
+msgstr ""
+"Eine neue Möglichkeit, um rechtzeitig das zu finden, was Sie benötigen, ohne"
+" mühselig Anwendungen herunterladen zu müssen. Egal was Sie suchen, Firefox "
+"OS passt sich an Ihre Anforderung an und zeigt Fotos und Videos, spielt "
+"Musik und liefert Nachrichten, Karten und mehr – sodass es für Sie viel "
+"einfacher ist zu finden, was Sie eigentlich suchen."
+
+#: 1-1/demo-tips/
+msgid ""
+"Photograph, edit and share. Show off our full-featured camera and gallery "
+"apps, including built-in style filters, video and more."
+msgstr ""
+"Machen Sie Fotos, bearbeiten und teilen Sie diese. Zeigen Sie unsere "
+"funktionsreichen Kamera- und Galerie-Apps, inklusive der enthaltenen "
+"Stilfilter, Video und mehr."
+
+#: 1-1/frequently-asked-questions/
+msgid ""
+"Hotmail and Yahoo mail are currently supported with more on the way in "
+"future releases."
+msgstr ""
+"Hotmail und Yahoo Mail werden derzeit unterstützt. Weitere E-Mail-Anbieter "
+"werden folgen."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"That's not it. With this customer, be sure to highlight the great value of "
+"Firefox OS, and its full feature set, including social apps that are "
+"preloaded on the phone, all at great value."
+msgstr ""
+"Nicht ganz. Bei diesem Kunden sollten Sie den großen Wert von Firefox und "
+"seine umfangreichen Funktionen hervorheben, darunter Apps für soziale "
+"Medien, die auf dem Handy vorinstalliert sind, und das zu einem guten Preis."
+
+#: 1-1/customer-guide/
+msgid ""
+"<strong>What can you say?</strong> Firefox OS is the easiest smartphone to "
+"get you started. Adaptive App Search helps you find the things you need "
+"simply — and instantly. The user interface is so intuitive, you will be able"
+" to quickly discover and download your favorite apps so you’re ready to go."
+msgstr ""
+"<strong>Was können Sie sagen?</strong> Firefox OS ist das am einfachsten zu "
+"bedienende Smartphone für den Einstieg. Die adaptive App-Suche hilft Ihnen, "
+"einfach – und sofort – das Gesuchte zu finden. Die Benutzeroberfläche ist so"
+" intuitiv, dass Sie Ihre Lieblings-Apps schnell finden und herunterladen "
+"können, um startklar zu sein."
+
+#: 1-1/take-the-challenge/
+msgid "SMS"
+msgstr "SMS"
+
+#: 1-1/take-the-challenge/
+msgid ""
+"While all of the these statements are true, which two responses would be "
+"most useful to a first-time smartphone customer?"
+msgstr ""
+"Alle diese Aussagen sind zwar wahr, aber welche wäre die hilfreichste für "
+"einen Kunden, der zum ersten Mal ein Smartphone kauft?"
+
+#: 1-1/key-features/
+msgid ""
+"Stay connected to your friends and colleagues wherever you are. It's easy to"
+" set up multiple email accounts, with support for the most common Exchange, "
+"SMTP or IMAP email providers."
+msgstr ""
+"Bleiben Sie mit Ihren Freunden und Kollegen in Verbindung, egal wo Sie sind."
+" Die Einrichtung mehrerer E-Mail-Konten ist einfach und es werden die "
+"häufigsten E-Mail-Anbieter für Exchange, SMTP oder IMAP unterstützt."
+
+#: 1-1/demo-tips/
+msgid "Intro to FirefoxOS"
+msgstr "Einführung in Firefox OS"
+
+#: 1-1/take-the-challenge/
+msgid ""
+"That’s not it. You simply swipe to the left to access the Adaptive App "
+"Search feature."
+msgstr ""
+"Leider nicht. Man wischt einfach nach links, um auf die Funktion „Adaptive "
+"App-Suche“ zuzugreifen."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, are part of keeping the Web free and "
+"open. And while all of these statements are true, only this one is the best "
+"response for this particular customer."
+msgstr ""
+"Ganz genau. Dieser Kunde scheint Firefox-Fan zu sein. Sprechen Sie darüber, "
+"dass die von Mozilla entwickelten Firefox-OS-Handys dabei helfen, das "
+"Internet frei und offen zu halten. Auch wenn alle dieser Aussagen korrekt "
+"sind, ist nur diese die beste Antwort für diesen Kunden."
+
+#: 1-1/take-the-challenge/
+msgid "Actually, this icon represents SMS—or text messaging."
+msgstr "Nein, dieses Symbol steht für die SMS-App."
+
+#: 1-1/take-the-challenge/
+msgid ""
+"Actually, the best response to this objection is to talk about the robust "
+"security model."
+msgstr ""
+"Eigentlich ist es die beste Antwort auf diese Kritik, über das robuste "
+"Sicherheitsmodell zu sprechen."
+
+#: 1-1/customer-guide/
+msgid ""
+"<strong>What can you say?</strong> Firefox OS is the best choice for first "
+"time smartphone users. It is super easy to use, and it adapts to your needs "
+"better than any other phone, so you get more of what you need with less time"
+" searching. Plus, it is packed with all the features you’d expect, from "
+"camera, to email, apps, music, maps and more."
+msgstr ""
+"<strong>Was können Sie sagen?</strong> Firefox OS ist die beste Wahl für "
+"Smartphone-Einsteiger. Es lässt sich ganz einfach bedienen und passt sich "
+"Ihren Bedürfnissen besser an als jedes andere Handy, sodass Sie mehr von dem"
+" erhalten, was Sie benötigen, ohne viel Zeit mit Suchen zu verbringen. "
+"Außerdem verfügt es über alle Funktionen, die Sie erwarten würden, von "
+"Kamera bis E-Mail, Apps, Musik, Karten und mehr."
+
+#: 1-1/take-the-challenge/
+msgid "Which Firefox OS feature does this represent?"
+msgstr "Für welche Firefox-OS-Funktion steht dieses Symbol?"
+
+#: 1-1/take-the-challenge/
+msgid ""
+"All of these statements are true, but only one is the best response for this"
+" particular customer, who seems to be a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, are part of keeping the Web free and "
+"open."
+msgstr ""
+"Alle diese Aussagen sind wahr, aber nur eine ist die beste Antwort für "
+"diesen Kunden, der ein Firefox-Fan zu sein scheint. Sprechen Sie darüber, "
+"dass die von Mozilla entwickelten Firefox-OS-Handys dabei helfen, das "
+"Internet frei und offen zu halten."
+
+#: 1-1/demo-tips/ 1-1/take-the-challenge/
+msgid "HERE Maps"
+msgstr "HERE Maps"

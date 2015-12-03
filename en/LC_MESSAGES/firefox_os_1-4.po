@@ -1,0 +1,361 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-4/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping the Web in their hands."
+msgstr ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping the Web in their hands."
+
+#: 1-4/take-the-challenge/
+msgid ""
+"That’s quite not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers.\""
+msgstr ""
+"That’s quite not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers.\""
+
+#: 1-4/take-the-challenge/
+msgid ""
+"That’s not it.  You can access Adaptive App Search directly on your home "
+"screen./p>"
+msgstr ""
+"That’s not it.  You can access Adaptive App Search directly on your home "
+"screen./p>"
+
+#: 1-4/take-the-challenge/
+msgid ""
+"The Firefox OS smartphone is preloaded with all the features that you’d "
+"expect, including Messages, Facebook, email, maps and more, all at a better "
+"value.</p?"
+msgstr ""
+"The Firefox OS smartphone is preloaded with all the features that you’d "
+"expect, including Messages, Facebook, email, maps and more, all at a better "
+"value.</p?"
+
+#: 1-4/demo-tips/
+msgid "Social"
+msgstr "Social"
+
+#: 1-4/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and it adapts to your "
+"needs better than any other phone, so you get more of what you need with "
+"less time searching. Plus, it is packed with all the features you’d expect, "
+"from camera, to email, apps, music, maps and more."
+msgstr ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and it adapts to your "
+"needs better than any other phone, so you get more of what you need with "
+"less time searching. Plus, it is packed with all the features you’d expect, "
+"from camera, to email, apps, music, maps and more."
+
+#: 1-4/demo-tips/
+msgid ""
+"Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. So what should you show? Browse the demonstration "
+"videos below to get started."
+msgstr ""
+"Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. So what should you show? Browse the demonstration "
+"videos below to get started."
+
+#: 1-4/take-the-challenge/
+msgid ""
+"That’s not it.  With this customer, highlight the great value of Firefox OS "
+"full feature set of Firefox OS, including social apps that are preloaded on "
+"the phone, all at great value."
+msgstr ""
+"That’s not it.  With this customer, highlight the great value of Firefox OS "
+"full feature set of Firefox OS, including social apps that are preloaded on "
+"the phone, all at great value."
+
+#: 1-4/demo-tips/
+msgid "Music and FM Radio"
+msgstr "Music and FM Radio"
+
+#: 1-4/frequently-asked-questions/
+msgid ""
+"Firefox OS provides two ways to get apps: <ul> <li>Firefox  Marketplace — "
+"Our go-to source for great apps like Twitter and awesome local content from "
+"the best Web developers in your region.</li> <li>Adaptive App Search — Just "
+"type a single word like \"news\" to discover related mobile apps in your "
+"region, delivered by a superior mobile experience and tuned to bring you "
+"what you want. </li> </ul>"
+msgstr ""
+"Firefox OS provides two ways to get apps: <ul> <li>Firefox  Marketplace — "
+"Our go-to source for great apps like Twitter and awesome local content from "
+"the best Web developers in your region.</li> <li>Adaptive App Search — Just "
+"type a single word like \"news\" to discover related mobile apps in your "
+"region, delivered by a superior mobile experience and tuned to bring you "
+"what you want. </li> </ul>"
+
+#: 1-4/introduction/
+msgid ""
+"Your customer’s needs are always changing. Firefox OS smartphones adapt to "
+"your customers’ needs so they can live every moment to its fullest. Easy to "
+"use, they’re perfect for new smartphone users and full of all the features "
+"that customers expect. Powered by Mozilla, Firefox OS devices are the right "
+"choice for anyone committed to ensuring that the Web remains"
+msgstr ""
+"Your customer’s needs are always changing. Firefox OS smartphones adapt to "
+"your customers’ needs so they can live every moment to its fullest. Easy to "
+"use, they’re perfect for new smartphone users and full of all the features "
+"that customers expect. Powered by Mozilla, Firefox OS devices are the right "
+"choice for anyone committed to ensuring that the Web remains"
+
+#: 1-4/introduction/
+msgid ""
+"Firefox OS adapts to the needs of customers better than any other phone.   "
+"Adaptive App Search serves up information on any subject and gives your "
+"customers more of what they’re looking for, exactly when they need it. This "
+"lets them make the most of every moment."
+msgstr ""
+"Firefox OS adapts to the needs of customers better than any other phone.   "
+"Adaptive App Search serves up information on any subject and gives your "
+"customers more of what they’re looking for, exactly when they need it. This "
+"lets them make the most of every moment."
+
+#: 1-4/key-features/
+msgid ""
+"Get satellite, public transport, and live traffic views, search for points "
+"of interest, and even save your map locally for quicker remote access. Here "
+"Maps can pinpoint your location and even give you directions (car, walking "
+"or public transportation) to get you to your destination."
+msgstr ""
+"Get satellite, public transport, and live traffic views, search for points "
+"of interest, and even save your map locally for quicker remote access. Here "
+"Maps can pinpoint your location and even give you directions (car, walking "
+"or public transportation) to get you to your destination."
+
+#: 1-4/take-the-challenge/
+msgid ""
+"That’s right. With this customer, highlight the great value of Firefox OS "
+"full feature set of Firefox OS, including social apps that are preloaded on "
+"the phone, all at great value."
+msgstr ""
+"That’s right. With this customer, highlight the great value of Firefox OS "
+"full feature set of Firefox OS, including social apps that are preloaded on "
+"the phone, all at great value."
+
+#: 1-4/key-features/
+msgid ""
+"Your go-to source for the best apps for Firefox OS. Browse tens of thousands"
+" of free and paid apps in multiple categories, from games to utilities, "
+"music, travel, sports, and more."
+msgstr ""
+"Your go-to source for the best apps for Firefox OS. Browse tens of thousands"
+" of free and paid apps in multiple categories, from games to utilities, "
+"music, travel, sports, and more."
+
+#: 1-4/demo-tips/
+msgid "Browsing"
+msgstr "Browsing"
+
+#: 1-4/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone to get you started.  Adaptive App Search helps you find the "
+"things you need simply — and instantly. The user interface is so intuitive, "
+"you will be able to quickly discover and download your favorite apps so "
+"you’re ready to go."
+msgstr ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone to get you started.  Adaptive App Search helps you find the "
+"things you need simply — and instantly. The user interface is so intuitive, "
+"you will be able to quickly discover and download your favorite apps so "
+"you’re ready to go."
+
+#: 1-4/frequently-asked-questions/
+msgid ""
+"Firefox OS is built on Web technologies but has offline capabilities for all"
+" the phone’s core functionalities.  That means apps do not require an active"
+" Internet connection to work unless they need to send or receive date."
+msgstr ""
+"Firefox OS is built on Web technologies but has offline capabilities for all"
+" the phone’s core functionalities.  That means apps do not require an active"
+" Internet connection to work unless they need to send or receive date."
+
+#: 1-4/demo-tips/
+msgid "Map"
+msgstr "Map"
+
+#: 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Firefox Browser."
+msgstr "That’s right. This icon represents Firefox Browser."
+
+#: 1-4/take-the-challenge/
+msgid "Actually, this icon represents Firefox Browser."
+msgstr "Actually, this icon represents Firefox Browser."
+
+#: 1-4/take-the-challenge/
+msgid ""
+"That’s right!  You can access Adaptive App Search directly on your home "
+"screen."
+msgstr ""
+"That’s right!  You can access Adaptive App Search directly on your home "
+"screen."
+
+#: 1-4/introduction/
+msgid "Have it All"
+msgstr "Have it All"
+
+#: 1-4/take-the-challenge/
+msgid ""
+"That’s not it.  Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"That’s not it.  Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+
+#: 1-4/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit.  Firefox OS "
+"smartphones are backed by a global community of thousands of developers "
+"working to innovate on your customers’ behalf and made locally with their "
+"interests and needs in mind. When customers choose Firefox OS, they’re "
+"helping build a brighter future for the Web for all."
+msgstr ""
+"At Mozilla, we’re out to make a difference, not a profit.  Firefox OS "
+"smartphones are backed by a global community of thousands of developers "
+"working to innovate on your customers’ behalf and made locally with their "
+"interests and needs in mind. When customers choose Firefox OS, they’re "
+"helping build a brighter future for the Web for all."
+
+#: 1-4/demo-tips/
+msgid "Firefox OS puts the Web in users’ hands better than any other phone."
+msgstr "Firefox OS puts the Web in users’ hands better than any other phone."
+
+#: 1-4/key-features/
+msgid ""
+"The fast, smart, safe way to get the best of the Web. Use the awesome bar to"
+" enter website URL’s, perform searches, and access your browsing history. "
+"Plus, tabs let you multitask by browsing multiple pages simultaneously."
+msgstr ""
+"The fast, smart, safe way to get the best of the Web. Use the awesome bar to"
+" enter website URL’s, perform searches, and access your browsing history. "
+"Plus, tabs let you multitask by browsing multiple pages simultaneously."
+
+#: 1-4/take-the-challenge/
+msgid ""
+"If you have worked through the questions and all of the content, then you "
+"have the basics to match the needs of Firefox OS to your customers.  Easy to"
+" use, a Firefox OS smartphone is perfect for new smartphone users and full "
+"of all the features that customers want and need.  And it is powered by "
+"Mozilla, making Firefox OS the right choice for anyone committed to ensuring"
+" that the Web remains in your hands!"
+msgstr ""
+"If you have worked through the questions and all of the content, then you "
+"have the basics to match the needs of Firefox OS to your customers.  Easy to"
+" use, a Firefox OS smartphone is perfect for new smartphone users and full "
+"of all the features that customers want and need.  And it is powered by "
+"Mozilla, making Firefox OS the right choice for anyone committed to ensuring"
+" that the Web remains in your hands!"
+
+#: 1-4/key-features/
+msgid ""
+"An new way to get what you need right when you need it, without any of the "
+"headaches of downloading applications Search for anything, and Firefox OS "
+"adapts to your request, displaying photos, video, music, news, maps and more"
+" - making it much easier for you to find what you were really looking for."
+msgstr ""
+"An new way to get what you need right when you need it, without any of the "
+"headaches of downloading applications Search for anything, and Firefox OS "
+"adapts to your request, displaying photos, video, music, news, maps and more"
+" - making it much easier for you to find what you were really looking for."
+
+#: 1-4/take-the-challenge/
+msgid "Here Maps"
+msgstr "Here Maps"
+
+#: 1-4/frequently-asked-questions/
+msgid ""
+"App developers around the world are committed to Firefox OS and tens of "
+"thousands of free and paid applications will be available at launch. The "
+"growing list includes leading app developers like Accuweather, Airbnb, Box, "
+"Cut the Rope, EA Games, Facebook, Nokia HERE, MTV Brasil, Pulse News, "
+"SoundCloud, SporTV, Time Out and Twitter."
+msgstr ""
+"App developers around the world are committed to Firefox OS and tens of "
+"thousands of free and paid applications will be available at launch. The "
+"growing list includes leading app developers like Accuweather, Airbnb, Box, "
+"Cut the Rope, EA Games, Facebook, Nokia HERE, MTV Brasil, Pulse News, "
+"SoundCloud, SporTV, Time Out and Twitter."
+
+#: 1-4/frequently-asked-questions/
+msgid ""
+"Users can place bookmarks to any website on the home page to provide the "
+"functionality of that website directly from the home screen. Also, users can"
+" simply enter any search term on the home screen and instantly create a one-"
+"time use or downloadable app. Creating and consuming these apps on demand "
+"puts users in complete control of their smartphone experience and will make "
+"it possible for people to get the exact content they want, when they want "
+"it."
+msgstr ""
+"Users can place bookmarks to any website on the home page to provide the "
+"functionality of that website directly from the home screen. Also, users can"
+" simply enter any search term on the home screen and instantly create a one-"
+"time use or downloadable app. Creating and consuming these apps on demand "
+"puts users in complete control of their smartphone experience and will make "
+"it possible for people to get the exact content they want, when they want "
+"it."
+
+#: 1-4/frequently-asked-questions/
+msgid ""
+"Visit <a href=\"hhttps://support.mozilla.org/en-US/products/firefox-"
+"os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
+"information."
+msgstr ""
+"Visit <a href=\"hhttps://support.mozilla.org/en-US/products/firefox-"
+"os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
+"information."
+
+#: 1-4/key-features/
+msgid ""
+"Stay connected to your friends and colleagues wherever you are. Its easy to "
+"set up multiple email accounts, with support for the most common Exchange, "
+"SMTP or IMAP email providers."
+msgstr ""
+"Stay connected to your friends and colleagues wherever you are. Its easy to "
+"set up multiple email accounts, with support for the most common Exchange, "
+"SMTP or IMAP email providers."
+
+#: 1-4/introduction/
+msgid ""
+"Firefox OS is packed with all the features that made your customers want a "
+"smartphone in the first place: apps, maps, camera, gallery, social features,"
+" music and more.  Firefox OS lets customers take control of their online "
+"lives and get the best of the Web no matter where they go."
+msgstr ""
+"Firefox OS is packed with all the features that made your customers want a "
+"smartphone in the first place: apps, maps, camera, gallery, social features,"
+" music and more.  Firefox OS lets customers take control of their online "
+"lives and get the best of the Web no matter where they go."
+
+#: 1-4/take-the-challenge/
+msgid "It’s directly on your home screen"
+msgstr "It’s directly on your home screen"
+
+#: 1-4/demo-tips/
+msgid ""
+"Photograph, edit and share. Show off our full-featured camera and gallery "
+"apps, including built-in style filters, video, and more"
+msgstr ""
+"Photograph, edit and share. Show off our full-featured camera and gallery "
+"apps, including built-in style filters, video, and more"

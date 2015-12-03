@@ -1,0 +1,22 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-4/customer-guide/ 2-0/customer-guide/ 1-3/customer-guide/
+#: 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
+"value for your money. It has everything you expect in a smartphone — camera,"
+" email, apps, music, maps and more — at the most competitive prices."
+msgstr ""
+"<strong>Hier is wat jy kan sê:</strong> Firefox OS gee jou die beste waarde "
+"vir jou geld. Dit het alles wat jy van ’n slimfoon verwag – kamera, e-pos, "
+"programme, musiek, kaarte en nog baie meer – teen die mees mededingende "
+"pryse."

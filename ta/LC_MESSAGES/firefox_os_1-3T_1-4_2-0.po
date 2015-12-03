@@ -1,0 +1,18 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+msgid ""
+"With Adaptive App Search, Firefox OS adapts to you needs better than any "
+"other phone."
+msgstr ""
+"மற்ற பேசிகளை விட தகவமைப்பு பயன்பாடு தேடல், உங்களுடைய தேவைகளை நன்றாக "
+"உணர்கிறது."

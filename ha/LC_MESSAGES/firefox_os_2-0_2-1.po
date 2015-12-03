@@ -1,0 +1,82 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ha\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Location tracking helps you find your device if you lose it. Remote wipe and"
+" lock capabilities help you keep your personal information safe."
+msgstr ""
+"Mai binciko wurin zama na taimaka maka ka nemo na'urarka idan ka rasata. "
+"Masu sharewa daga nesa da abubuwa masu yiwuwa na rufewa na taimaka maka "
+"ajiye bayanai na ƙashin kanka lafiya."
+
+#: 2-0/introduction/ 2-1/introduction/
+msgid ""
+"Use your phone in your language, control your data usage and personalize it "
+"by creating your own ringtones. You can also download locally-relevant apps "
+"that enrich and simplify your daily life. Firefox OS is truly a phone made "
+"with you in mind."
+msgstr ""
+"Yi amfani da wayarka a yarenka, sarrafa yadda ka yi amfani da bayananka kuma"
+" ka mayar da su na ka ta hanyar ƙirƙirar kiɗan kira naka. Kuma za ka iya "
+"sauke aikace-aikace da suka dace waɗanda za su inganta kuma su sauƙaƙa "
+"rayuwarka ta yau da kullum. Firefox OS haƙiƙa waya ce da aka yi sabo da kai "
+"a zuci."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely wipe the device."
+msgstr "Share na'urar daga nesa."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace, the best preloaded apps and an awesome user "
+"experience, Firefox OS is packed with the features that users are looking "
+"for in a smartphone."
+msgstr ""
+"Tare da Wurin Kasuwanci na Firefox, mafi kyan aikace-aikace da aka loda kuma"
+" mai ingancin koyo na mai amfani, Firefox OS an cikata da siffofi da mai "
+"amfani ke nema a babbar wayar hannu."
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Ringtones"
+msgstr "Kaɗe-kaɗen kira"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Remotely lock the device."
+msgstr "Kulle na'ura daga nesa."
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Create your own ringtones"
+msgstr "Ƙirƙiri kiɗan kira na ka"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid "Find My Device"
+msgstr "Nemo Na'urata"
+
+#: 2-0/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Since it’s made by Firefox, Firefox OS is backed by a global community "
+"working on your behalf and with your interests in mind."
+msgstr ""
+"Tunda Firefox ne suka yi, Firefox OS na da goyon bayan al'ummar duniya masu "
+"aiki a madadinka da kuma saka bukatarka a zuci."
+
+#: 2-0/demo-tips/ 2-1/demo-tips/
+msgid "Rich media experience"
+msgstr "Kyakkyawan koyo na kaɗe-kaɗe"
+
+#: 2-0/key-features/ 2-1/key-features/
+msgid ""
+"Customize your Firefox OS phone by creating new ringtones from your music "
+"collection or from songs you download from the Web."
+msgstr ""
+"Tsara wayarka ta Firefox OS ta ƙirƙirar sababbin kaɗe-kaɗen kira daga "
+"waƙoƙin da ka tara ko daga waƙe-waƙen da ka sauke daga Yanar gizo."

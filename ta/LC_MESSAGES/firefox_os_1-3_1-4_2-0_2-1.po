@@ -1,0 +1,23 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-4/customer-guide/ 2-0/customer-guide/ 1-3/customer-guide/
+#: 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
+"value for your money. It has everything you expect in a smartphone — camera,"
+" email, apps, music, maps and more — at the most competitive prices."
+msgstr ""
+"<strong>நீங்கள் இங்கு சொல்ல வேண்டியது என்னவென்றால்:</strong> உங்களுடைய "
+"பணத்திற்கு தக்க மதிப்பை Firefox OS தருகிறது என்றும். ஒரு திறன்பேசியில் "
+"நீங்கள் எதிர்பார்க்கும் அனைத்தும் இதில் உள்ளது என்றும் — Firefox Marketplace"
+" சந்தையில் படகருவி, மின்னஞ்சல் போன்ற என்னற்ற செயலிகளை மலிவான விலையில் "
+"பெறமுடியும் எனவும் எடுத்துரைக்க வேண்டும்."

@@ -1,0 +1,39 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 2-0/take-the-challenge/
+msgid ""
+"Actually, the Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"Nein, „Mein Gerät finden“ hilft Ihnen über Ihr Firefox-Konto bei allen "
+"diesen Dingen."
+
+#: 2-0/take-the-challenge/
+msgid ""
+"That’s right! The Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"Ganz genau! „Mein Gerät finden“ hilft Ihnen über Ihr Firefox-Konto bei allen"
+" diesen Dingen."
+
+#: 2-0/take-the-challenge/
+msgid "Track the location of your lost/stolen device"
+msgstr "Verfolgen des Standorts Ihres verlorenen/gestohlenen Geräts"
+
+#: 2-0/take-the-challenge/
+msgid ""
+"What does the Find My Device feature on your Firefox OS phone help you do in"
+" the case that your phone is lost or stolen?"
+msgstr ""
+"Wobei hilft Ihnen die Funktion „Mein Gerät finden“ auf Ihrem Firefox-OS-"
+"Handy, wenn Sie Ihr Handy verlieren oder es gestohlen wird?"

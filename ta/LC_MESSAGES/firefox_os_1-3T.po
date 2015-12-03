@@ -1,0 +1,480 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily sync your contacts from Facebook, "
+"too."
+msgstr ""
+"பயன்படுத்த தொடங்க Firefox OS பொன்ற சுலபமான திறன்பேசி. உங்களுக்கு பிடித்த "
+"பயன்பாடுகள் ஏற்கனவே உள்ளேற்றப்பட்டு வருவதோடு முகநூலிருந்து தொடர்புகளை "
+"ஒத்திசைவு செய்ய முடியும்."
+
+#: 1-3T/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
+"value for your money. It has everything you expect in a smartphone — camera,"
+" email, apps from the Firefox Marketplace, music and more — at the most "
+"competitive prices."
+msgstr ""
+"<strong>நீங்கள் சொல்ல வேண்டியது:</strong> உங்களுடைய பணத்திற்கு தகுந்த "
+"மதிப்பை Firefox OS தருகிறது. ஒரு திறன்பேசியில் நீங்கள் எதிர்பார்க்கும் "
+"அனைத்தும் இதில் உள்ளது — Firefox Marketplace இலிருந்து படகருவி, மின்னஞ்சல் "
+"போன்றவற்றுடன் கூடுதலான பயன்பாடுகள் குறைந்த விலையில் கிடைக்கிறது."
+
+#: 1-3T/demo-tips/
+msgid ""
+"Firefox OS offers everything your customers want in a smartphone — and more "
+"— at prices that are easy to afford."
+msgstr ""
+"உங்கள் வாடிக்கையாளர்கள் எதிர்பார்க்கும் அனைத்தும் Firefox OS திறன்பேசியில் "
+"கிடைக்கிறது — மேலும் கூடுதலாக— அவர்கள் வாங்கக்கூடிய விலையிலே கிடைக்கிறது."
+
+#: 1-3T/frequently-asked-questions/
+msgid ""
+"Users can place website bookmarks on the home page to provide direct access "
+"to those sites. Also, by swiping right from the home screen, users can "
+"simply enter any search term and instantly create a one-time use or "
+"downloadable app. Creating and consuming these apps on demand puts users in "
+"complete control of their smartphone experience and will make it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+"பயனர்கள் முகப்பு பக்கத்தில் எந்த இணையத்தளத்தின் புத்தகக்குறியையும் இட்டு "
+"அந்த இணையத்தளத்தை நேரடியாக முகப்பு திரையிலருந்து அணுகும் செயல்பாட்டை "
+"வழங்குகிறது. முகப்பு திரையில் வலதாக தேய்த்து எந்த தேடல் சொல்லையும் "
+"உள்ளிட்டு ஒரு தடவை பயன்படும் அல்லது பதிவிறக்கக் கூடியதாக உடனடியாக "
+"உருவாக்கவும். பயனர்களிடம் முழு கட்டுப்பாட்டைக் கொடுத்து இதுபோன்ற "
+"பயன்பாடுகளை உருவாக்கி பயனடையச் செய்ய வேண்டும் மேலும் மக்களின் திறன்பேசி "
+"அனுபவத்தில் அவர்கள் நினைத்ததை நினைத்தவாறே பொருத்தமான உள்ளடக்கங்களை பெற "
+"முடியும்."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"The Firefox OS smartphone is preloaded with all the features that you’d "
+"expect, including Messages, Facebook, Email and more, all at a better value."
+msgstr ""
+"நல்ல மதிப்புடைய செய்திகள், முகநுல், மின்னஞ்சல் எனப் பல செயலிகளையும் நீங்கள் "
+"எதிர்பார்க்கும் வசதிகளையும் உள்ளடக்கி Firefox OS திறன்பேசி வெளிவருகிறது."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily sync your friends from Facebook, "
+"too."
+msgstr ""
+"Firefox OS பொன்ற சுலபமான திறன்பேசியை பயன்படுத்தி தொடங்குங்கள். உங்களுக்கு "
+"பிடித்த பயன்பாடுகள் ஏற்கனவே உள்ளேற்றப்பட்டு வருவதோடு முகநூலிருந்து "
+"தொடர்புகளை ஒத்திசைவு செய்ய முடியும்."
+
+#: 1-3T/take-the-challenge/
+msgid "That’s right! You simply go to your home screen and it’s there!"
+msgstr "மிக சரி! முகப்பு திரைக்கு சென்றால் அது அங்கு உள்ளது!"
+
+#: 1-3T/demo-tips/
+msgid "Marketplace and Adaptive App Search"
+msgstr "நண்பர்களை ஒத்திசைவு செய்"
+
+#: 1-3T/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and it adapts to your "
+"needs better than any other phone, so you get more of what you need with "
+"less time searching. Plus, it’s packed with all the features you’d expect, "
+"from Camera, to Email, apps from the Firefox Marketplace, Music and more."
+msgstr ""
+"<strong>நீங்கள் சொல்ல வேண்டியது:</strong>முதல் முறையாக திறன்பேசியைப் "
+"பயன்படுத்தும் பயனர்களுக்கு Firefox OS பேசி சிறந்தது. இதை மிக எளிமையாக "
+"பயன்படுத்த முடியும் மேலும் மற்ற பேசிகளை விட உங்களின் தேவைக்கேற்ப மாறவல்லது "
+"எனவே நீங்கள் எதிர்பார்த்ததை விட குறைந்த நேரத்தில் தேடி பெறுவீர்கள். "
+"கூடுதலாக, இது அனைத்து அம்சங்களையும் உள்ளடக்கி நீங்கள் எதிர்பார்த்த Firefox "
+"Marketplace இன் பயன்பாடுகளான படகருவி முதல் மின்னஞ்சல், இசை வரையிலும் என்னற்ற"
+" பயன்பாடுகளை கொண்டு வெளிவருகிறது."
+
+#: 1-3T/demo-tips/
+msgid ""
+"Firefox OS is intuitive and simple. With a beautifully designed interface, "
+"your customers will find it easy to use from the start. It also supports "
+"dual SIM and several local languages."
+msgstr ""
+"Firefox OS தொடு உணர்வானது எளிமையானது. மிக அழகான இடைமுகத்தைக் கொண்டு "
+"வடிவமைத்துள்ளதால் உங்கள் வாடிக்கையாளர்கள் தொடக்கத்திலிருந்தே சுலபமாக "
+"பயன்படுத்துவார்கள். இது பல ஊர் மொழிகளையும் இரு-சிம்களையும் ஆதிரிக்கிறது."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace and dozens of preloaded apps like Email, "
+"Facebook, Camera, Music and more, Firefox OS is packed with the features "
+"you’d expect in a smartphone."
+msgstr ""
+"Firefox Marketplace உடன் பயன்பாடுகள் , மின்னஞ்சல், படகருவி, இசை மேலும் "
+"கூடுதலாக நீங்கள் எதிர்பார்த்ததை விட Firefox OS பல அம்சங்களை உள்ளடக்கிய ஒரு "
+"திறன்பேசி ஆகும்."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — Camera, Email, apps, Music and more — at the most competitive "
+"prices. Plus, Adaptive App Search feature makes it easy to find the app you "
+"really need, when you need it."
+msgstr ""
+"Firefox OS ஆனது உங்களுடைய பணத்திற்கு தகுந்த மதிப்பை அளிக்கும் விதமாக நீங்கள்"
+" எதிர்பார்த்த — படகருவி, மின்னஞ்சல், பயன்பாடுகள், இசை மேலும் கூடுதலாகவும் — "
+"குறைவான விலையிலும் தருகிறது."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"That’s right. With this customer, highlight the full feature set of Firefox "
+"OS, including social apps that are preloaded on the phone, all at great "
+"value."
+msgstr ""
+"அது சரி. இந்த வாடிக்கையாளருக்கு Firefox OS இல் உள் எல்லா வசதிகளையும், "
+"கைப்பேசியில் உள்ளே கொடுக்கப்பட்டிருக்கும் சமூக ஊடக செயலிகளைப் பற்றியும் "
+"அதன் மதிப்பையும் விளக்கிக் கூறுங்கள்."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS phones are new and backed by a global community working to help "
+"keep the Web accessible to all."
+msgstr ""
+"அனைவருக்கும் இணையம் கிடைக்கவும் Firefox OS கைப்பேசிகள் புதுமையாக இருக்கவும் "
+"உலகலாவிய சமூகம் தொடர்ந்து உதவு வருகிறது."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Facebook is preloaded on every Firefox OS device and you can sync your "
+"Facebook contacts easily!"
+msgstr ""
+"ஒவ்வொரு Firefox OS திறன்பேசியும் முகநுல்(Facebook) செயலியுடன் நிறுவப்பட்டு "
+"வருவதால் முகநுலில் உள்ள தொடர்புகளை எளிதில் ஒத்திசைவு செய்ய முடியும்!"
+
+#: 1-3T/take-the-challenge/
+msgid "Browser"
+msgstr "உலாவி"
+
+#: 1-3T/take-the-challenge/
+msgid "Actually, this icon represents Browser."
+msgstr "இந்த சின்னம் உலாவியை சுட்டுகிறது."
+
+#: 1-3T/frequently-asked-questions/
+msgid ""
+"App developers around the world are committed to Firefox OS and tens of "
+"hundreds of free applications will be available at launch. The growing list "
+"includes leading app developers like Facebook, YouTube, Twitter and "
+"ConnectA2 as well as a Flashlight app and Calculator."
+msgstr ""
+"உலகம் முழுவதிலும் உள்ள பயன்பாடு உருவாக்குநர்கள் Firefox OS உடன் "
+"உறுதிபூண்டுள்ளனர் மேலும் பல்லாயிரக்கணக்கான இலவச பயன்பாடுகள் துவக்கத்திலே "
+"கிடைக்கின்றது. முன்னணி பயன்பாடு உருவாக்குநர்களின் நீளும் பட்டியலில் முகநூல்,"
+" யூடியூப், டுவீட்டர் மற்றும் கனக்ட்A2 அதுமட்டும் இல்லாமல் ஒளிவிளக்கு "
+"கணிப்பான் பயன்பாடுகளும் அடங்கும்."
+
+#: 1-3T/key-features/
+msgid ""
+"A new way to get what you need right when you need it. Search for anything "
+"and Firefox OS adapts to your request, displaying photos, video, music, news"
+" and more — making it much easier for you to find what you were looking for."
+msgstr ""
+"சரியான தேவைகளை சரியான நேரத்தில் புதிய முறையில் தேடிய பயன்பாடுகளை உங்களின் "
+"தேவைக்கேற்ப Firefox OS மாற்றியமைப்பதோடு படம், காணொளி, இசை, செய்தி "
+"போன்றவற்றி காண்பிக்கவும் — உங்களின் தேவைக்கேற்றதை எளிமையான முறையில் "
+"கண்டுபிடிக்கவும் உதவுகிறது."
+
+#: 1-3T/demo-tips/
+msgid "Rich Media Experience"
+msgstr "சமூகம்"
+
+#: 1-3T/take-the-challenge/
+msgid "Open the Marketplace."
+msgstr "Marketplace திறக்கவும்."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the Open Web. Designed to protect the user and "
+"system from malicious applications and content, it also protects "
+"applications from each other."
+msgstr ""
+"ஒரு வலுவான பாதுகாப்பு மாதிரி என்னோட்டம் சுமார் 10 வருடங்களுக்கு மேலாக திறந்த"
+" இணையத்தை ஆதரித்து வருவது கடினம் ஆகும். இதன் வடிவமைப்பு பயனர்களையும் "
+"கணினியையும் நச்சு நிரல்களிடம் இருந்து பயன்பாடுகளையும் அதன் உள்ளடக்கங்களையும்"
+" பாதுகாப்பதோடு தன்னையும் காப்பாற்றிக்கொள்கிறது."
+
+#: 1-3T/key-features/
+msgid ""
+"Your go-to source for the best apps for Firefox OS. Browse hundreds of free "
+"apps in multiple categories: Games, Tools, Lifestyle and more."
+msgstr ""
+"உங்களுடைய Firefox OS இல் மிகச்சிறந்த பயன்பாடுகளை பெறுவதற்க்கான மூலம். "
+"ஆயிரக்கணக்கான இலவச பயன்பாடுகளை பல்வேறு பிரிவுகளான ஆட்டங்கள் முதல் "
+"உபபயன்பாடுகள் வரை, இசை, சுற்றுலா, விளையாட்டு மேலும் கூடுதலாக உலாவலாம்."
+
+#: 1-3T/take-the-challenge/
+msgid "Phone"
+msgstr "பேசி"
+
+#: 1-3T/key-features/
+msgid ""
+"Browse and play your music collection, rate songs and create playlists for "
+"your favorites. Watch videos from your phone, or online via YouTube."
+msgstr ""
+"அனைத்தையும் உங்களுடைய பேசியிலிருந்தும் அல்லது யூடியூபிலிருந்தும் இயக்கலாம். "
+"உங்களுக்கு பிடித்தமான பாடல்களை உலாவ, தொகுப்பு, கலைஞர் அல்லது பாடல் மதிப்பு "
+"வாரியாக இசை களஞ்சியத்தை இயக்க, மேலும் உங்களுக்கு பிடித்த பட்டியலை உருவாக்க."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Every phone has access to hundreds of free apps at launch, including some of"
+" the most popular global apps today."
+msgstr ""
+"முதல் வெளியீட்டிலிருந்தே ஒவ்வொரு கைப்பேசியலும் இன்று பிரபலமாக இருக்கும் "
+"ஆயிரக்கணக்கான செயலிகளை இலவசமாக அணுக வாய்ப்பளிக்கிறது."
+
+#: 1-3T/demo-tips/
+msgid "Easy to use"
+msgstr "தகவமைப்பு பயன்பாடு தேடல்"
+
+#: 1-3T/take-the-challenge/
+msgid "That’s right. This icon represents Browser."
+msgstr "மிக சரி. இந்த சின்னம் உலாவியை சுட்டுகிறது."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. You simply go to your home screen to access the Adaptive App "
+"Search feature."
+msgstr ""
+"தவறு! முகப்பு திரைக்கு சென்றால் மாற்றியமைக்கத்தக்க தேடல் அங்கு உள்ளது."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping the Web in their hands"
+msgstr ""
+"அது சரி. இந்த வாடிக்கையாளருக்கு Firefox OS இல் உள்ள அனைத்து வசதிகளையும் "
+"உயர்த்தியும், கைப்பேசியில் ஏற்கனவே உள் வைக்கப்பட்டிருக்கும் சமூக ஊடக "
+"செயலிகளையும் அதன் மதிப்புகளையும் எடுத்துரைக்கவும்."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. With this customer, highlight the full feature set of Firefox"
+" OS, including social apps that are preloaded on the phone, all at great "
+"value."
+msgstr ""
+"இது சரியல்ல. இந்த வாடிக்கையாளருக்கு Firefox OS இல் உள்ள அனைத்து வசதிகளையும் "
+"உயர்த்தியும், கைப்பேசியில் ஏற்கனவே உள் வைக்கப்பட்டிருக்கும் சமூக ஊடக "
+"செயலிகளையும் அதன் மதிப்புகளையும் எடுத்துரைக்கவும்."
+
+#: 1-3T/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone you’ll ever use. Adaptive App Search helps you find the things "
+"you need simply — and instantly. The user interface is so intuitive, you "
+"will be able to quickly discover and easily download your favorite apps in "
+"no time."
+msgstr ""
+"<strong>நீங்கள் சொல்ல வேண்டியது:</strong> Firefox OS ஒரு எளிமையான திறன்பேசி "
+"ஆகும். தகவமைப்பு பயன்பாடு தேடல் உங்களுக்கு தேவையான எளிமையானவைகளை கண்டறிய — "
+"உடனடியாக தந்துதவுகிறது.தூண்டக்கூடிய பயனர் இடைமுகப்பு உங்களுக்கு விருப்பமான "
+"பயன்பாடுகளை விரைவாக கண்டுபிடித்து பதிவிறக்கி பயன்படுத்தலாம்."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"If you have worked through the questions and all of the content, then you "
+"have the basics to match the needs of Firefox OS to your customers. Easy to "
+"use, a Firefox OS smartphone is perfect for new smartphone users and full of"
+" all the features that customers want and need. And it is powered by "
+"Mozilla, making Firefox OS the right choice for anyone committed to ensuring"
+" that the Web remains in your hands!"
+msgstr ""
+"மேற்க்கண்ட கேள்விகளுக்கும் எல்லா உள்ளடக்கங்களுக்கும் வேலை செய்திருந்தால் "
+"உங்களுடைய வாடிக்கையாளர்களின் தேவைகளை பூர்த்தி செய்வதற்க்கான அடிப்படை "
+"உங்களிடம் இருக்கிறது. சுலபமாக பயன்படுத்தக்கூடிய, Firefox OS திறன்பேசி புதிய "
+"பயனர்களுக்கான பொருத்தமானதாகும் மேலும் வாடிக்கையாளர்களுக்கு விருப்பப்படும் "
+"தேவையான எல்லா அம்சங்களையும் கொண்டிள்ளது. உங்கள் கையில் தொடர்ந்து இணையம் "
+"கிடைத்திட உறுதி தரும் Firefox OS கருவிகளே எவருக்கும் சரியானது என்பதை "
+"கடப்பாடாக வைத்து Mozilla ஆவால் இயக்கப்பட்டு வருகிறது!"
+
+#: 1-3T/take-the-challenge/
+msgid "Open the browser."
+msgstr "உலாவியை திறக்கவும்."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Actually, for this customer, the best choice is to talk about how easy "
+"Firefox OS is to use, the free apps within the Firefox Marketplace and the "
+"fact the handset is a value, affordable device."
+msgstr ""
+"உண்மையில், Firefox OS ஐ பயன்படுத்த எவ்வளவு சுலபம், செயலிகள் பயர்பாக்ஸ் "
+"Marketplace இல் இலவசமாக கிடைப்பது, கைப்பேசி சாதனத்தின் மலிவு விலை என "
+"தேர்வுச்செய்து எடுத்துரைத்தாலே இந்த வாடிக்கையாளருக்கு சிறந்தது."
+
+#: 1-3T/demo-tips/
+msgid ""
+"Show your customers how easy it is to get apps in Firefox Marketplace, or "
+"from anywhere on the Web with Adaptive App Search. It’s all about giving "
+"users more of what they need, when they need it."
+msgstr ""
+"பயர்பாக்ஸ் Marketplace இல் எளிதில் செயலிகளை நேரடியாகவும் தகவமைப்பு செயலி "
+"தேடல் மூலமும் எப்படி பெறுவது என்பதைச் செய்துக் காட்டுங்கள். இது பொதுவாக "
+"பயனர்களுக்கு என்ன தேவையோ, எப்போது தேவையோ அதை வழங்குவதாகும்."
+
+#: 1-3T/key-features/
+msgid ""
+"Stay connected easily and conveniently. Set up multiple email accounts, with"
+" support for the most common Exchange, SMTP or IMAP email providers."
+msgstr ""
+"நீங்கள் எங்கிருந்தாலும் உங்கள் தோழர்களுடனும் சக ஊழியர்களுடனும் தொடர்ந்து "
+"இணைந்திருக்க. இதில் பொதுவாகப் பயன்படுத்தப்படும் Exchange, SMTP or IMAP "
+"மின்னஞ்சல் வசதிகள் ஆதரிக்கிறக்கப்படுகிறன எனவே பல மின்னஞ்சல் கணக்குகளை அமைக்க"
+" முடியும்."
+
+#: 1-3T/about/
+msgid ""
+"Behind every Firefox OS smartphone is Mozilla, a global community of "
+"thousands dedicated to keeping the Web accessible to all. We believe each "
+"and every one of us has the right to a Web that isn’t controlled by just a "
+"few large entities and that together, we can build brighter future for the "
+"Web. Yeah, we’re a little different than the other guys."
+msgstr ""
+"ஒவ்வொரு Firefox OS திறன்பேசிக்கு பின்னாலும் Mozilla, "
+"ஆயிரக்கணக்கானவர்களுக்கு இணையம் கிடைத்திட ஒரு உலகலாவிய குழுமம் தன்னையே "
+"அர்பணித்துள்ளது. ஏனென்றால் நாம் அனைவரும் இணையம் வேண்டும் என் ஒருத்தரை "
+"ஒருத்தர் நம்புகிறோம் மேலும் ஒரு சில பெரிய அமைப்புகள் நம்மளை கட்டுப்படுத்த "
+"முடியாது. ஆமாம், நாம் மற்றவர்களைவிட சிறிய அளவில் மாறுபட்டவர்கள். "
+"சேர்ந்திருங்கள், நாம் ஒளிமையமான எதிர்கால இணையத்தை உருவாக்குவோம்."
+
+#: 1-3T/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit. Our commitment to "
+"keeping the Web open and accessible for all will give your customers the "
+"best of the Web no matter where they go, while keeping them safe and in "
+"control of their online lives."
+msgstr ""
+"நாங்கள் இலாபத்தை உண்டாக்க அல்ல, மாற்றத்தை உண்டாக்க Mozilla வில் "
+"இருக்கிறோம். வாடிக்கையாளர்கள் எங்கு சென்றாலும் திறந்த இணையம் கிடைக்கவும் "
+"எளிதில் அணுகவும் அவர்களின் இணைய செயல்களை பாதுகாப்பானதாகவும் கட்டுப்படுத்தும்"
+" வகையிலும் தொடர்ந்து தருவது எங்களின் கடப்பாடாகும்."
+
+#: 1-3T/demo-tips/
+msgid ""
+"With the Camera, Gallery, Music apps and more, Firefox OS will keep your "
+"customers entertained on the go and connected to the things that matter most"
+" to them."
+msgstr ""
+"Firefox OS திறன்பேசி படக்கருவி, தொகுப்பு, இசைச் செயலி மற்றும் பல "
+"வாடிக்கையாளர்களுக்கு பிடித்தமான செயலிகளுடன் தொடர்ந்து இணைந்திருக்குமாறுச் "
+"செய்கிறது."
+
+#: 1-3T/take-the-challenge/
+msgid "Video"
+msgstr "காணொளி"
+
+#: 1-3T/introduction/
+msgid ""
+"Your customers’ needs are always changing. That’s why Firefox OS does the "
+"same — adapting so your customers can live every moment to its fullest. "
+"Firefox OS devices are perfect for new smartphone users — easy to use and "
+"full of all the features that customers expect. And because Firefox OS "
+"devices are powered by Mozilla, they’re the perfect choice for anyone "
+"committed to keeping the Web open for all."
+msgstr ""
+"உங்களுடைய வாடிக்கையாளரின் தேவைகள் நாளுக்கு நாள் மாறுகிறது. Firefox OS "
+"திறன்பேசிகளும் அதே தான் செய்கிறது — உங்களுடைய வாடிக்கையாளர்களின் தேவைக்கேற்ப"
+" ஒவ்வொரு தருணத்திலும் முழுமையாக செயல்படுகிறது. புதிய பயனர்களுக்கு உகந்த "
+"திறன்பேசி — பயன்படுத்த சுலபமாக இருக்கும், அவர்கள் எதிர்பார்க்கும் அனைத்து "
+"அம்சங்களையும் உள்ளடக்கியது. எல்லோருக்கும் இணையத்தை பொது வளமாக கிடைத்திட "
+"Firefox OS சாதனங்களே சரியானது என்பதைக் கடப்பாடாக வைத்து Mozilla மூலம் இயங்கி"
+" வருகிறது."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS phones are packed with the features that made you want a "
+"smartphone in the first place."
+msgstr ""
+"உங்கள் மனதில் முதிலிடத்தில் இருக்கும் Firefox OS கைப்பேசிகள் நீங்கள் "
+"எதிர்பார்த்த வசதிகளைக் கொண்ட திறன்பேசிகளாக உருவாக்கப்பட்டுள்ளன."
+
+#: 1-3T/take-the-challenge/
+msgid "ConnectA2"
+msgstr "கனக்ட்A2"
+
+#: 1-3T/take-the-challenge/
+msgid "YouTube"
+msgstr "யூடியூப்"
+
+#: 1-3T/frequently-asked-questions/
+msgid ""
+"Firefox OS provides two ways to get apps: <ul> <li>Marketplace — our go-to "
+"source for hundreds of great free apps, including popular apps like Twitter "
+"and Facebook, and for awesome local content from the best Web developers in "
+"your region.</li> <li>Adaptive App Search — just type a single word like "
+"“news” to discover related mobile apps in your region.</li> </ul>"
+msgstr ""
+"Firefox OS இரண்டு வழிகளில் பயன்பாடுகளை வழங்குகிறது:<ul><li>Firefox "
+"Marketplace — டுவீட்டர் போன்ற சிறந்த பயன்பாடுகள் உள்ள நுழைவாசல் உள்ளூர் "
+"பகுதிகளில் உள்ள சிறந்த நிரலாற்களால் அற்புதமான உள்ளடக்கங்களை "
+"உருவாக்கும்.</li><li>தகவமைப்பு பயன்பாடு தேடல் — “தமிழ்” என்ற வார்த்தையை "
+"உள்ளிட்டு அதனுடன் தொடர்புடைய உங்கள் பகுதியில் இருக்கும் செல்பேசி "
+"பயன்பாடுகளை கண்டறியும் சிறந்த செல்பேசி அனுபவத்தை கொடுப்பதோடு உங்களுக்கு "
+"வேண்டியதையும் கொண்டுவருகிறது.</li></ul>"
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"A customer says, “I use Firefox on my home computer and I love it, but I "
+"didn’t know they had a mobile OS. Why?” Which of the following statements "
+"would be the most appropriate response to this particular customer?"
+msgstr ""
+"ஒரு வாடிக்கையாளர் உங்களிடம் சொல்கிறார், “நான் வீட்டில் Firefox உலாவியை "
+"பயன்படுத்துகிறேன் அது பிடித்திருக்கிறது, அவர்கள் பேசி இயங்குதளம் "
+"வைத்திருப்பது தெரியாது. ஏன்?”. பின்வரும் கூற்றுகளில் எவை நல்ல பதிலாக "
+"இருக்கம்? பொருத்தமான அனைத்தையும் தேர்ந்தெடுக்கவும்."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS phones provide access to hundreds of free apps at launch, "
+"including some of the most popular global apps today."
+msgstr ""
+"முதல் வெளியீட்டிலிருந்தே Firefox OS கைப்பேசிகள் இன்று பிரபலமாக இருக்கும் "
+"ஆயிரக்கணக்கான செயலிகளை இலவசமாக அணுக வாய்ப்பளிக்கிறது."
+
+#: 1-3T/introduction/
+msgid ""
+"Firefox OS is packed with all the features that made your customers want a "
+"smartphone in the first place: Camera, Gallery, social features, Music and "
+"more. Firefox OS users have complete access to apps in the Firefox "
+"Marketplace, without the need for a sign-in. There, they can get all the "
+"popular, big name apps, as well as local content designed to help them get "
+"the most out of the world around them."
+msgstr ""
+"ஒரு வாடிக்கையாளர் முதன்மையாக விரும்பும் அனைத்து அம்சங்களையும் வைத்து "
+"உருவாக்கிய ஒரு திறன்பேசி Firefox OS ஆகும்: படக்கருவி, படத்தொகுப்பு, சமூக "
+"அம்சங்கள், இசை மற்றும் பல. Firefox சந்தையில் உள்நுளையாமலே அதை முழுமையாக "
+"பயன்படுத்தமுடியும். வாடிக்கையாளர்கள் எங்கு சென்றாலும் சிறந்த இணையத்தை "
+"பெறுவதோடு அவர்களுடைய இணைய செயல்பாடுகளில் Firefox OS முழு கட்டுப்பாட்டை "
+"எடுக்கவும் வாய்ப்பளிக்கிறது."
+
+#: 1-3T/key-features/
+msgid ""
+"Firefox OS is deeply integrated with your favorite social networks. Easily "
+"sync your Facebook contacts to your phone to keep your community all in one "
+"place."
+msgstr ""
+"உங்களுக்கு பிடித்தமான சமூக வலைத்தளங்களுடன் பிணைந்திருங்கள். உங்களுடைய "
+"பேசியிக்கு முகநுல் தொடர்புகளை அனைத்தையும் இறக்குமதிச்செய்து ஒரே இடத்தில் "
+"வைத்திருங்கள்."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"The Firefox Marketplace features thousands of apps for free and there is no "
+"need to sign in."
+msgstr ""
+"பயர்பாக்ஸ் Marketplace புகுபதிகைச் செய்யாமல் ஆயிரக்கணக்கில் செயலிகள் இலவசமாக"
+" கிடைக்க வழிச்செய்கிறது."

@@ -1,0 +1,202 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid "Maps"
+msgstr "Χάρτες"
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid ""
+"Play it all from your phone, or online via Youtube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+"Αναπαράγετε τα πάντα από το τηλέφωνό σας, ή διαδικτυακά μέσω Youtube. "
+"Περιηγηθείτε και αναπαράγετε τη μουσική σας συλλογή βάσει άλμπουμ ή "
+"καλλιτέχνη, βαθμολογήστε κομμάτια και δημιουργήστε λίστες αναπαραγωγής για "
+"τα αγαπημένα σας."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Access to over 20,000 free and paid apps at launch, including some of the "
+"most popular global apps today."
+msgstr ""
+"Πρόσβαση σε περισσότερες από 20.000 δωρεάν και επί πληρωμή εφαρμογές κατά το"
+" λανσάρισμα, συμπεριλαμβανομένων των πιο δημοφιλών εφαρμογών σήμερα."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this icon represents Contacts."
+msgstr "Βασικά, αυτό το εικονίδιο αντιπροσωπεύει τις Επαφές."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open the Firefox browser."
+msgstr "Ανοίξτε τον περιηγητή Firefox."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Packed with the features that made you want a smartphone in the first place."
+msgstr ""
+"Περιλαμβάνει τα χαρακτηριστικά για το οποία θέλατε να αγοράσετε ένα "
+"smartphone εξ αρχής."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
+"Firefox OS keeps the power of the Web in your hands."
+msgstr ""
+"Αν αγαπάτε τον περιηγητή Firefox, θα αγαπήσετε και τα κινητά Firefox OS. "
+"Επιλέγοντας το Firefox OS κρατάτε την δύναμη του ιστού στα χέρια σας."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"The Firefox Marketplace features thousands of apps for free or at very low "
+"prices."
+msgstr ""
+"Το Firefox Marketplace διαθέτει χιλιάδες εφαρμογές δωρεάν ή σε πολύ χαμηλές "
+"τιμές."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open Firefox Marketplace."
+msgstr "Ανοίξτε το Firefox Marketplace."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Contacts."
+msgstr "Σωστά. Αυτό το εικονίδιο αντιπροσωπεύει τις Επαφές."
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Consumers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the consumer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Οι πελάτες που χρειάζονται υποστήριξη για μια εφαρμογή η οποια δημιουργήθηκε"
+" για το Firefox OS θα παραπέμπονται στον προγραμματιστή της εφαρμογής για "
+"βοήθεια. Αν η εμπειρία χρήσης του Firefox OS επηρρεάζεται αρνητικά από  "
+"περιστατικό ελλιπούς υποστήριξης της εφαρμογής, το ίδρυμα Mozilla μπορεί να "
+"συστήσει άλλες λύσεις που περιλαμβάνουν απεγκατάσταση της εφαρμογής έως ότου"
+" ο προγραμματιστής παρέχει την αρμόζουσα βοήθεια."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "It’s easier than ever to stay connected with Firefox OS."
+msgstr "Είναι πιο εύκολο από ποτέ να μείνετε δικτυωμένοι με το Firefox OS."
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search."
+msgstr ""
+"Όχι άμεσα. Ωστόσο, πολλές από τις πιο δημοφιλείς εφαρμογές Andoid και iOS "
+"είναι στην πραγματικότητα απλά εφαρμογές ιστού που περιέχουν ενσωματωμένο "
+"«wrapper» ο οποίος τους επιτρέπει να εκτελούνται σε άλλες πλατφόρμες. Έτσι, "
+"πολλές από τις ίδιες εφαρμογές θα είναι διαθέσιμες μέσω της δυναμικής "
+"αναζήτησης εφαρμογών."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Demonstrate the powerful map features of Firefox OS, including local transit"
+" info."
+msgstr ""
+"Παρουσιάστε τα ισχυρά χαρακτηριστικά των χαρτών του Firefox OS, που "
+"περιλαμβάνουν και τοπικές πληροφορίες συγκοινωνίας."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Every phone has access to over 20,000 free and paid apps at launch, "
+"including some of the most popular global apps today."
+msgstr ""
+"Κάθε κινητό έχει πρόσβαση σε περισσότερες από 20.000 δωρεάν και επί πληρωμή "
+"εφαρμογές κατά το λανσάρισμα, συμπεριλαμβανομένων των πιο δημοφιλών "
+"εφαρμογών σήμερα."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Show customers how Firefox OS adapts to them, giving them more of what they "
+"need, when they need it."
+msgstr ""
+"Δείξτε στους πελάτες πως το Firefox OS προσαρμόζεται σε αυτούς, δίνοντας "
+"τους περισσότερα από όσα χρειάζονται, όποτε τα χρειάζονται."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following apps is pre-loaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"Ποιες από τις παρακάτω εφαρμογές έρχονται προεγκατεστημένες με κάθε τηλέφωνο"
+" Firefox OS; Επιλέξτε όσες χρειάζεται."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Tens of thousands of Web apps from around the world are searched instantly."
+msgstr ""
+"Γίνεται άμεση αναζήτηση σε δεκάδες χιλιάδες εφαρμογές του ιστού από όλο τον "
+"κόσμο."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "Firefox Marketplace has the cool games and apps your customers want."
+msgstr ""
+"Το Firefox Marketplace έχει τα απίθανα παιχνίδια και εφαρμογές που θέλουν οι"
+" πελάτες σας."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace and dozens of preloaded apps, like email, maps,"
+" Facebook, a camera, music, and more, Firefox OS is packed with the features"
+" you’d expect in a smartphone."
+msgstr ""
+"Με το Firefox Marketplace και δεκάδες προεγκατεστημένες εφαρμογές, όπως "
+"email,  χάρτες, Facebook, κάμερα, μουσική, και περισσότερα, το Firefox OS "
+"περιλαμβάνει όλα τα χαρακτηριστικά που θα περιμένατε από ένα smartphone."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"New and backed by a global community working to help keep the Web accessible"
+" to all."
+msgstr ""
+"Νέο και με την υποστήριξη μιας παγκόσμιας κοινότητας που εργάζεται για να "
+"διατηρεί το διαδίκτυο προσβάσιμο σε όλους."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices. Plus, Adaptive App Search feature makes it easy to find the apps "
+"you really need, when you need it."
+msgstr ""
+"Το Firefox OS σας δίνει την καλύτερη αναλογία επιδόσεων για την τιμή του. "
+"Διαθέτει ό,τι αναμένετε από ένα smartphone -- κάμερα, email, εφαρμογές, "
+"μουσική, χάρτες και περισσότερα -- στις πιο ανταγωνιστικές τιμές. Επιπλέον, "
+"με τη δυναμική αναζήτηση εφαρμογών μπορείτε να βρίσκετε εύκολα τις εφαρμογές"
+" που χρειάζεστε, όποτε τις χρειάζεστε."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web. Designed to protect the user and system from "
+"malicious applications and content, it also protects applications from each "
+"other."
+msgstr ""
+"Ένα ισχυρό μοντέλο ασφαλείας το οποίο έχει σκληραγωγηθεί παραπάνω από μια "
+"δεκαετία υποστηρίζοντας τον ανοιχτό χαρακτήρα του ιστού. Είναι σχεδιασμένο "
+"να προστατεύει τον χρήστη και το σύστημα από κακόβουλες εφαρμογές και "
+"περιεχόμενο, καθώς και τις εφαρμογές αναμεταξύ τους."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"With music at their fingertips, your customers will see how Firefox OS keeps"
+" them entertained and dancing in the streets."
+msgstr ""
+"Με τη μουσική στα χέρια τους, οι πελάτες σας θα διαπιστώσουν πως το Firefox "
+"OS προσθέτει κέφι και ζωντάνια στη ροή της καθημερινότητας τους."

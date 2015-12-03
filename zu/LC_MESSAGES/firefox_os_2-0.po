@@ -1,0 +1,40 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/take-the-challenge/
+msgid ""
+"Actually, the Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"Empeleni nje, uhlelo lwe Thola Idivayisi Yami lukusiza ukuba wenze zonke "
+"lezi zinto nge-akhawunti yakho ye-Firefox."
+
+#: 2-0/take-the-challenge/
+msgid ""
+"That’s right! The Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"Impela kunjalo! Uhlelo lwe Thola Idivayisi Yami lukusiza ngazo zonke lezi "
+"zinto nge-Akhawunti yakho ye-Firefox."
+
+#: 2-0/take-the-challenge/
+msgid "Track the location of your lost/stolen device"
+msgstr ""
+"Ukuba uthole umkhondo walapho idivayisi yakho elahlekile/entshontshiwe "
+"ikhona"
+
+#: 2-0/take-the-challenge/
+msgid ""
+"What does the Find My Device feature on your Firefox OS phone help you do in"
+" the case that your phone is lost or stolen?"
+msgstr ""
+"Ingabe le fisha ethi Thola Idivayisi Yami esefonini yakho ye-Firefox OS "
+"ikusiza ukuba wenzeni uma ifoni yakho ilahleka noma intshontshwa?"

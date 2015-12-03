@@ -1,0 +1,261 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT 1.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-12-03 06:41+0000\n"
+"PO-Revision-Date: 2015-12-03 06:41+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr "Master Firefox OS"
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr "Odeslat"
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr "Menu"
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+"Části tohoto obsahu jsou ©1998–{0} jednotlivými přispěvateli. Obsah je "
+"dostupný pod <a href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">licencí Creative Commons</a>."
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr "Zdrojový kód"
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr "Kontaktujte nás"
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr "Partnerství s námi"
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr "Přispějte"
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr "Soukromí"
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr "Právní informace"
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr "Nahlásit zneužití ochranné známky"
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr "Mozilla na Twitteru"
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr "Firefox na Twitteru"
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr "Mozilla na Facebooku"
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr "Firefox na Facebooku"
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr "Zjistěte více"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr "Domů"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr "O stránce"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr "Jazyk"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr "Verze Firefox OS"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Which version do I have?"
+msgstr "Jakou verzi mám?"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:25
+msgid "Change"
+msgstr "Změnit"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+"Dokumentace Firefox OS {version} není v jazyce {language} dostupná, a proto "
+"jste byli přesměrování na anglickou verzi."
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:41
+msgid "The latest version available in {language} is {version}."
+msgstr "Poslední verze dostupné pro jazyk {language} je {version}."
+
+#: masterfirefoxos/settings/base.py:206
+msgid "Afrikaans"
+msgstr "Afrikánština"
+
+#: masterfirefoxos/settings/base.py:207
+msgid "Arabic"
+msgstr "Arabština"
+
+#: masterfirefoxos/settings/base.py:208
+msgid "Bengali (Bangladesh)"
+msgstr "Bengálština (Bangladéš)"
+
+#: masterfirefoxos/settings/base.py:209
+msgid "Bengali (India)"
+msgstr "Bengálština (Indie)"
+
+#: masterfirefoxos/settings/base.py:210
+msgid "Croatian"
+msgstr "Chorvatština"
+
+#: masterfirefoxos/settings/base.py:211
+msgid "Czech"
+msgstr "Čeština"
+
+#: masterfirefoxos/settings/base.py:212
+msgid "Ewe"
+msgstr "Eveština"
+
+#: masterfirefoxos/settings/base.py:213
+msgid "English"
+msgstr "Angličtina"
+
+#: masterfirefoxos/settings/base.py:214
+msgid "German"
+msgstr "Němčina"
+
+#: masterfirefoxos/settings/base.py:215
+msgid "Greek"
+msgstr "Řečtina"
+
+#: masterfirefoxos/settings/base.py:216
+msgid "Fulah"
+msgstr "Fulbština"
+
+#: masterfirefoxos/settings/base.py:217
+msgid "French"
+msgstr "Francouzština"
+
+#: masterfirefoxos/settings/base.py:218
+msgid "Hausa"
+msgstr "Hauština"
+
+#: masterfirefoxos/settings/base.py:219
+msgid "Hindi"
+msgstr "Hindština"
+
+#: masterfirefoxos/settings/base.py:220
+msgid "Hungarian"
+msgstr "Maďarština"
+
+#: masterfirefoxos/settings/base.py:221
+msgid "Igbo"
+msgstr "Igbo"
+
+#: masterfirefoxos/settings/base.py:222
+msgid "Italian"
+msgstr "Italština"
+
+#: masterfirefoxos/settings/base.py:223
+msgid "Japanese"
+msgstr "Japonština"
+
+#: masterfirefoxos/settings/base.py:224
+msgid "Lingala"
+msgstr "Lingala"
+
+#: masterfirefoxos/settings/base.py:225
+msgid "Polish"
+msgstr "Polština"
+
+#: masterfirefoxos/settings/base.py:226
+msgid "Portuguese"
+msgstr "Portugalština"
+
+#: masterfirefoxos/settings/base.py:227
+msgid "Romanian"
+msgstr "Rumunština"
+
+#: masterfirefoxos/settings/base.py:228
+msgid "Russian"
+msgstr "Ruština"
+
+#: masterfirefoxos/settings/base.py:229
+msgid "Serbian"
+msgstr "Srbština"
+
+#: masterfirefoxos/settings/base.py:230
+msgid "Kiswahili"
+msgstr "Svahilština"
+
+#: masterfirefoxos/settings/base.py:231
+msgid "Spanish"
+msgstr "Španělština"
+
+#: masterfirefoxos/settings/base.py:232
+msgid "Tamil"
+msgstr "Tamilština"
+
+#: masterfirefoxos/settings/base.py:233
+msgid "Wolof"
+msgstr "Volofština"
+
+#: masterfirefoxos/settings/base.py:234
+msgid "Xhosa"
+msgstr "Xhosština"
+
+#: masterfirefoxos/settings/base.py:235
+msgid "Pirate"
+msgstr "Pirátština"
+
+#: masterfirefoxos/settings/base.py:236
+msgid "Yoruba"
+msgstr "Jorubština"
+
+#: masterfirefoxos/settings/base.py:237
+msgid "Zulu"
+msgstr "Zulština"
+
+#: masterfirefoxos/settings/base.py:238
+msgid "Azams"
+msgstr ""

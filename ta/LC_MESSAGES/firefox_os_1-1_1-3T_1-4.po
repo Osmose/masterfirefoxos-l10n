@@ -1,0 +1,250 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"All the audio you want on the go, all on one device. Just plug in your "
+"earphones and start listening."
+msgstr ""
+"உங்களுக்கு தேவையான அனைத்து ஒலிகளையும் ஒரே சமயத்தில் ஒரே சாதனத்தில் "
+"கேட்கலாம். உங்களுடைய செவிப்பொறியை பொருத்தி கேட்கத் தொடங்கவும்."
+
+#: 1-1/which-version/ 1-3T/which-version/ 1-4/which-version/
+msgid ""
+"<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
+"select <strong>Device information</strong>.</li> <li>On the Device "
+"information screen, look for the version numbers under <em>Software</em>. "
+"<ul> <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
+"</ol>"
+msgstr ""
+"<ol> <li>உங்கள் சாதனத்தில் அமைவுகள் என்பதை திறந்து.</li> <li>கீழே "
+"உருட்டி<strong>சாதன தகவல் </strong> என்பதைத் தேர்ந்தெடுக்கவும்.</li> <li>சதன"
+" தகவல் திரையில்,< em> மென்பொருள் </em> என்பதில் பதிப்பு எண்களுக்காகப் பார்."
+" <ul> <li><em>Firefox OS 1.0.1.0</em>எனில் 1.0.1 பதிப்பை "
+"பாய்க்கிறீர்கள்</li> <li><em>Firefox OS 1.1.0.0</em> எனில் 1.1 பதிப்பை "
+"பாய்க்கிறீர்கள்</li> </ul> </li> </ol>"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "The Adaptive Phone"
+msgstr "தகவமைப்பு பேசி"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Swipe to the left."
+msgstr "இடதாக தேய்க்கவும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following statements about Adaptive App Search are true? Select"
+" all that apply."
+msgstr ""
+"பின்வரும் தகவமைப்பு பயன்பாடு தேடல் பற்றிய கூற்றுகளில் எவை மெய்யானவை? "
+"பொருத்தமான அனைத்தையும் தேர்ந்தெடு."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Deeply integrated with your favorite social networks. You can easily import "
+"your Facebook contacts to your phone to keep your community all in one "
+"place."
+msgstr ""
+"உங்களுக்கு மிகவும் பிடித்த சமூக வலைத்தளங்களுடன் பிணைந்திருங்கள். முகநூல் "
+"தொடர்புகள் அனைத்தையும் உங்களுடைய கைப்பேசியிக்கு இறக்கி உங்கள் உற்றார் "
+"உறவினருடன் இணைந்திருங்கள்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. All of these are true of Adaptive App Search!"
+msgstr "அது சரி. தகவமைப்பு செயலி தேடல் பற்றிய இவை அனைத்தும் மெய்யே!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and open Web standards."
+msgstr ""
+"Firefox OS ஆனது திறந்த இணைய தரநிலைகளையும் HTML5 ம் பயன்படுத்தி உருவானது."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "A unique feature included in every Firefox OS smartphone."
+msgstr ""
+"ஒவ்வொரு Firefox OS திறன்பேசியிலும் ஒரு தனித்துவ அம்சம் உள்ளிருக்கும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With Adaptive App Search, you can use an app once, quickly and easily, "
+"without installing it. If you want to use it again later, it’s easy to add "
+"it to your homescreen."
+msgstr ""
+"தகவமைப்பு பயன்பாடு தேடல் மூலம் எந்த நிரலையும் நிறுவாமலே விரைவாக எளிதாக "
+"பயன்படுத்த முடியும். பிறகு நீங்கள் பயன்படுத்த விரும்பினால் அதை எளிதில் "
+"முகப்பு திரையில் சேர்க்க முடியும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Actually, all of these are true except for the statement about “broadest "
+"selection of devices.” This may be true in the future, but it is not "
+"currently true."
+msgstr ""
+"உண்மையில், “பரந்த சாதனங்களின் தேர்வு” கூற்றைத் தவிர  எல்லாமே மெய். "
+"எதிர்காலத்தில் இது உண்மையாகலாம், தற்சமயம் இது உண்மையல்ல."
+
+#: 1-1/about/ 1-3T/about/ 1-4/about/
+msgid "The Firefox Mission"
+msgstr "FIREFOX நோக்கம்"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there are"
+" not many apps.”"
+msgstr ""
+"இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்? ”இதில் நிறைய "
+"பயன்பாடுகள் இல்லை என்று நான் கேள்விப்பட்டேன்.”"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Adaptive App Search."
+msgstr "அது சரியே. இந்தச் சின்னம் தகவமைப்பு செயலி தேடலைக் குறிக்கிறது."
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "Do my apps work offline?"
+msgstr "இணையம் இல்லாமல் என் பயன்பாடுகள் வேலை செய்யுமா?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web."
+msgstr ""
+"ஒரு வலுவான பாதுகாப்பு மாதிரியாக சுமார் 10 வருடங்களுக்கு மேலாகக் கடுமையான "
+"போராட்டங்களுக்கிடையில் திறந்த இணையத்தை ஆதரித்து வருகிறது."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. Adaptive App Search anticipates your needs better than any "
+"other phone."
+msgstr ""
+"மற்ற பேசிகளை விட தகவமைப்பு பயன்பாடு தேடல் உங்களுடைய தேவைகளை நன்றாக "
+"உணர்கிறது."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.”"
+msgstr ""
+"இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்? ”நான் Firefox OS "
+"பற்றிக் கேள்விப்பட்டதே இல்லை.”"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"When you type a word or subject that interests you using Adaptive App Search"
+" what happens? Select all that apply."
+msgstr ""
+"உங்களுக்கு ஆர்வமான ஒரு வார்த்தை அல்லது தலைப்பை தட்டி தகவமைப்பு பயன்பாடு "
+"தேடலைப் பயன்படுத்தி தேடும்போது என்ன ஆகிறது? பொருத்தமாக உள்ள அனைத்தையும் "
+"தேர்ந்தெடுக்கவும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "How do you access the Adaptive App Search feature on Firefox OS?"
+msgstr ""
+"Firefox OS இல் உள்ள தகவமைப்பு பயன்பாட்டு தேடல் வசதியை எப்படி அணுகுவது?"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Stay connected, with easy access to your friends and colleagues from "
+"wherever you are."
+msgstr ""
+"நீங்கள் எங்க இருந்தாலும் எப்போதும் நண்பர்களுடனும் சக ஊழியர்களுடனும் "
+"தொடர்ந்து இணைந்தே இருக்கலாம்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. A first time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+"அது சரிதான். திறன்பேசியைப் முதல் முறை பயன்படுத்தும் பயனருக்கு இது ஆர்வத்தைக்"
+" கூட்டும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results include photos, video, music, news, maps and more."
+msgstr ""
+"முடிவுகள் படங்கள், காணொளி, இசை, செய்திகள், வரைப்படங்கள் மேலும் கூடுதலாகவும் "
+"கொண்டிருக்கும்."
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "Keep the Web in Your Hands"
+msgstr "இணையம் உங்கள் கைகளில்"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "A phone that makes every moment count"
+msgstr "ஒவ்வொரு நொடியையும் கணிக்க வைக்கும் ஒரு பேசி"
+
+#: 1-1/demo-tips/ 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/
+#: 1-4/take-the-challenge/
+msgid "Adaptive App Search"
+msgstr "தகவமைப்பு பயன்பாடு தேடல்"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, all of these are true of Adaptive App Search!"
+msgstr "உண்மையில், தகவமைப்பு செயலி தேடல் பற்றிய அனைத்துமே மெய்யானது!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Works just like Web search on Firefox browsers."
+msgstr "பயர்பாக்ஸ் உலாவியில் உள்ள இணைய தேடல் போன்றே வேலைச்செய்கின்றது."
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "What is Adaptive App Search?"
+msgstr "தகவமைப்பு செயலி தேடல் என்றால் என்ன?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results from around the Web are displayed like apps on your phone."
+msgstr ""
+"இணையம் வாயிலாக தேடிக்கிடைக்கும் முடிவுகள் உங்கள் கைப்பேசியில் செயலிகளாக "
+"காண்பிக்கப்படும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Your background image changes instantly to reveal popular photos from the "
+"Web."
+msgstr ""
+"இணையத்திலுள்ள பிரபலமான படங்கள் உங்கள் கைப்பேசியின் பின்ணணி படமாக உடனுக்குடன்"
+" மாறிக்கொண்டிருக்கும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Take the challenge"
+msgstr "சவாளை எதிர்கொள்ளுங்கள்"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the broadest selection of devices on the market today."
+msgstr ""
+"இன்றைய சந்தையில் பரவலான சாதனங்களை தேர்ந்தெடுக்கும் வாய்ப்பை Firefox OS "
+"உங்களுக்கு வழங்குகிறது."
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/key-features/ 1-4/take-the-challenge/
+msgid "FM Radio"
+msgstr "வானொலி"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results are instantly usable — you don’t have to download the app first."
+msgstr ""
+"முடிவுகள் உடனடியாக பயன்படுத்தப்படுபவை — செயலிகளை பதிவிறக்க வேண்டிய "
+"அவசியமில்லை."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results include relevant maps, pictures, music, news, videos, Twitter feeds "
+"and more."
+msgstr ""
+"முடிவுகளானது வரைப்படங்கள், படங்கள், இசை, செய்திகள், காணொளிகள், டிவிட்டர் "
+"ஓடைகள் போன்றவற்றுடன் கூடுதலாகவும் இருக்கும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this is true."
+msgstr "நண்பர்களை ஒத்திசைவு செய்"

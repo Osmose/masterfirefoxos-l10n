@@ -1,0 +1,244 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"All the audio you want on the go, all on one device. Just plug in your "
+"earphones and start listening."
+msgstr ""
+"Všechny zvuky, které kolem sebe potřebujete a všechny na jednom zařízení. "
+"Stačí jen připojit sluchátka, a můžete začít poslouchat."
+
+#: 1-1/which-version/ 1-3T/which-version/ 1-4/which-version/
+msgid ""
+"<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
+"select <strong>Device information</strong>.</li> <li>On the Device "
+"information screen, look for the version numbers under <em>Software</em>. "
+"<ul> <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
+"</ol>"
+msgstr ""
+"<ol> <li>Otevřete ve svém zařízení aplikaci Nastavení.</li> <li>Přejeďte "
+"dolů a vyberte <strong>Informace o zařízení</strong>.</li> <li>Na obrazovce "
+"s informacemi najděte čísla verzí pod <em>Software</em>. <ul> "
+"<li><em>Firefox OS 1.0.1.0</em> znamená, že máte verzi 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> znamená, že máte verzi 1.1</li> </ul> </li> "
+"</ol>"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "The Adaptive Phone"
+msgstr "Adaptivní telefon"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Swipe to the left."
+msgstr "Přejeďte prstem zleva doprava."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following statements about Adaptive App Search are true? Select"
+" all that apply."
+msgstr ""
+"Která z následujících tvrzení o adaptivním vyhledávání aplikací jsou "
+"pravdivá? Vyberte všechny možnosti, které přicházejí v úvahu."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Deeply integrated with your favorite social networks. You can easily import "
+"your Facebook contacts to your phone to keep your community all in one "
+"place."
+msgstr ""
+"Udržujte pevné spojení se svými oblíbenými sociálními sítěmi. Do svého "
+"telefonu můžete snadno naimportovat své kontakty Facebooku a udržovat svou "
+"komunitu jen na jednom místě."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. All of these are true of Adaptive App Search!"
+msgstr "Správně. Vše uvedené je o adaptivním vyhledávání aplikací pravda!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and open Web standards."
+msgstr ""
+"Firefox OS je postavený celý pomocí HTML5 a otevřených webových standardů."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "A unique feature included in every Firefox OS smartphone."
+msgstr "Unikátní funkce v každém chytrém telefonu s Firefox OS."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With Adaptive App Search, you can use an app once, quickly and easily, "
+"without installing it. If you want to use it again later, it’s easy to add "
+"it to your homescreen."
+msgstr ""
+"Díky adaptivnímu vyhledávání aplikací můžete aplikaci použít okamžitě, "
+"rychle a snadno, bez toho, že byste ji museli instalovat. Pokud ji budete "
+"chtít znovu použít později, je snadné ji přidat na výchozí obrazovku."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Actually, all of these are true except for the statement about “broadest "
+"selection of devices.” This may be true in the future, but it is not "
+"currently true."
+msgstr ""
+"Ve skutečnosti všechny jsou správně, vyjma “největšího výběru zařízení”. "
+"Možná to bude pravda v budoucnu, ale zatím to tak není."
+
+#: 1-1/about/ 1-3T/about/ 1-4/about/
+msgid "The Firefox Mission"
+msgstr "Mise Mozilly"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there are"
+" not many apps.”"
+msgstr ""
+"Jaká je nejlepší odpověď na tuto námitku zákazníka? „Slyšel jsem, že nemá "
+"moc aplikací.“"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Adaptive App Search."
+msgstr "Správně. Tato ikona zastupuje adaptivní vyhledávání aplikací."
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "Do my apps work offline?"
+msgstr "Budou moje aplikace fungovat offline?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web."
+msgstr ""
+"Robustní zabezpečený model, který si vybojoval dobrou pověst během více než "
+"deseti let podpory otevřeného webu."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. Adaptive App Search anticipates your needs better than any "
+"other phone."
+msgstr ""
+"To je pravda. Díky adaptivnímu vyhledávání aplikací se telefon Firefox OS "
+"přizpůsobí vašim potřebám lépe než jiné telefony."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.”"
+msgstr ""
+"Jaká je nejlepší odpověď na tuto námitku zákazníka? „Nikdy jsem neslyšel o "
+"telefonech Firefox OS.“"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"When you type a word or subject that interests you using Adaptive App Search"
+" what happens? Select all that apply."
+msgstr ""
+"Když napíšete slovo nebo předmět, který vás zajímá, do pole adaptivního "
+"vyhledávání aplikací, co se stane? Vyberte všechny možnosti, které "
+"přicházejí v úvahu."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "How do you access the Adaptive App Search feature on Firefox OS?"
+msgstr ""
+"Jak získáte přístup k funkci adaptivního vyhledávání aplikací ve Firefox OS?"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Stay connected, with easy access to your friends and colleagues from "
+"wherever you are."
+msgstr ""
+"Neztrácejte kontakt díky snadnému přístupu k přátelům a kolegům bez ohledu "
+"na to, kde právě jste."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. A first time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+"Správně. Uživatele bude u jeho prvního chytrého telefonu zajímat hlavně "
+"jednoduchost jeho používání."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results include photos, video, music, news, maps and more."
+msgstr "Výsledky obsahují fotografie, videa, hudbu, novinky mapy a další."
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "Keep the Web in Your Hands"
+msgstr "Držte web ve vašich rukou"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "A phone that makes every moment count"
+msgstr "Telefon, se kterým se každá chvíle počítá"
+
+#: 1-1/demo-tips/ 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/
+#: 1-4/take-the-challenge/
+msgid "Adaptive App Search"
+msgstr "Adaptivní vyhledávání aplikací"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, all of these are true of Adaptive App Search!"
+msgstr ""
+"Vše uvedené o adaptivním vyhledávání aplikací je ve skutečnosti pravda!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Works just like Web search on Firefox browsers."
+msgstr "Funguje přesně jako vyhledávání na webu v prohlížečích Firefox."
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "What is Adaptive App Search?"
+msgstr "Co je Adaptivní vyhledávání aplikací?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results from around the Web are displayed like apps on your phone."
+msgstr ""
+"Výsledky z celého internetu se zobrazí jako aplikace na vašem telefonu."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Your background image changes instantly to reveal popular photos from the "
+"Web."
+msgstr ""
+"Váš obrázek na pozadí se okamžitě změní na populární fotografii z webu."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Take the challenge"
+msgstr "Výzva pro vás"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the broadest selection of devices on the market today."
+msgstr "Firefox OS dává nejširší možnosti výběru zařízení na dnešním trhu."
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/key-features/ 1-4/take-the-challenge/
+msgid "FM Radio"
+msgstr "FM Rádio"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results are instantly usable — you don’t have to download the app first."
+msgstr ""
+"Nalezené výsledky můžete hned použít — nemusíte čekat na stažení aplikace."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results include relevant maps, pictures, music, news, videos, Twitter feeds "
+"and more."
+msgstr ""
+"Výsledky zahrnují relevantní mapy, obrázky, hudbu, novinky, videa, kanály na"
+" Twitteru a další."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this is true."
+msgstr "Ve skutečnosti, toto je pravda."

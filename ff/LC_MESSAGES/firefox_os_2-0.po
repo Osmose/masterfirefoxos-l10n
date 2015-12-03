@@ -1,0 +1,38 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ff\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/take-the-challenge/
+msgid ""
+"Actually, the Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"E jaati, Yiytu Cinndel Am ena wallu maa waɗde ɗeen geɗe fof e konte mah "
+"Firefox."
+
+#: 2-0/take-the-challenge/
+msgid ""
+"That’s right! The Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"A yiytii! Nokkiɗin Cinndel am ina wallu maa waɗde ɗeen geɗe fof e konte mah "
+"Firefox."
+
+#: 2-0/take-the-challenge/
+msgid "Track the location of your lost/stolen device"
+msgstr "Rewindo nokkuure kaɓirgol mah majjungel/gujjangel"
+
+#: 2-0/take-the-challenge/
+msgid ""
+"What does the Find My Device feature on your Firefox OS phone help you do in"
+" the case that your phone is lost or stolen?"
+msgstr ""
+"Hol ko fannu Yiytu Kaɓirgol Am e cinndel Firefox OS waawi wallude ma so "
+"tawii cinndel mah majjii walla wujjaama?"

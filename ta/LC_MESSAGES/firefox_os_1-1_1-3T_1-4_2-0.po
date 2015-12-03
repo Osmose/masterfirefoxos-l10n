@@ -1,0 +1,20 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/
+msgid ""
+"Since it is built by Firefox, you can feel confident that Firefox OS is "
+"backed by a global community working on your behalf and with your interests "
+"in mind."
+msgstr ""
+"இது Firefox ஆல் உருவாக்கப்பட்டது, எனவே Firefox OS ஆனது உலகலாவிய சமூகத்தால் "
+"உங்களின் விருப்பத்தை மனதில் கொண்டு உங்கள் சார்பாக வேலைச்செய்கிறது."

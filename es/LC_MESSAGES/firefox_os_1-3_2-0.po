@@ -1,0 +1,224 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"That’s not it. With this customer, highlight the great value and full "
+"feature set of Firefox OS, including social apps that are preloaded on the "
+"phone, all at great value."
+msgstr ""
+"No es así. Con este cliente, enfatiza el gran valor y la completa "
+"funcionalidad de Firefox OS, incluyendo aplicaciones sociales que están "
+"precargadas en el teléfono, todo ello a un gran precio."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "That’s right. All of these are true of the Cost Control app!"
+msgstr "Exacto. Todas son verdaderas respecto a la app de Control de costes."
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+msgid ""
+"Not directly, but the ConnectA2 app allows you to send instant messages to "
+"your contacts on ConnectA2 and/or WhatsApp.  You can send and receive "
+"messages, emoticons, pictures, videos and audio files for free. You can also"
+" create and use group chats and receive notifications of new messages, even "
+"when the app is closed."
+msgstr ""
+"No directamente, pero la aplicación ConnectA2 te permite mandar mensajes "
+"instantáneos a tus contactos en ConnectA2 y/o WhatsApp. Puedes enviar y "
+"recibir mensajes, emoticonos, imágenes, vídeos y ficheros de audio gratis. "
+"También puedes crear y usar conversaciones de grupo y recibir notificaciones"
+" de mensajes nuevos, aunque la aplicación esté cerrada."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"The Firefox OS smartphone is preloaded with all the features that you’d "
+"expect, including Messages, Facebook, email, maps and more, all at a better "
+"value."
+msgstr ""
+"El teléfono inteligente Firefox OS incluye todas las características que "
+"cabe esperar, entre ellas SMS, Facebook, correo electrónico, mapas y muchas "
+"más, a un gran precio."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "What does Bluetooth allow users to do? Select all that apply"
+msgstr ""
+"¿Qué les permite hacer Bluetooth a los usuarios? Selecciona todas las que "
+"sean pertinentes."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "You can use it to create and set a daily budget for data usage."
+msgstr ""
+"Puedes utilizarla para crear y configurar una asignación diaria de uso de "
+"datos."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "It shows usage by time."
+msgstr "Muestra uso por tiempo."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"That’s right. With this customer, highlight the great value and full feature"
+" set of Firefox OS, including social apps that are preloaded on the phone, "
+"all at great value."
+msgstr ""
+"Así es. Con este cliente, enfatiza el gran valor y la completa funcionalidad"
+" de Firefox OS, incluyendo aplicaciones sociales que están precargadas en el"
+" teléfono, todo ello a un gran precio."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "Actually, all of these are true of the Cost Control app!"
+msgstr ""
+"En realidad, todas son ciertas respecto a la app de Control de costes."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Actually, with a first time smart phone user, you should talk about its "
+"simplicity and features including ways to control their experience and "
+"personalize their phones."
+msgstr ""
+"En realidad, con un nuevo usuario de teléfonos inteligentes, debes hablar "
+"sobre su sencillez y destacar características relacionadas con el control de"
+" su experiencia y la personalización del teléfono."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Actually, all of these things can be shared via Bluetooth with your Firefox "
+"OS phone.."
+msgstr ""
+"De hecho, todos estos recursos pueden compartirse a través de Bluetooth con "
+"tu teléfono Firefox OS."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Actually, this is true. ConnectA2 allows you to send instant messages to "
+"your contacts using ConnectA2 and/or WhatsApp."
+msgstr ""
+"De hecho, es cierto. ConnectA2 te permite enviar mensajes instantáneos a tus"
+" contactos utilizando ConnectA2 y/o WhatsApp."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "The Firefox Marketplace features free apps!"
+msgstr "Firefox Marketplace cuenta con apps gratuitas."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"That’s right. With a first time smart phone user, you should talk about its "
+"simplicity and features including ways to control their experience and "
+"personalize their phones."
+msgstr ""
+"Exacto. Con un nuevo usuario de teléfonos inteligentes, debes hablar sobre "
+"su sencillez y destacar características relacionadas con el control de su "
+"experiencia y la personalización del teléfono."
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+msgid "Can I use WhatsApp on this phone?"
+msgstr "¿Puedo utilizar WhatsApp en este teléfono?"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+msgid ""
+"App developers around the world are committed to Firefox OS and tens of "
+"hundreds of free applications will be available at launch. The growing list "
+"includes leading app developers like Facebook, YouTube, Twitter, YouTube, "
+"Pinterest and ConnectA2 as well as a Flashlight app and Calculator."
+msgstr ""
+"Desarrolladores de aplicaciones de todo el mundo están comprometidos con "
+"Firefox OS y habrá decenas de miles de aplicaciones gratuitas y de pago "
+"disponibles en el momento del lanzamiento. Esta lista, que va en aumento, "
+"incluye a destacados desarrolladores de aplicaciones como Facebook, YouTube,"
+" Twitter, YouTube, Pinterest y ConnectA2, así como una app de Flashlight y "
+"Calculadora."
+
+#: 2-0/demo-tips/ 1-3/demo-tips/
+msgid ""
+"Show your customers how easy it is to get apps in the Firefox Marketplace. "
+"Tell them that the Marketplace has the cool games and apps that they’re "
+"looking for. Demonstrate an example of a local app that will help make their"
+" lives easier."
+msgstr ""
+"Muestra a tus clientes lo fácil que es conseguir aplicaciones en el Firefox "
+"Marketplace. Cuéntales que el Marketplace tiene los juegos más geniales y "
+"las aplicaciones que están buscando. Enséñales un ejemplo de una aplicación "
+"local que les ayudará a hacer su vida más fácil."
+
+#: 2-0/key-features/ 1-3/key-features/
+msgid ""
+"Experience the fast, smart, safe way to get the best of the Web. Use the "
+"Search Bar to visit websites, perform searches and access apps from the "
+"Marketplace. Multitask with tabs and browse multiple pages at the same time"
+msgstr ""
+"La manera rápida, inteligente y segura de obtener lo mejor de la Web. "
+"Utiliza la barra de búsquedas para visitar sitios web, realizar búsquedas y "
+"acceder a aplicaciones de Firefox Marketplace. Además, las pestañas te "
+"permiten realizar varias tareas a la vez al navegar simultáneamente por "
+"distintas páginas."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"The ConnectA2 app is an instant messaging application compatible with "
+"WhatsApp for your Firefox OS device."
+msgstr ""
+"La aplicación ConnectA2 es una aplicación de mensajería instantánea "
+"compatible con WhatsApp para tu dispositivo Firefox OS."
+
+#: 2-0/which-version/ 1-3/which-version/
+msgid ""
+"<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
+"select <strong>Device information</strong>.</li> <li>On the Device "
+"information screen, select <strong>More Information</strong> and look for "
+"the version numbers under <em>OS version</em> at the top of the screen. <ul>"
+" <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> "
+"<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
+"means you have version 2.0</li> </ul> </li> </ol>"
+msgstr ""
+"<ol> <li>Abre la app Ajustes de tu dispositivo.</li> <li>Desplaza la "
+"pantalla hacia abajo y selecciona <strong>Información</strong>.</li> <li>En "
+"la pantalla de información del dispositivo, selecciona <strong>Más "
+"información</strong> y busca los números de la versión en <em>Version de "
+"SO</em> en la parte superior de la pantalla. <ul> <li><em>Firefox OS "
+"1.0.1.0</em> significa que tienes la versión 1.0.1</li> <li><em>Firefox OS "
+"1.1.0.0</em> significa que tienes la versión 1.1</li> <li><em>1.3.0.0</em> "
+"significa que tienes la versión 1.3</li> <li><em>2.0.0.0</em> significa que "
+"tienes la versión 2.0</li> </ul> </li> </ol>"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "It shows usage per app."
+msgstr "Muestra el uso por aplicación."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "Actually, all of these are true about Firefox OS"
+msgstr "De hecho todas son verdaderas respecto a Firefox OS."
+
+#: 2-0/key-features/ 1-3/key-features/
+msgid ""
+"Stay connected with friends and colleagues on your favorite social networks "
+"from wherever your are.."
+msgstr ""
+"Conecta en tus redes sociales favoritas con tus amigos y compañeros de "
+"trabajo dondequiera que estés."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Which of the following statements are true of the Cost Control app that is "
+"preloaded on Firefox OS?"
+msgstr ""
+"¿Cuál de las siguientes frases es cierta acerca de la aplicación de Control "
+"de costes que está precargada en Firefox OS?"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily import your friends from Facebook,"
+" too.."
+msgstr ""
+"Firefox OS es el teléfono más fácil para comenzar. Tus apps favoritas están "
+"ya preinstaladas y además puedes importar fácilmente tus amigos de Facebook."

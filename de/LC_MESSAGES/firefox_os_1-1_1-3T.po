@@ -1,0 +1,51 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid "Click on the home button."
+msgstr "Auf die Startschaltfläche tippen"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"Nicht ganz. Drei dieser Aussagen sind korrekt. Die adaptive App-Suche ahnt "
+"Ihre Bedürfnisse zwar besser voraus als jedes andere Handy, sie funktioniert"
+" aber NICHT „genau wie die Web-Suche in Firefox-Browsern“."
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid "Have It All"
+msgstr "Alles dabei"
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid ""
+"Firefox OS adapts to the needs of customers better than any other phone by "
+"anticipating their needs and instantly delivering the information they want."
+" With Adaptive App Search your customers will get more of what they’re "
+"looking for, exactly when they need it."
+msgstr ""
+"Firefox OS passt sich den Bedürfnissen der Kunden besser an als jedes andere"
+" Handy, indem es ihre Bedürfnisse vorhersieht und ihnen sofort die "
+"Informationen liefert, die sie brauchen. Die adaptive App-Suche liefert "
+"Ihren Kunden mehr von dem, was sie suchen, und das zur richtigen Zeit."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s quite not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"Nein. Drei dieser Aussagen sind korrekt. Die adaptive App-Suche ahnt Ihre "
+"Bedürfnisse zwar besser voraus als jedes andere Handy, sie funktioniert aber"
+" NICHT genau wie die Web-Suche in Firefox-Browsern."

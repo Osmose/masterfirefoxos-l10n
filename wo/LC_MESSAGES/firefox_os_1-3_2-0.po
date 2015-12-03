@@ -1,0 +1,212 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: wo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"That’s not it. With this customer, highlight the great value and full "
+"feature set of Firefox OS, including social apps that are preloaded on the "
+"phone, all at great value."
+msgstr ""
+"Waaw, leeralal boobu kiliyaan mbooleem lu baax ak man-man yi ci Firefox OS, "
+"boole ci jëfekaayi penc yi telefon bi di wàccaale, lépp ci jëg lu yomb."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "That’s right. All of these are true of the Cost Control app!"
+msgstr "Dëgg la. Lii lépp ñu wax ci jëfekaayu Saytu Njëg dëgg la!"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+msgid ""
+"Not directly, but the ConnectA2 app allows you to send instant messages to "
+"your contacts on ConnectA2 and/or WhatsApp.  You can send and receive "
+"messages, emoticons, pictures, videos and audio files for free. You can also"
+" create and use group chats and receive notifications of new messages, even "
+"when the app is closed."
+msgstr ""
+"Du nekk moom kese, waaye jëfekaayu ConnectA2 dina la may ngay yónnee ak jot "
+"mesaasi janoo say xame yi ci ConnectA2 ak/walla WhatsApp.  Mën nga yónnee ak"
+" jot ay mesaas, ay emotikon, ay nataal, ay wideo ak taxañi ojo te doo fay. "
+"Mën nga itam sos mbooloom waxtaan ci janoo ak di jot ay yëgley mesaas yu "
+"bees, ba ci sudee dañu tëj jëfekaay bi."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"The Firefox OS smartphone is preloaded with all the features that you’d "
+"expect, including Messages, Facebook, email, maps and more, all at a better "
+"value."
+msgstr ""
+"Smaartfoni Firefox OS dafay wàccaale ak mbooleem man-man yoo soxla, bokk na "
+"ci Mesaas yi, Facebook, imeel, ay kàrt ak yeneen mbir, lépp ci njëg lu yomb."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "What does Bluetooth allow users to do? Select all that apply"
+msgstr ""
+"Lan la jëfandikukat yi mën a def ak Bluetooth? Tànnal lépp lumu méngool"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "You can use it to create and set a daily budget for data usage."
+msgstr "Mën nga koo jëfandikoo ngir xayma seenug jëfandikoo njoxe ci bis bi."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "It shows usage by time."
+msgstr "Dafay wone waxtu jëfandikoo bi."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"That’s right. With this customer, highlight the great value and full feature"
+" set of Firefox OS, including social apps that are preloaded on the phone, "
+"all at great value."
+msgstr ""
+"Dëgg la. Leeralal boobu kiliyaan mbooleem lu baax ak man-man yi ci Firefox "
+"OS, boole ci jëfekaayi penc yi telefon bi di wàccaale, lépp ci jëg lu yomb."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "Actually, all of these are true of the Cost Control app!"
+msgstr "Dëgg la, lii lépp ñu wax ci jëfekaayu Saytu Njëg dëgg la!"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Actually, with a first time smart phone user, you should talk about its "
+"simplicity and features including ways to control their experience and "
+"personalize their phones."
+msgstr ""
+"Waaw, sudee kuy soog a jëfandikoo smaartfon, danga ko war a xamal yombaayu "
+"man-man yi ak fi ñuy jaar ba def liñ bëgg ci seen telefon jox leen melokaan "
+"yiñ bëgg."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Actually, all of these things can be shared via Bluetooth with your Firefox "
+"OS phone.."
+msgstr ""
+"Waaw, mën nga séddoo mbir yii yépp ak Bluetooth bi ci sa telefonu Firefox "
+"OS.."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Actually, this is true. ConnectA2 allows you to send instant messages to "
+"your contacts using ConnectA2 and/or WhatsApp."
+msgstr ""
+"Waaw, loolu dëgg la. ConnectA2 dalay may ngay yónnee ak jot mesaas cib janoo"
+" say xame soo jëfandikoo ConnectA2 ak/walla WhatsApp."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "The Firefox Marketplace features free apps!"
+msgstr "Firefox Marketplace am na jëfekaay yuy maye!"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"That’s right. With a first time smart phone user, you should talk about its "
+"simplicity and features including ways to control their experience and "
+"personalize their phones."
+msgstr ""
+"Dëgg la. Sudee kuy soog a jëfandikoo smaartfon, danga ko war a xamal "
+"yombaayu man-man yi ak fi ñuy jaar ba def liñ bëgg ci seen telefon jox leen "
+"melokaan yiñ bëgg."
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+msgid "Can I use WhatsApp on this phone?"
+msgstr "Mën naa jëfandikoo WhatsApp ci telefon bii?"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+msgid ""
+"App developers around the world are committed to Firefox OS and tens of "
+"hundreds of free applications will be available at launch. The growing list "
+"includes leading app developers like Facebook, YouTube, Twitter, YouTube, "
+"Pinterest and ConnectA2 as well as a Flashlight app and Calculator."
+msgstr ""
+"Defarkati jëfekaay yi wër àdduna bokk nañu ci Firefox OS ak junniy jëfekaay "
+"yuy jàppandi cig jëfandikoo. Bokk na ci limu jëfekaay yooyu di yokk, "
+"defarkati jëfekaay yi gën a mag, maanaam Facebook, YouTube, Twitter, "
+"YouTube, Pinterest ak ConnectA2 ak ab jëfekaayu Torsu ak Xaymakaay."
+
+#: 2-0/demo-tips/ 1-3/demo-tips/
+msgid ""
+"Show your customers how easy it is to get apps in the Firefox Marketplace. "
+"Tell them that the Marketplace has the cool games and apps that they’re "
+"looking for. Demonstrate an example of a local app that will help make their"
+" lives easier."
+msgstr ""
+"Wanal say kiliyaan ni am ay jëfekaayi yombee ci Firefox Marketplace. Xamal "
+"leen ni Marketplace am na po neex ak jëfekaay yi ñuy wër. Won leen seen benn"
+" jëfekaayu réew buy leen di yombal seen dund. "
+
+#: 2-0/key-features/ 1-3/key-features/
+msgid ""
+"Experience the fast, smart, safe way to get the best of the Web. Use the "
+"Search Bar to visit websites, perform searches and access apps from the "
+"Marketplace. Multitask with tabs and browse multiple pages at the same time"
+msgstr ""
+"Xamal li ci yoon wi gën a gaaw, xarañ te wóor ngir am li gën ci Web bi. "
+"Jëfandikool Laatu Seet gi ngir dem ci dalu web yi, amal ay seet ak jotee ay "
+"jëfekaay ci Marketplace. Defandoo mbir yu bari ak laf yi te    mën a "
+"joowandoo xët yu bari"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"The ConnectA2 app is an instant messaging application compatible with "
+"WhatsApp for your Firefox OS device."
+msgstr ""
+"Jëfekaayu ConnectA2 ab jëfekaayu bindante mesaas ci janoo la bu mën a ànd ak"
+" WhatsApp ngir sa telefonu Firefox OS."
+
+#: 2-0/which-version/ 1-3/which-version/
+msgid ""
+"<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
+"select <strong>Device information</strong>.</li> <li>On the Device "
+"information screen, select <strong>More Information</strong> and look for "
+"the version numbers under <em>OS version</em> at the top of the screen. <ul>"
+" <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> "
+"<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
+"means you have version 2.0</li> </ul> </li> </ol>"
+msgstr ""
+"<ol> <li>Ubbil jëfekaayu Jekkal yi ci sa telefon.</li> <li>Lemmil te tànn "
+"<strong>Leerali telefon</strong>.</li> <li>Ci seetub leerali Telefon, tànnal"
+" <strong>Yeneeni Leeral</strong> te nga xoot nimeroy sumb bi ci suufu "
+"<em>sumbu OS</em> ci kaw seetu bi. <ul> <li><em>Firefox OS 1.0.1.0</em> mooy"
+" tekki ni sumbu 1.0.1 nga am</li> <li><em>Firefox OS 1.1.0.0</em> mooy tekki"
+" ni sumbu 1.1 nga am</li> <li><em>1.3.0.0</em> mooy tekki ni sumbu 1.3 nga "
+"am</li> <li><em>2.0.0.0</em> mooy tekki ni sumbu 2.0 nga am</li> </ul> </li>"
+" </ol>"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "It shows usage per app."
+msgstr "Dalay ni nga jëfandikoo jëfekaay bu nekk."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "Actually, all of these are true about Firefox OS"
+msgstr "Waaw, lii lépp ñu wax ci Firefox OS dëgg la"
+
+#: 2-0/key-features/ 1-3/key-features/
+msgid ""
+"Stay connected with friends and colleagues on your favorite social networks "
+"from wherever your are.."
+msgstr ""
+"Di jokkoo ay say xarit ak naataangoo ci reso penc yi la gënal fépp foo mën a"
+" nekk.."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Which of the following statements are true of the Cost Control app that is "
+"preloaded on Firefox OS?"
+msgstr ""
+"Yan ci wax yii jëm ci jëfekaayu Saytu Njëg yi Firefox OS di wàccaale ñooy "
+"dëgg?"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily import your friends from Facebook,"
+" too.."
+msgstr ""
+"Firefox OS mooy smaartfon bi gën a yomb ci kuy tàmbali. Sa jëfekaay yi la "
+"gënal wàccaale nañu ci ba noppi te mën nga jëlee say xarit ci Facebook, "
+"itam.."

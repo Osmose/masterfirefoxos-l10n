@@ -1,0 +1,51 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid "Click on the home button."
+msgstr "Haz clic en el botón inicio."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"No, no es correcto. La Búsqueda Adaptativa de Aplicaciones anticipa tus "
+"necesidades mejor que cualquier otro teléfono, pero NO funciona como la "
+"búsqueda en la Web de los navegadores Firefox."
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid "Have It All"
+msgstr "Puedes tenerlo todo"
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid ""
+"Firefox OS adapts to the needs of customers better than any other phone by "
+"anticipating their needs and instantly delivering the information they want."
+" With Adaptive App Search your customers will get more of what they’re "
+"looking for, exactly when they need it."
+msgstr ""
+"Firefox OS se adapta a las necesidades de los clientes mejor que cualquier "
+"otro teléfono. La Búsqueda Adaptativa de Aplicaciones ofrece información "
+"sobre cualquier tema y facilita a tus clientes todo lo que buscan, "
+"exactamente cuando lo necesitan."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s quite not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"No, no es del todo correcto. La Búsqueda Adaptativa de Aplicaciones anticipa"
+" tus necesidades mejor que cualquier otro teléfono, pero NO funciona como la"
+" búsqueda en la Web de los navegadores Firefox."

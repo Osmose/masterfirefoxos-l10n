@@ -1,0 +1,83 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ee\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Contacts."
+msgstr "Nyateƒee, Icon sia xɔ ɖe kɔntatiwo teƒe."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Calendar"
+msgstr "Kalenda"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Customers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the customer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Woaɖo nuƒlela siwo hia kpekpeɖeŋu na app siwo wotu na Firefox OS la ɖe amesi"
+" wɔe la gbɔ na kpeɖeŋu xɔxɔ. Ne nu nyui aɖeke medogo tso eme na Firefox OS o"
+" la, Mozilla ateŋu ana atrɔ susu eye woana be woɖe app la ɖa vaseɖe esime "
+"woana kpeɖeŋu nyuitɔ."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"Which of the following apps is preloaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"App siwo gbɔna la dometɔ kawoe le Firefox OS phone ɖesiaɖe dzi? Tia esiwo "
+"hia la."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+"puts the power of the Web in your hands."
+msgstr ""
+"Ne elɔ̃ Firefox la, alɔ̃ Firefox OS. Firefox OS ƒe tiatia tsoa Web ƒe ŋuse "
+"dea wo asiwo me."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Clock"
+msgstr "Klɔki"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Firefox OS is built on Web technologies but has offline capabilities for all"
+" the phone’s core functions. That means apps do not require an active "
+"Internet connection to work unless they need to send or receive data."
+msgstr ""
+"Wotu Firefox OS kple technology tso Web gbɔ gake woateŋu aza kaƒomɔa ƒe "
+"function veviwo offline ha. Ema fia be appwo mehia na internet ƒe katsiatsia"
+" ne woawɔ dɔ o negbe be naɖo data ɖa loo alo naxɔ data."
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
+"able to convert other apps (*.apk and/or C/C++) to Web apps."
+msgstr ""
+"Menye direct o. Gake, Android kple iOS app geɖe siwo bɔ la le nyateƒe me la "
+"nye Web ƒe appwo siwo si native “wrapper” le. Eya ye nana wo wɔadɔ le "
+"proprietary platforms. Eyata, app geɖe woanɔ anyi to Adaptive App Nudidi me."
+" Toolwo abe Emscripten kple PhoneGap woteaŋu trɔ app bubuwo (*.apk and/or "
+"C/C++) zua Web ƒe appwo."

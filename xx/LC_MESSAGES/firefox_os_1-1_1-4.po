@@ -1,0 +1,149 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: xx\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid "Maps"
+msgstr ""
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid ""
+"Play it all from your phone, or online via Youtube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Access to over 20,000 free and paid apps at launch, including some of the "
+"most popular global apps today."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this icon represents Contacts."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open the Firefox browser."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Packed with the features that made you want a smartphone in the first place."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
+"Firefox OS keeps the power of the Web in your hands."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"The Firefox Marketplace features thousands of apps for free or at very low "
+"prices."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open Firefox Marketplace."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Contacts."
+msgstr ""
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Consumers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the consumer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "It’s easier than ever to stay connected with Firefox OS."
+msgstr ""
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search."
+msgstr ""
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Demonstrate the powerful map features of Firefox OS, including local transit"
+" info."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Every phone has access to over 20,000 free and paid apps at launch, "
+"including some of the most popular global apps today."
+msgstr ""
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Show customers how Firefox OS adapts to them, giving them more of what they "
+"need, when they need it."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following apps is pre-loaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Tens of thousands of Web apps from around the world are searched instantly."
+msgstr ""
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "Firefox Marketplace has the cool games and apps your customers want."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace and dozens of preloaded apps, like email, maps,"
+" Facebook, a camera, music, and more, Firefox OS is packed with the features"
+" you’d expect in a smartphone."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"New and backed by a global community working to help keep the Web accessible"
+" to all."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices. Plus, Adaptive App Search feature makes it easy to find the apps "
+"you really need, when you need it."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web. Designed to protect the user and system from "
+"malicious applications and content, it also protects applications from each "
+"other."
+msgstr ""
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"With music at their fingertips, your customers will see how Firefox OS keeps"
+" them entertained and dancing in the streets."
+msgstr ""

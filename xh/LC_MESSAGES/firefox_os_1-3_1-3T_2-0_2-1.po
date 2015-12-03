@@ -1,0 +1,86 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Contacts."
+msgstr "Kunjalo. Le ayikhoni imele abaqhagamshelani."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Calendar"
+msgstr "Ikhalenda"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Customers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the customer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Abathengi abafuna inkxaso nge-aplikheshini eyakhelwe i-Firefox OS baya "
+"kusiwa kumphuhlisi weaplikheshini ukuze bancedakale. Ukuba umthengi uye "
+"wafumana ukuphatheka kakubi kwi-Firefox OS ngenxa yenkxaso ebangelwa yi-"
+"aplikheshini, u-Mozilla uya kucebisa ukuba ikhutshwe i-aplikheshini leyo de "
+"umphuhlisi abonelele ngenkxaso eyiyo."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"Which of the following apps is preloaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"Zeziphi kwezi aplikheshini zilandelayo esele zifakiwe kuzo zonke iifowuni "
+"ze-Firefox OS? Khetha zonke ezo zifakiweyo."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+"puts the power of the Web in your hands."
+msgstr ""
+"Ukuba uyayithanda i-Firefox, uya kuyithanda i-Firefox OS. Ukukhetha isixhobo"
+" se-Firefox OS kubeka amandla ewebhu ezandleni zakho."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Clock"
+msgstr "Iwotshi"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Firefox OS is built on Web technologies but has offline capabilities for all"
+" the phone’s core functions. That means apps do not require an active "
+"Internet connection to work unless they need to send or receive data."
+msgstr ""
+"I-Firefox OS yakhelwe kwiwebhu yethekhnoloji kodwa iyasebenziseka "
+"nangaphandle kwe-intanethi kweyona misebenzi ibalulekileyo yefowuni. Oko "
+"kuthetha ukuthi ii-aplikheshini azifuni intanethi esebenzayo ukuze zisebenze"
+" ngaphandle kokuba zifuna ukuthumela nokufumana ulwazi okanye ingcombolo."
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
+"able to convert other apps (*.apk and/or C/C++) to Web apps."
+msgstr ""
+"Hayi ngqo. Kodwa ke, uninzi lwee-aplikheshini ezidumileyo ze-Android ne-iOS "
+"zii-aplikheshini zeWebhu ezinesikhuselo “zesiseko” ezivumela ukuba ziqhube "
+"kwiiplatifom zomnini. Ngoko ke, uninzi lwee-aplikheshini ezifanayo ziya "
+"kufumaneka nge-Adaptive App Search. Izixhobo ezinje nge-Emscripten ne-"
+"PhoneGap nazo ziyakwazi ukuguqula ezinye ii-aplikheshini (*.apk and/or "
+"C/C++) zibe kwezinye ii-aplikheshini zeWebhu."

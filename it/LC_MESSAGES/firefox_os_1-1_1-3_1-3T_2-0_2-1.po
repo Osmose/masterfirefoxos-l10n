@@ -1,0 +1,33 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Visit <a href=\"https://support.mozilla.org/en-US/products/firefox-"
+"os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
+"information."
+msgstr ""
+"Visita <a href=\"https://support.mozilla.org/products/firefox-"
+"os\">https://support.mozilla.org/products/firefox-os</a> per ulteriori "
+"informazioni."
+
+#: 1-1/demo-tips/ 1-3T/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"Demonstrating the features of Firefox OS and how easy it is to use will be "
+"your best selling tool. Browse the demonstration videos below to get "
+"started."
+msgstr ""
+"Una dimostrazione pratica delle funzioni e della semplicità d’utilizzo di "
+"Firefox OS è il migliore strumento di vendita a tua disposizione. Dai "
+"un’occhiata ai video dimostrativi per iniziare."

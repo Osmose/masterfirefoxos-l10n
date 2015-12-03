@@ -1,0 +1,483 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. A first-time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+"Správně. Uživatele, který si chce koupit první chytrý telefon, bude nejvíce "
+"zajímat jeho snadné používání."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What are some examples of the kind of personalization and control that "
+"Firefox OS allows?  Select all that apply."
+msgstr ""
+"Jaké jsou možnosti přizpůsobení a kontroly, které Firefox OS nabízí?  "
+"Vyberte všechny, které přicházejí v úvahu."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is made with you and your needs in mind, so it is extremely easy "
+"to use and allows for greater control, personalization and customization "
+"than many other smartphones on the market."
+msgstr ""
+"Při vytváření Firefox OS se myslelo na lidi jako vy, takže je jednoduché jej"
+" používat, umožňuje vám mít větší kontrolu nad přístrojem, jeho "
+"přizpůsobováním a personalizací než u mnohých jiných chytrých telefonů na "
+"trhu."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "An excellent user experience"
+msgstr "Skvělý uživatelský prožitek"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "A phone for everyone"
+msgstr "Telefon pro každého"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid "Social and contact sync"
+msgstr "Synchronizace kontaktů a sociálních sítí"
+
+#: 2-0/about/ 1-3/about/ 2-1/about/
+msgid "The Mozilla Mission"
+msgstr "Mise Mozilly"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, this icon represents the Firefox Browser."
+msgstr "Tato ikona ve skutečnosti představuje prohlížeč Firefox."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, show a commitment to keeping the power "
+"of the Web in the hands of the people. And while all of these statements are"
+" true, only this one is the best response for this particular customer."
+msgstr ""
+"To je správně. Tento zákazník vypadá jako fanoušek Firefoxu. Mluvte o tom, "
+"jak telefony s Firefox OS od Mozilly ukazují odhodlání udržet sílu webu v "
+"rukou jeho uživatelů. A i když jsou všechna ostatní tvrzení správná, tohle "
+"nejlepší odpověď tomuto zákazníkovi."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share contacts"
+msgstr "Sdílení kontaktů"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you’ve worked through all of the questions and content, you’re ready to "
+"match Firefox OS to the needs of your customers.  Easy to use, a Firefox OS "
+"smartphone is perfect for new smartphone users and full of all the features "
+"that customers want and need.  And it’s powered by Mozilla, making Firefox "
+"OS the right choice for anyone committed to ensuring that the power of the "
+"Web remains in their hands!"
+msgstr ""
+"Pokud jste se propracovali těmito otázkami a obsahem, pak máte základní "
+"vědomosti potřebné k tomu, abyste mohli představit telefon Firefox OS "
+"zákazníkům.  Chytrý telefon Firefox OS je snadné používat, takže je "
+"perfektní pro nové uživatele chytrých telefonů, a je také plný funkcí, které"
+" zákazníci chtějí a potřebují.  A má za sebou Mozillu, což z telefonu "
+"Firefox OS dělá tu nejlepší volbu pro každého, komu záleží na tom, aby web "
+"zůstal v jeho rukou!"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there "
+"aren’t many apps available.”"
+msgstr ""
+"Jaká je nejlepší odpověď na tuto námitku zákazníka? „Slyšel jsem, že nemá "
+"moc aplikací.“"
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and adapts to your needs"
+" better than any other phone. That means you get more of what you need with "
+"less time spent searching. Plus, it’s packed with all the features you’d "
+"expect — camera, email, apps, music, maps and more!"
+msgstr ""
+"<strong>Co můžete říci:</strong> Firefox OS je pro lidi, kteří si kupují "
+"svůj první chytrý telefon, tou nejlepší volbou. Supersnadno se používá a "
+"přizpůsobuje se vašim potřebám lépe než jakýkoli jiný telefon. To znamená, "
+"že získáte více, než potřebujete při kratším vyhledávání. A ještě k tomu je "
+"plný funkcí, které od chytrého telefonu očekáváte — jako je fotoaparát, "
+"e-mail, aplikace, hudba, mapy a mnoho dalšího!"
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below to learn how to best respond to each of their unique needs."
+msgstr ""
+"Porozumět potřebám vašich zákazníků a vědět, jak okamžitě reagovat jsou z "
+"hlediska možnosti prodeje nejdůležitější dovednosti. Seznamte se s "
+"nejběžnějšími zákaznickými segmenty a níže si ověřte, jak nejlépe reagovat "
+"na jejich konkrétní potřeby."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"Jsou to nové telefony podporované globální komunitou, která se snaží o to, "
+"aby byl web přístupný každému."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.\""
+msgstr ""
+"Jaká je nejlepší odpověď na tuto námitku zákazníka? „Nikdy jsem neslyšel o "
+"telefonech Firefox OS.“"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Will my apps work offline?"
+msgstr "Budou moje aplikace fungovat offline?"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Stay connected easily and conveniently. Set up multiple email accounts, with"
+" support for the most common Exchange, POP3 or IMAP email providers."
+msgstr ""
+"Zůstaňte snadno v kontaktu. Díky podpoře nejběžnějších poskytovatelů "
+"e-mailových služeb Exchange, POP3 nebo IMAP je snadné nastavit si více "
+"e-mailových účtů."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Life is complicated, your smartphone shouldn’t be. Firefox OS is designed "
+"for better performance, easier customization and simpler navigation. "
+"Everything your customer needs or wants is either one scroll or swipe away."
+msgstr ""
+"Život je sice někdy komplikovaný, ale váš chytrý telefon být nemusí. Firefox"
+" OS je navržen pro lepší rychlost, snazší přizpůsobení a ovládání. Vše, co "
+"vaši zákazníci potřebují nebo chtějí, je na dosah prstu."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these are true about Firefox OS."
+msgstr "Vše toto je o Firefox OS ve skutečnosti pravda."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is backed by a global community of developers and content "
+"providers dedicated to creating new and exciting content and even locally-"
+"relevant apps for the Firefox OS platform. New apps and content are added "
+"every day."
+msgstr ""
+"Firefox OS je podporován globální komunitou vývojářů a tvůrců obsahu, kteří "
+"pro něj nadšeně vytvářejí nový, zajímavý obsah, kam mimo jiné patří i mnohé "
+"oblíbené lokální aplikace. Nové aplikace vznikají každý den."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things are possible with a Firefox OS phone."
+msgstr "Správě! Všechny tyto věci jsou s telefonem s Firefox OS možné."
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Exchange, POP3 and IMAP are currently supported."
+msgstr "Podporované jsou nyní Exchange, POP3 a IMAP."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "There are more. Try again."
+msgstr "Je jich více. Zkuste to znovu."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping power of the the Web in their hands."
+msgstr ""
+"Když potkáte fanouška Firefoxu, měli byste spíše mluvit o tom, jak výběr "
+"Firefox OS ukazuje odhodlání nechat sílu webu v jejich rukách."
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"Firefox OS comes preloaded with popular instant messaging and social media "
+"apps, like Facebook, so your customers will be able to stay connected with "
+"friends and family. They can also sync their contacts to the phone, quickly "
+"and easily."
+msgstr ""
+"Firefox OS přichází s předinstalovanými oblíbenými aplikacemi pro sociální "
+"sítě nebo chat, jako je Facebook, takže vaši zákazníci budou moci zůstat v "
+"kontaktu se svými přáteli nebo rodinou. Své kontakty také mohou "
+"synchronizovat do svého telefonu, a to velmi snadno a rychle."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share images"
+msgstr "Sdílejte obrázky"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Your go-to source for the best apps on Firefox OS. Browse multiple "
+"categories, including games, utilities, music, travel, sports and more."
+msgstr ""
+"Zdroj, kde najdete nejlepší aplikace pro svůj Firefox OS. Prohlédněte si "
+"aplikace v mnoha kategoriích, od her přes nástroje až po hudbu, cestování, "
+"sporty a mnoho dalšího."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Firefox Browser."
+msgstr "Správně. Tato ikona představuje prohlížeč Firefox."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Keep the Web in your hands"
+msgstr "Web ve vašich rukou"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Firefox Marketplace is our go-to source for free apps, including favorites "
+"like Twitter and Facebook, and for awesome local content from the best Web "
+"developers in your region."
+msgstr ""
+"Firefox Marketplace je obchod plný bezplatných aplikací, včetně těch "
+"oblíbených jako jsou například Twitter a Facebook, a kromě toho tam také "
+"naleznete úžasný lokální obsah od těch nejlepších webových vývojářů v okolí."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re packed with the features that made you want a smartphone in the "
+"first place."
+msgstr "Jsou plné věcí, které jste od smartphonu vždycky chtěli."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps already built for the Web."
+msgstr ""
+"Mozilla, tvůrce Firefoxu, vytvořila operační systém pro chytré telefony aby "
+"mohla pomohla uchovat web dostupný pro každého. A jelikož je celý Firefox OS"
+" postaven na HTML5, okamžitě získáte přístup k tisícům aplikací vytvořených "
+"pro web."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Set your phone to your language"
+msgstr "Nastavte jazyk svého telefonu"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Users can place bookmarks to any website on their home screen to provide the"
+" functionality of that site directly from there. Also, users can simply "
+"enter any search term on the home screen and instantly create a one-time use"
+" or downloadable app. Creating and consuming these apps on demand puts users"
+" in complete control of their smartphone experience and makes it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+"Uživatele mohou ukládat záložky svých oblíbených stránek přímo na domovskou "
+"obrazovku, které jim přímo umožní danou stránku odtamtud navštívit. Mohou "
+"také snadno zadat jakékoliv vyhledávání a okamžitě si vytvořit aplikaci ke "
+"stažení nebo pro jednorázové použití. Vytváření a používání aplikací podle "
+"vlastní potřeby dává uživatelům úplnou kontrolu nad svým chytrým telefonem a"
+" umožní jim dostat přesně ten obsah, který chtěj a kdy jej chtějí."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily pair your device with a wide range of Bluetooth accessories. Share "
+"contacts, images, videos or your favorite URLs with friends."
+msgstr ""
+"Jednoduše spárujte své zařízení s jakýmkoliv z množství dostupných Bluetooth"
+" příslušenství. Sdílejte kontakty, obrázky, videa nebo své oblíbené URL "
+"adresy se svými přáteli."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> If you know and love Firefox, "
+"you’ll love Firefox OS.  Firefox OS smartphones are entirely HTML5-based, "
+"bringing the best of the Web to your phone.  Plus, Firefox OS is designed by"
+" a community dedicated to keeping the Web accessible to all. When you choose"
+" Firefox OS, you have the full power of the Web in your hands."
+msgstr ""
+"<strong>Co můžete říci:</strong> Když znáte Firefox a máte ho rádi, budete "
+"mít rádi telefon Firefox OS.  Telefony Firefox OS jsou vyvinuté na základě "
+"jazyka HTML5, a díky tomu se do vašeho telefonu dostává to nejlepší, co na "
+"webu je.  Kromě toho telefony Firefox OS vyvíjí komunita, která se snaží o "
+"to, aby přístup na web měli všichni. Když se rozhodnete pro telefon Firefox "
+"OS, budete mít ve svých rukou to nejlepší, co na web nabízí."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"All of these statements are true, but only one is the best response for this"
+" particular customer, who seems to be a Firefox fan. Talk about how Firefox "
+"OS phones, made by Mozilla, help keep the power of the Web in the hands of "
+"the people."
+msgstr ""
+"Všechny výroky jsou správně, ale jen jeden z nich je pro tohoto zákazníka "
+"dobrou odpovědí. Tento zákazník vypadá jako fanoušek Firefoxu, mluvte tedy o"
+" tom, jak telefony s Firefox OS od Mozilly ukazují odhodlání udržet sílu "
+"webu v rukou jeho uživatelů."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
+msgstr ""
+"Firefox OS je postavený celý na HTML5 a otevřených webových standardech."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Take the Challenge"
+msgstr "Výzva pro vás"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
+"OS shows a commitment to keeping the power of the Web in their hands."
+msgstr ""
+"Přesně tak. Když potkáte fanouška Firefoxu, mluvte o tom, jak výběr Firefox "
+"OS ukazuje odhodlání nechat sílu webu v jejich rukách."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share videos"
+msgstr "Sdílejte videa"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit.   Firefox OS "
+"smartphones are backed by a global community of developers working to "
+"innovate and further Web technologies.    When you choose Firefox OS, you’re"
+" helping build a brighter future for the Web for all."
+msgstr ""
+"Pro Mozillu je nejdůležitější to, čím se liší od ostatních, nikoli zisk.   "
+"Chytré telefony Firefox OS jsou vyvíjeny globální komunitou vývojářů, kteří "
+"pracují na inovacích a posunu webových technologií.    Když se zákazníci "
+"rozhodnou pro Firefox OS, pomáhají tím vytvářet lepší budoucnost webu pro "
+"všechny."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s packed with the features that made you want a smartphone in the first "
+"place."
+msgstr "Je plný všech těch věcí, které jste od smartphonu vždycky chtěli."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"Je to nový telefon podporovaný globální komunitou, která se snaží o to, aby "
+"byl web přístupný každému."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things can be shared via Bluetooth with your "
+"Firefox OS phone."
+msgstr ""
+"Správně! Pomocí Bluetooth může být s vaším telefonem s Firefox OS sdíleno "
+"všechno."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Apps developers are slowly realizing the benefit of HTML5 in support of the "
+"Open Web."
+msgstr ""
+"Vývojáři aplikací si už pomalu začínají uvědomovat, jak je HTML5 důležité k "
+"podpoře otevřeného webu."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily import your Facebook friends to your phone and keep your community "
+"all in one place thanks to deep integration with your favorite social "
+"networks."
+msgstr ""
+"Jednoduše importujte své přátele z Facebooku do svého telefonu a díky "
+"hluboké integraci s vašimi oblíbenými sociálními sítěmi je mějte všechny na "
+"jednom místě."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Your customers want to get the most out of life, so why should they get any "
+"less from their mobile device?  Firefox OS devices are perfect for new "
+"smartphone users — easy to use and full of all the features that they "
+"expect. And because Firefox OS devices are powered by Mozilla, they’re the "
+"perfect choice for anyone committed to keeping the Web open for all."
+msgstr ""
+"Vaši zákazníci si chtějí užívat, tak proč by jim v tom nemohlo pomáhat i "
+"chytré mobilní zařízení?  Zařízení s Firefox OS jsou skvělá pro nové "
+"uživatele chytrých telefonů — snadno se používají a jsou plné funkcí, které "
+"od takového telefonu očekáváte. Zařízení Firefox OS podporovaná Mozillou "
+"jsou tou nejlepší volbou pro každého, komu záleží na tom, aby web zůstal "
+"veřejným zdrojem dostupným pro všechny."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Play it all from your phone, or online via YouTube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+"Přehrávejte si, co chcete, rovnou z telefonu, nebo z internetu přes Youtube."
+" Prohlížejte a přehrávejte si hudbu podle alba nebo interpreta, hodnoťte "
+"písničky a vytvářejte seznamy svých oblíbených skladeb."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone to get you started.  The user interface is so intuitive, you’ll "
+"be able to quickly discover and download your favorite apps and be ready to "
+"go in no time."
+msgstr ""
+"<strong>Co můžete říci:</strong> Když začínáte s chytrým telefonem, Firefox "
+"OS je ten nejvhodnější.  Uživatelské rozhraní je tak intuitivní, že v něm "
+"dokážete rychle najít a stáhnout své oblíbené aplikace a rovnou je začít "
+"používat."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"With Camera, Gallery, Music apps and more, Firefox OS will keep your "
+"customers entertained on the go and connected to the things that matter most"
+" to them.  <br><br>Camera: Photograph, edit and share. Show off our full-"
+"featured camera and gallery apps, including built-in style filters, video "
+"and more.  <br><br>Music: With music at their fingertips, your customers "
+"will see how Firefox OS keeps them entertained and dancing in the streets."
+msgstr ""
+"S Fotoaparátem, Galerií, aplikací pro přehrávání hudby a dalšími bude "
+"Firefox OS vaše zákazníky bavit na cestách a budou moci být stále ve spojení"
+" na kom jim nejvíce záleží.  <br><br>Fotoaparát: Fotografujte, upravujte a "
+"sdílejte. Ukažte naše aplikace pro fotoaparát a galerii, včetně vestavěných "
+"filtrů, videa a další.  <br><br>Hudba: S hudbou na dosah vaši klienti "
+"poznají, jak je bude Firefox OS bavit a budou tančit třeba i na ulici."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Made with you in mind"
+msgstr "Myslíme na vás"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It features a robust security model that is battle-hardened from more than a"
+" decade supporting the Open Web. Designed to protect the user and system "
+"from malicious applications and content, it also protects applications from "
+"each other."
+msgstr ""
+"Firefox OS používá robustní zabezpečený model, který si vybojoval dobrou "
+"pověst během více než deseti let podpory otevřeného webu. Je vytvořený tak, "
+"aby chránil uživatele i systém před škodlivými aplikacemi a škodlivým "
+"obsahem."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Control your data usage"
+msgstr "Mějte přehled o využívání dat"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
+"power of the Web in your hands."
+msgstr ""
+"Jestli máte rádi Firefox, budete Firefox OS milovat. S Firefox OS budete mít"
+" sílu celého webu ve svých rukách."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these things are possible with a Firefox OS phone."
+msgstr "Vše uvedené je s telefonem s Firefox OS ve skutečnosti možné."

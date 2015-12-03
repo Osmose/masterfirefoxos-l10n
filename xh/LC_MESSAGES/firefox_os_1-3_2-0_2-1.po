@@ -1,0 +1,486 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. A first-time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+"Kulungile. Umsebenzisi oqalayo we-smartphone uyakuba nomdla ekuyisebenziseni"
+" lula."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What are some examples of the kind of personalization and control that "
+"Firefox OS allows?  Select all that apply."
+msgstr ""
+"Yeyiphi eminye imizekelo yohlobo lokulungelenanisa neminqweno yakho "
+"nokulawula evunyelweyo yi-Firefox OS?  Khetha konke okufanelekileyo."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is made with you and your needs in mind, so it is extremely easy "
+"to use and allows for greater control, personalization and customization "
+"than many other smartphones on the market."
+msgstr ""
+"I-Firefox OS yenziwe kucingwa ngawe neemfuno zakho, ngoko ke kulula kakhulu "
+"ukuyisebenzisa kwaye ivumelana nolawulo oluluqilima, uyilungelelanisa "
+"neemfuno zakho nokuyenza ikufanele kunazo zonke ezinye ii-smartphone "
+"ezikhoyo kwimarike."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "An excellent user experience"
+msgstr "Amava omsebenzisi agqwesileyo"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "A phone for everyone"
+msgstr "Ifowuni yomntu wonke"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid "Social and contact sync"
+msgstr "Ungqamaniso lwembutho zoluntu neziqhagamshelani"
+
+#: 2-0/about/ 1-3/about/ 2-1/about/
+msgid "The Mozilla Mission"
+msgstr "Injongo ye-Mozilla"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, this icon represents the Firefox Browser."
+msgstr "Ngokuqinisekileyo, le ayikhoni imele ibhrawuza ye-Firefox."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, show a commitment to keeping the power "
+"of the Web in the hands of the people. And while all of these statements are"
+" true, only this one is the best response for this particular customer."
+msgstr ""
+"Kunjalo. Lo mthengi ubonakala njengomxhasi we-Firefox. Thetha ngendlela "
+"i-Firefox OS efowuna ngayo, yenziwe yi-Mozilla, bonisa ukuzinikela "
+"ekugcineni amandla ewebhu esezandleni zabantu. Nasekubeni zonke ezintetho "
+"zinjalo, kuphela kwempendulo onokubanika yona le."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share contacts"
+msgstr "Yabelana ngabaqhagamshelani"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you’ve worked through all of the questions and content, you’re ready to "
+"match Firefox OS to the needs of your customers.  Easy to use, a Firefox OS "
+"smartphone is perfect for new smartphone users and full of all the features "
+"that customers want and need.  And it’s powered by Mozilla, making Firefox "
+"OS the right choice for anyone committed to ensuring that the power of the "
+"Web remains in their hands!"
+msgstr ""
+"Ukuba uyenze yonke imibuzo neziqulatho, ukulungele ukudibanisa i-Firefox OS "
+"neemfuno zabathengi bakho.   Kulula ukuyisebenzisa, i-smartphone se-Firefox "
+"OS sisesona silungele abasenzisi abaqalayo be-smartphone esitsha kwaye "
+"sizele iifitsha ezifunwa ngabathengi.  Kwaye yomelezwe yi-Mozilla, yenze "
+"i-Firefox OS ibe lelona khetho lawo nawuphina umntu ozinikezeleyo "
+"ekuqinisekiseni ukuba amandla ewebhu ahlala esezandleni zabo!"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there "
+"aren’t many apps available.”"
+msgstr ""
+"Yeyiphi eyona mpendulo onokuyinika lo mthengi uchasayo? “Ndivile ukuba "
+"akukho zi-aplikheshini zininzi.”"
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and adapts to your needs"
+" better than any other phone. That means you get more of what you need with "
+"less time spent searching. Plus, it’s packed with all the features you’d "
+"expect — camera, email, apps, music, maps and more!"
+msgstr ""
+"<strong>Naku onokukutsho:</strong> I-Firefox OS lolona khetho lululo "
+"kubathengi bokuqala be-smartphone. Kulula kakhulu ukuyisebenzisa kwaye "
+"ilungelana nemfuno zakho ngcono kunezinye iifowuni. Lo nto ithetha ukuba "
+"ufumana ngaphezulu okufunayo ngethuba elifutshane olichitha ekukhangeleni. "
+"Kwakhona, izele iifitsha ozilindeleyo - ikhamera, imeyile, iiaplikheshini, "
+"umculo, iimephu, nokunye!"
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below to learn how to best respond to each of their unique needs."
+msgstr ""
+"Ukuqonda iimfuno zabathengi bakho nokwazi indlela yokuphendula ngokuthe ngqo"
+" kubaluleke kakhulu nakuliphi na ithuba lokuthengisa. Qwalasela isahluko "
+"esingezantsi somthengi ukufunda ngendlela eyiyo onokuthi uphendule ngayo "
+"iimfuno zabo ezahlukileyo."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"Zintsha kwaye zixhaswe luluntu lwehlabathi olusebenza ekugcineni iwebhu "
+"ifikeleleka kuye wonke ubani."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.\""
+msgstr ""
+"Yeyiphi eyona mpendulo onokuyika lo mthengi uchasayo? “Andizange ndeva "
+"ngefowuni ye-Firefox OS.\""
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Will my apps work offline?"
+msgstr "Ingaba iiaplikheshini zingasebenza xa kungekho nethiwekhi?"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Stay connected easily and conveniently. Set up multiple email accounts, with"
+" support for the most common Exchange, POP3 or IMAP email providers."
+msgstr ""
+"Hlala unxibelelana ngokulula nangokungasokolisiyo. Seta ii-akhawunti "
+"zemeyile ezininzi, ngenkxaso yezotshintso exhaphakileyo, abenzi be-POP3 "
+"okanye IMAP."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Life is complicated, your smartphone shouldn’t be. Firefox OS is designed "
+"for better performance, easier customization and simpler navigation. "
+"Everything your customer needs or wants is either one scroll or swipe away."
+msgstr ""
+"Ubomi buyabhida, kodwa yona i-smartphone yakho ayimele ukuba ibe njalo. "
+"I-Firefox OS yenzelwe ukuba isebenze ngcono, isebenziseka lula "
+"nokuyinavigeyitha kulula. Yonke into efunwa ngumthengi wakho iyasikrolwa "
+"okanye iswayiphe."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these are true about Firefox OS."
+msgstr "Ngokuqinisekileyo, konke oku kuyinene nge-Firefox OS."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is backed by a global community of developers and content "
+"providers dedicated to creating new and exciting content and even locally-"
+"relevant apps for the Firefox OS platform. New apps and content are added "
+"every day."
+msgstr ""
+"I-Firefox ixhaswe luluntu lwehlabathi olungabaphuhlisi nabenzi besiqulatho "
+"abazinikele ekwenzeni iziqulatho ezitsha nezinika umdla kunye nee-app "
+"zasekuhlaleni ezifanelekileyo kwiplathifomu ye-Firefox OS. Ii-aplikheshini "
+"ezintsha neziqulatho zongezwa rhoqo."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things are possible with a Firefox OS phone."
+msgstr "Kunjalo! Zonke ezi zinto zinakho ukwenzeka ngefowuni ye-Firefox OS."
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Exchange, POP3 and IMAP are currently supported."
+msgstr "Utshintsho, i-POP3 ne-IMAP azixhaswa okwangoku."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "There are more. Try again."
+msgstr "Zikhona nezinye. Zama kwakhona."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping power of the the Web in their hands."
+msgstr ""
+"Ngokuqiniselileyo, xa udibana nomxhasi we-Firefox, thetha ngokuba ukukhetha "
+"i-Firefox OS kubonakalisa ukuzinikezela ekugcineni amandla ewebhu "
+"esezandleni zabo."
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"Firefox OS comes preloaded with popular instant messaging and social media "
+"apps, like Facebook, so your customers will be able to stay connected with "
+"friends and family. They can also sync their contacts to the phone, quickly "
+"and easily."
+msgstr ""
+"I-Firefox OS ifika seyifakwe imiyalezo ezenzekelayo ngesiquphe kunye "
+"neeaplikheshini zamakhasi onxibelelwano, njengeKhasilobuso, ngoko ke "
+"abathengi bakho banganakho ukuhlala benxibelelana nabahlobo neentsapho zabo."
+" Banganakho nokungqamana nabaqhangamshelani babo kwifowuni, msinya nalula."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share images"
+msgstr "Yabelana ngemifanekiso"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Your go-to source for the best apps on Firefox OS. Browse multiple "
+"categories, including games, utilities, music, travel, sports and more."
+msgstr ""
+"Ukuya kumthombo wezona aplikheshini zigqwesileyo kwi-Firefox OS. Bhrawuza "
+"iikhathegori ezininzi, eziquka imidlalo, izinto ezilungiselele wena, umculo,"
+" uhambo, imidlalo nokunye."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Firefox Browser."
+msgstr "Kunjalo. Le ayikhoni imele ibhrawuza ye-Firefox."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Keep the Web in your hands"
+msgstr "Gcina iwebhu ezandleni zakho"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Firefox Marketplace is our go-to source for free apps, including favorites "
+"like Twitter and Facebook, and for awesome local content from the best Web "
+"developers in your region."
+msgstr ""
+"IMarike ye-Firefox ngumthombo weeaplikheshini ezisimahla, eziquka izinto "
+"ozithandayo njengoTwitter noFacebook, nezinye iziqulatho zasekuhlaleni "
+"ezisuka kubaqulunqi beewebhu ezigqwesileyo kwingingqi yakho."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re packed with the features that made you want a smartphone in the "
+"first place."
+msgstr ""
+"Zizele iifitsha ezenzelwe ukuba wena ufune i-smartphone kwesekuqaleni."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps already built for the Web."
+msgstr ""
+"I-Mozilla, umenzi we-Firefox, wakhe i-smartphone OS ukugcina iwebhu "
+"ifumaneka kuye wonke ubani. Ngenxa yokuba i-Firefox OS yakhiwe "
+"ngokugqibeleleyo nge-HTML5, ufumana ukufikeleleka ngesiquphe kumawaka ee-"
+"aplikheshini esele zakhelwe kwiwebhu."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Set your phone to your language"
+msgstr "Seta ifowuni yakho ngokolwimi lwakho"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Users can place bookmarks to any website on their home screen to provide the"
+" functionality of that site directly from there. Also, users can simply "
+"enter any search term on the home screen and instantly create a one-time use"
+" or downloadable app. Creating and consuming these apps on demand puts users"
+" in complete control of their smartphone experience and makes it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+"Abasebenzisi bangabeka iibhukhimakhi nakweyiphina iwebhusayithi kwiskrini "
+"sabo sekhaya ukwenza ukusebenziseka kwesayithi ngqo. Kwakhona, abasebenzisi "
+"bangafaka lula nantonina abayikhangelayo kwiskrini sekhaya kwaye ngesiquphe "
+"bazenzele usebenziso lokuqala okanye bakhuphele iaplikheshini. Ukwenza "
+"nokusebenzisa ezi aplikheshini ngokumandla kubeka abasebenzisi kulawulo "
+"olugqibeleleyo lwee-smartphone zabo kwaye kwenza babenakho ukufumana esona "
+"siqulatho abasifunayo, xa besifuna."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily pair your device with a wide range of Bluetooth accessories. Share "
+"contacts, images, videos or your favorite URLs with friends."
+msgstr ""
+"Manyanisa idivayisi yakho lula nezinye izixhobo ezibanzi ze-Bluetooth. "
+"Yabelana abaqhagamshelani, imifanekiso, iividiyo okanye ii-URLs ozithandayo "
+"nabahlobo."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> If you know and love Firefox, "
+"you’ll love Firefox OS.  Firefox OS smartphones are entirely HTML5-based, "
+"bringing the best of the Web to your phone.  Plus, Firefox OS is designed by"
+" a community dedicated to keeping the Web accessible to all. When you choose"
+" Firefox OS, you have the full power of the Web in your hands."
+msgstr ""
+"<strong>Naku onokukutsho:</strong> Ukuba uyazi kwaye uyayithanda i-Firefox, "
+"uyakuyithanda i-Firefox OS.  I-smartphone ye-Firefox OS zisekwe nge-HTML5 "
+"kuphela, yenza ukuba ufumana okuphambili kwewebhu kwifowuni yakho.  "
+"Kwakhona, i-Firefox OS yenziwe luluntu oluzinikele ekugcineni iwebhu "
+"ifumaneka. Xa ukhetha i-Firefox OS, uya kufumana konke okwenzelwa iwebhu "
+"ezandleni zakho."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"All of these statements are true, but only one is the best response for this"
+" particular customer, who seems to be a Firefox fan. Talk about how Firefox "
+"OS phones, made by Mozilla, help keep the power of the Web in the hands of "
+"the people."
+msgstr ""
+"Zonke ezi ntetho ziyinyani, kodwa inye eyiyeyona mpendulo ifanelekileyo "
+"kulomthengi, ubonakala ukuba ngumxhasi we-Firefox. Thetha ngendlela iifowuni"
+" ze-Firefox OS, ezinziwe yi-Mozilla, ezinceda ngayo zigcine amandla ewebhu "
+"esezandleni zabantu."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
+msgstr ""
+"I-Firefox OS yakhelwe ngokugqibeleleyo ngokusebenzisa i-HTML5 nangamabakala "
+"ewebhu evulelekileyo."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Take the Challenge"
+msgstr "Thatha umceli-mngeni"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
+"OS shows a commitment to keeping the power of the Web in their hands."
+msgstr ""
+"Kunjalo. Xa udibana nomxhasi we-Firefox, thetha ngokuba ukukhetha i-Firefox "
+"OS kubonakalisa ukuzinikezela ekugcineni amandla ewebhu esezandleni zabo."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share videos"
+msgstr "Yabelane ngeevidiyo"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit.   Firefox OS "
+"smartphones are backed by a global community of developers working to "
+"innovate and further Web technologies.    When you choose Firefox OS, you’re"
+" helping build a brighter future for the Web for all."
+msgstr ""
+"Kwa-Mozilla, sikhona ukuba senze umahluko, hayi inzuzo.   Ii-smartphone ze-"
+"Firefox OS zixhaswe luluntu lwehlabathi oluphuhlisa izinto ezintsha "
+"luqhubeke nethekhnoloji yewebhu.    Xa ukhetha i-Firefox OS, unceda ukwakha "
+"ikamva elitsha lewebhu yomntu wonke."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s packed with the features that made you want a smartphone in the first "
+"place."
+msgstr "Izele iifitsha ezenze ukuba ufune i-smartphone kwasekuqaleni."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"Intsha kwaye ixhaswe luluntu lwehlabathi olusebenza ukugcina iwebhu "
+"ivulelekile kuye wonke ubani."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things can be shared via Bluetooth with your "
+"Firefox OS phone."
+msgstr ""
+"Kunjalo! Zonke ezi zinto zingabelwana nge-Bluetooth ngefowuni ye-Firefox OS."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Apps developers are slowly realizing the benefit of HTML5 in support of the "
+"Open Web."
+msgstr ""
+"Abaphuhlisi bee-aplikheshini baya beyiqonda inzuzo ye-HTML5 ekuxhaseni "
+"iwebhu evulekileyo."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily import your Facebook friends to your phone and keep your community "
+"all in one place thanks to deep integration with your favorite social "
+"networks."
+msgstr ""
+"Ngenisa lula abahlobo bakho bakaFacebook kwifowuni yakho uze ugcine abahlobo"
+" bakho kwindawo enye sibulela umanyano olunzulu namakhasi akho onxibelelwano"
+" owathandayo."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Your customers want to get the most out of life, so why should they get any "
+"less from their mobile device?  Firefox OS devices are perfect for new "
+"smartphone users — easy to use and full of all the features that they "
+"expect. And because Firefox OS devices are powered by Mozilla, they’re the "
+"perfect choice for anyone committed to keeping the Web open for all."
+msgstr ""
+"Abathengi bakho bafuna ukufumana okona kungcono kubomi, ngoko ke kutheni "
+"beza kufumana ngaphantsi kwisixhobo sabo semobhayile?  Izixhobo ze-Firefox "
+"OS zezona zilungele abasebenzisi abatsha be-smartphone — kulula "
+"ukuzisebenzisa kwaye zigcwele iifitsha abazilindeleyo. Kwaye ngoba izixhobo "
+"ze-Firefox OS zixhaswe ngu-Mozilla, zizezona zilukhetho olululo lomntu wonke"
+" ozinikele ekugcineni iwebhu ivulelekile kumntu wonke."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Play it all from your phone, or online via YouTube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+"Kudlale konke kwifowuni yakho, okanye kwi-intanethi yakho nge-YouTube. "
+"Bhrawuza uze udlale umculo wakho nge-albham okanye imvumi, yenza "
+"umlinganiselo weengoma zakho wenze noluhlu lweengoma ozithandayo."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone to get you started.  The user interface is so intuitive, you’ll "
+"be able to quickly discover and download your favorite apps and be ready to "
+"go in no time."
+msgstr ""
+"<strong>Naku onokukutsho:</strong> I-Firefox OS yeyona smartphone ilula "
+"onokuqala ngayo.  Indlela esetyenziswa ngayo ilula, uyakuyifunda msinya "
+"kwaye ukhuphele iiaplikheshini ozithandayo ulungele nokungena ngexesha."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid "Bluetooth"
+msgstr "I-Bluetooth"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"With Camera, Gallery, Music apps and more, Firefox OS will keep your "
+"customers entertained on the go and connected to the things that matter most"
+" to them.  <br><br>Camera: Photograph, edit and share. Show off our full-"
+"featured camera and gallery apps, including built-in style filters, video "
+"and more.  <br><br>Music: With music at their fingertips, your customers "
+"will see how Firefox OS keeps them entertained and dancing in the streets."
+msgstr ""
+"Ngekhamera, igalari, iiaplikheshini zomculo nokunye, i-Firefox igcina "
+"abathengi bakho bonwatyisiwe besendleleni kwaye benxibelelana nezinto "
+"ezingundoqo kubo.  <br><br>Ikhamera: Imifanekiso, hlela wabelane. Dlisela "
+"ngeefitsha zethu ezininzi zeeaplikheshini zekhamera negalari, iquke iifiltha"
+" ezakhelweyo, ividiyo nokunye.  <br><br>Umculu: Umculo ufumaneka lula, "
+"abathengi bakho bakubono ukuba i-Firefox OS ibagcina bonwabile kwaye "
+"bedanisa ezitalatweni."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Made with you in mind"
+msgstr "Yenziwe kucingwa ngawe"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It features a robust security model that is battle-hardened from more than a"
+" decade supporting the Open Web. Designed to protect the user and system "
+"from malicious applications and content, it also protects applications from "
+"each other."
+msgstr ""
+"Ineefitsha zokhuseleko lwemodeli eluluqilima eyenzelwe idabi leminyaka "
+"elishumi ixhasa iwebhu evulelekileyo. Iyilwe ukukhusela umsebenzisi nenkqubo"
+" kusetyenziso nesiqulatho esiyingozi, ikhusela nosetyenziso phakathi kwenu."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Control your data usage"
+msgstr "Lawula ukusebenza kweengcombolo zakho"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
+"power of the Web in your hands."
+msgstr ""
+"Ukuba uyayithanda i-Firefox, uya kuyithanda i-Firefox OS. Ukukhetha "
+"i-Firefox OS kwenza ugcine amandla ewebhu ezandleni zakho."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these things are possible with a Firefox OS phone."
+msgstr ""
+"Ngokuqinisekileyo, zonke ezi zinto zinakho ukwenzeka ngefowuni ye-Firefox "
+"OS."

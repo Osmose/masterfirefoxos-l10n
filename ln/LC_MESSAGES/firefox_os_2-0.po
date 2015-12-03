@@ -1,0 +1,38 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ln\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-0/take-the-challenge/
+msgid ""
+"Actually, the Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"Mpeza, Luka Appareil Nangai esalisaka yo osala biloko binso oyo na nzela ya "
+"compte nayo ya Firefox."
+
+#: 2-0/take-the-challenge/
+msgid ""
+"That’s right! The Find My Device helps you do all these things through your "
+"Firefox Account."
+msgstr ""
+"Malamu! Luka Appareil Nangai esalisaka yo kosala biloko binso oyo na nzela "
+"ya compte nayo ya Firefox."
+
+#: 2-0/take-the-challenge/
+msgid "Track the location of your lost/stolen device"
+msgstr "Localiser esika appareil nayo eza oyo ebungi/eyibami "
+
+#: 2-0/take-the-challenge/
+msgid ""
+"What does the Find My Device feature on your Firefox OS phone help you do in"
+" the case that your phone is lost or stolen?"
+msgstr ""
+"Caractéristique ya Luka Appareil Nangai na telefone nayo Firefox OS "
+"esalisaka yo kosala nini soki telefone nayo ebungi to eyibami?"

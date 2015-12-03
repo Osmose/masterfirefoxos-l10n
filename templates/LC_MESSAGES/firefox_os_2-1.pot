@@ -1,0 +1,303 @@
+# 
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 2-1/take-the-challenge/
+msgid "Which of the following statements are true of Easy Nav on Firefox OS?"
+msgstr ""
+
+#: 2-1/key-features/
+msgid ""
+"Monitor mobile and WiFi data usage through this useful, preloaded feature.  "
+"You will also be able to view data usage by application."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "Actually, all of these apps come preloaded on every Firefox OS phone."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "What are Smart Collections?"
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music more — at the most competitive prices."
+msgstr ""
+
+#: 2-1/demo-tips/ 2-1/key-features/
+msgid "Easy Nav"
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s right. On the Firefox OS home screen a user can find Smart "
+"Collections - collections of apps containing curated content based on a "
+"certain theme (e.g., sports, music, games etc).  Users can also create their"
+" own Smart Collections based on presets or their own creativity."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"What does the 'Find My Device' feature on your Firefox OS phone help you do "
+"in the case that your phone is lost or stolen?"
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "Change the look of your home screen"
+msgstr ""
+
+#: 2-1/demo-tips/
+msgid ""
+"Easy Nav is the fast, smart and safe way to get the best of the Web.  Using "
+"Easy Nav allows you to access the Firefox browser and search from anywhere "
+"on your Firefox OS device.  Simply tap on the ‘Search’ field at the top of "
+"the screen and type in a keyword to get results from the web, your "
+"favorites, browsing history, applications and the Firefox Marketplace."
+msgstr ""
+
+#: 2-1/key-features/
+msgid ""
+"Improve productivity by using a more intuitive way to switch between "
+"applications.  Simply swipe left or right from the edge of the screen to "
+"switch between your open applications."
+msgstr ""
+
+#: 2-1/key-features/
+msgid ""
+"Experience the fast, smart, safe way to get the best of the Web. The Firefox"
+" browser and search are available from anywhere on the device simply by "
+"tapping on the ‘Search’ field at the top of the screen.  Search results "
+"include web search, favorites, browsing history, applications and "
+"Marketplace results.  You can also access your bookmarks directly from the "
+"home screen."
+msgstr ""
+
+#: 2-1/frequently-asked-questions/
+msgid "Can I customize my device to suit my needs?"
+msgstr ""
+
+#: 2-1/demo-tips/
+msgid ""
+"Task Switcher improves productivity by using a more intuitive way to switch "
+"between your open applications.  Simply swipe left or right from the edge of"
+" your screen to switch between apps."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Actually, this is true. The Task Switcher improves productivity by giving "
+"Firefox OS users a more intuitive way to switch between applications.  From "
+"the edge of their screen, users simply swipe left or right to move between "
+"their open apps."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s right. With a first time smartphone user, you should talk about its "
+"simplicity and features including ways to control their experience and "
+"personalize their phones."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "Featured apps on the Firefox Marketplace."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"A customer says, “I use Firefox on my home computer and I love it, but I "
+"didn’t know they had a smartphone OS. Why?”  Which of the following "
+"statements would be the most appropriate response to this particular "
+"customer?"
+msgstr ""
+
+#: 2-1/key-features/
+msgid ""
+"Stay connected with friends and colleagues on your favorite social networks "
+"from wherever your are."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Actually, with a first time smartphone user, you should talk about its "
+"simplicity and features including ways to control their experience and "
+"personalize their phones."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Actually, all of these things can be shared via Bluetooth with your Firefox "
+"OS phone."
+msgstr ""
+
+#: 2-1/demo-tips/
+msgid ""
+"When you only have a minute, make it count with this simple pitch.  Make a "
+"point to focus on how Firefox OS is intuitive and simple.  Your customers "
+"will find it easy to use from the start thanks to its beautifully designed "
+"interface."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "Actually, all of these are true of Easy Nav on Firefox OS."
+msgstr ""
+
+#: 2-1/key-features/
+msgid "Smart Collections"
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these apps come preloaded on every Firefox OS phone."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "Create Smart Collections of apps"
+msgstr ""
+
+#: 2-1/demo-tips/
+msgid "Vertical Home Screen & Smart Collections"
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "What does Bluetooth allow users to do? Select all that apply."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "That’s right. All of these are true of Easy Nav on Firefox OS."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Actually, the 'Find My Device' feature helps you do all these things through"
+" your Firefox Account."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s right! The 'Find My Device' helps you do all these things through "
+"your Firefox Account."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"True or False - You can switch between apps on Firefox OS simply by swiping "
+"left or right on your screen?"
+msgstr ""
+
+#: 2-1/key-features/
+msgid ""
+"Customize your Home Screen the way you like.  Get immediate access to your "
+"most important apps by choosing between having either 3 or 4 apps across the"
+" screen.  Scroll down to find all the things you love on one page."
+msgstr ""
+
+#: 2-1/key-features/
+msgid ""
+"Experience the fast, smart, safe way to get the best of the Web. Visit "
+"websites, perform searches and access apps from the Marketplace. Multitask "
+"with tabs and browse multiple pages at the same time."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "The Dialer"
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "It includes web search, favorites, browsing history and applications."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "It includes Firefox Marketplace results."
+msgstr ""
+
+#: 2-1/key-features/
+msgid "Vertical Home Screen"
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "A group of educational apps on Firefox OS."
+msgstr ""
+
+#: 2-1/demo-tips/
+msgid ""
+"Show your customers how easy it is to get apps in the Firefox Marketplace. "
+"Tell them that the Marketplace has the cool games and apps that they’re "
+"looking for. Demonstrate an example of a local app designed to help make "
+"their lives easier."
+msgstr ""
+
+#: 2-1/demo-tips/ 2-1/key-features/
+msgid "Task Switcher"
+msgstr ""
+
+#: 2-1/key-features/
+msgid ""
+"Smart Collections contain content that has been curated by themes.  With one"
+" tap you can access and explore all the curated mobile web content.  You can"
+" access the pre-set options, or create your own Smart Collection."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"It is available from anywhere on the device simply by tapping on the "
+"‘Search’ field."
+msgstr ""
+
+#: 2-1/demo-tips/
+msgid ""
+"Your Firefox OS device lets you customize your Home Screen the way you like "
+"it. Choose from either 3 or 4 apps across the screen and group your apps "
+"into Smart Collections - curated mobile web content.  You can access preset "
+"collections or create your own.  Best of all, just keep scrolling down to "
+"find all your favorites on one page."
+msgstr ""
+
+#: 2-1/which-version/
+msgid ""
+"<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
+"select <strong>Device information</strong>.</li> <li>On the Device "
+"information screen, select <strong>More Information</strong> and look for "
+"the version numbers under <em>OS version</em> at the top of the screen. <ul>"
+" <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> "
+"<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
+"means you have version 2.0</li> </ul> </li> </ol><li><em>2.1.0.0</em> means "
+"you have version 2.1</li> </ul> </li> </ol>"
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"That’s not it. On the Firefox OS home screen a user can find Smart "
+"Collections - collections of apps containing curated content based on a "
+"certain theme (e.g., sports, music, games etc).  Users can also create their"
+" own Smart Collections based on presets or their own creativity."
+msgstr ""
+
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Firefox OS allows users to make their devices unique by allowing user to "
+"customize their language preference, ringtones, home screen design, lock "
+"screen and app collections."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid "Track the location of your lost/stolen device."
+msgstr ""
+
+#: 2-1/take-the-challenge/
+msgid ""
+"Curated content found on your Firefox OS home screen that is based on a "
+"given theme."
+msgstr ""
+
+#: 2-1/frequently-asked-questions/
+msgid ""
+"App developers around the world are committed to Firefox OS and tens of "
+"hundreds of free applications will be available at launch. The growing list "
+"includes leading app developers like Facebook, YouTube, Twitter, YouTube, "
+"Pinterest as well as a Flashlight app and Calculator."
+msgstr ""

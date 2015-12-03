@@ -1,0 +1,197 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid "Maps"
+msgstr "Mappe"
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid ""
+"Play it all from your phone, or online via Youtube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+"Guardali direttamente dalla memoria del dispositivo oppure in streaming da "
+"YouTube. Sfoglia la tua collezione di musica per album o autore, assegna un "
+"voto alle canzoni e crea playlist con le tue preferite."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Access to over 20,000 free and paid apps at launch, including some of the "
+"most popular global apps today."
+msgstr ""
+"Accesso a oltre 20.000 app gratuite o a pagamento, incluse alcune delle app "
+"più popolari."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this icon represents Contacts."
+msgstr "Sbagliato. Questa icona rappresenta i contatti."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open the Firefox browser."
+msgstr "Apri il browser Firefox"
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Packed with the features that made you want a smartphone in the first place."
+msgstr "Include tutte le funzioni che ti fanno desiderare uno smartphone."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
+"Firefox OS keeps the power of the Web in your hands."
+msgstr ""
+"Se ti piace Firefox, ti innamorerai degli smartphone Firefox OS. Scegliendo "
+"Firefox OS hai tutto il potere del Web nelle tue mani."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"The Firefox Marketplace features thousands of apps for free or at very low "
+"prices."
+msgstr ""
+"Firefox Marketplace offre migliaia di app gratuite o a prezzi molto bassi."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open Firefox Marketplace."
+msgstr "Apri Firefox Marketplace"
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Contacts."
+msgstr "Esatto. Questa icona rappresenta i contatti."
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Consumers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the consumer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Gli utenti verranno indirizzati al canale di supporto dello sviluppatore di "
+"ciascuna app per ottenere assistenza. Se il problema riscontrato con l’app "
+"ha ripercussioni negative sull'esperienza di utilizzo di Firefox OS, Mozilla"
+" potrebbe consigliare delle soluzioni alternative, inclusa la "
+"disinstallazione dell’app fino a quando lo sviluppatore non abbia fornito "
+"un’assistenza appropriata."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "It’s easier than ever to stay connected with Firefox OS."
+msgstr "Rimanere connessi non è mai stato così semplice grazie a Firefox OS."
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search."
+msgstr ""
+"Non direttamente. Tuttavia, molte delle app più popolari su Android e iOS "
+"sono in realtà applicazioni web con un “wrapper” nativo, una sorta di "
+"involucro che consente al programma di funzionare su piattaforme "
+"proprietarie. Pertanto molte di queste applicazioni sono disponibili "
+"attraverso la ricerca adattiva delle app."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Demonstrate the powerful map features of Firefox OS, including local transit"
+" info."
+msgstr ""
+"Dimostra le potenzialità del sistema di mappe di Firefox OS, incluse le "
+"informazioni sul trasporto locale."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Every phone has access to over 20,000 free and paid apps at launch, "
+"including some of the most popular global apps today."
+msgstr ""
+"Ogni telefono ha accesso a oltre 20.000 app gratuite o a pagamento, incluse "
+"alcune delle app più popolari."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Show customers how Firefox OS adapts to them, giving them more of what they "
+"need, when they need it."
+msgstr ""
+"Mostra ai clienti come Firefox OS sia in grado di adattarsi alle loro "
+"esigenze, offrendogli tutto ciò che serve loro nel momento giusto."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following apps is pre-loaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"Quali delle seguenti app sono preinstallate su ogni telefono Firefox OS? "
+"Seleziona tutte le opzioni corrette."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Tens of thousands of Web apps from around the world are searched instantly."
+msgstr ""
+"Viene istantaneamente effettuata una ricerca tra decine di migliaia di "
+"applicazioni web in tutto il mondo."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "Firefox Marketplace has the cool games and apps your customers want."
+msgstr ""
+"Firefox Marketplace offre tutti i giochi e le app che i clienti possano "
+"desiderare."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace and dozens of preloaded apps, like email, maps,"
+" Facebook, a camera, music, and more, Firefox OS is packed with the features"
+" you’d expect in a smartphone."
+msgstr ""
+"Grazie a Firefox Marketplace e decine di app preinstallate, come email, "
+"mappe, Facebook, fotocamera, musica e altro ancora, Firefox OS include tutte"
+" le funzioni che ti aspetti da uno smartphone."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"New and backed by a global community working to help keep the Web accessible"
+" to all."
+msgstr ""
+"È un sistema nuovo e supportato da una comunità globale dedicata a mantenere"
+" il Web accessibile per tutti."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices. Plus, Adaptive App Search feature makes it easy to find the apps "
+"you really need, when you need it."
+msgstr ""
+"Firefox OS offre il massimo rapporto qualità/prezzo. Include tutte le "
+"funzioni che ti aspetti da uno smartphone — fotocamera, email, app, musica, "
+"mappe e molto altro ancora — al prezzo più competitivo. Senza contare la "
+"ricerca adattiva delle app, che ti permette di trovare le app di cui hai "
+"bisogno proprio quando ne hai bisogno."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web. Designed to protect the user and system from "
+"malicious applications and content, it also protects applications from each "
+"other."
+msgstr ""
+"Un modello di sicurezza affidabile, perfezionato in oltre dieci anni di "
+"supporto dell’Open Web. Progettato per mantenere l’utente e il sistema al "
+"sicuro da applicazioni e contenuti malevoli, è in grado di proteggere anche "
+"un’applicazione dalle altre."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"With music at their fingertips, your customers will see how Firefox OS keeps"
+" them entertained and dancing in the streets."
+msgstr ""
+"Con la musica a portata di mano, i tuoi clienti scopriranno come Firefox OS "
+"sia in grado di farli divertire e ballare per le strade."

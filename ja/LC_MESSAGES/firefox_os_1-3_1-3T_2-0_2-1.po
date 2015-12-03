@@ -1,0 +1,75 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Contacts."
+msgstr "正解です。このアイコンは Firefox ブラウザのものです。"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Calendar"
+msgstr "カレンダー"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Customers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the customer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Firefox OS 向けに開発されたアプリのサポートはアプリ開発者が行います。サポートの対応によって、Firefox OS "
+"の体験が著しく損なわれる場合、開発者が適切なサポートを始めるまでの間、Mozilla はアプリのアンインストールむ含めた回避策を薦める場合があります。"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"Which of the following apps is preloaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr "以下の中から、Firefox OS 端末にプリインストールされているものを、すべて選んでください。"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+"puts the power of the Web in your hands."
+msgstr "Firefox が好きなら、きっと Firefox OS も気にいるはずです。ぜひ使ってみて、Web の力を感じてください。"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Clock"
+msgstr "時計"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Firefox OS is built on Web technologies but has offline capabilities for all"
+" the phone’s core functions. That means apps do not require an active "
+"Internet connection to work unless they need to send or receive data."
+msgstr ""
+"Firefox OS は Web "
+"技術を用いて作成されていますが、重要な機能はすべてオフラインでも動作します。つまりデータを送受信する必要がなければ、インターネット接続がなくてもアプリを実行できます。"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
+"able to convert other apps (*.apk and/or C/C++) to Web apps."
+msgstr ""
+"直接使用することはできません。しかし多くの Android や iOS のアプリは、商用プラットフォームで動作するようにラップされた Web "
+"アプリです。そのためアプリ検索でそれらを探し、利用できます。また Emscripten や PhoneGap のようなツールを利用することで、*.apk"
+" や C/C++ で実装されたアプリを Web アプリに変換できます。"

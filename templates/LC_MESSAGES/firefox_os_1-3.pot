@@ -1,0 +1,46 @@
+# 
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3/take-the-challenge/
+msgid ""
+"Since it is built by Mozilla, a non profit organisation, Firefox OS is "
+"backed by a global community working on your behalf and with your interests "
+"in mind."
+msgstr ""
+
+#: 1-3/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace, the best preloaded apps and an awesome user "
+"experience, Firefox OS is packed with the features that users are looking "
+"for in a smartphone. We focus on quality apps that are easy to discover!"
+msgstr ""
+
+#: 1-3/take-the-challenge/
+msgid ""
+"Since it is built by Mozilla, a non profit organisation, you can feel "
+"confident that Firefox OS is backed by a global community working on your "
+"behalf and with your interests in mind."
+msgstr ""
+
+#: 1-3/take-the-challenge/
+msgid "Add website shortcuts on the homescreen"
+msgstr ""
+
+#: 1-3/take-the-challenge/
+msgid "Modify the 4 direct access icons at the bottom of the screen"
+msgstr ""
+
+#: 1-3/demo-tips/
+msgid "Multimedia experience"
+msgstr ""
+
+#: 1-3/introduction/
+msgid ""
+"Use your phone in your language, control your data usage and personalize it "
+"by adding shortcuts to your favorite websites and apps. You can also "
+"download locally-relevant apps that enrich and simplify your daily life. "
+"Firefox OS is truly a phone made with you in mind."
+msgstr ""

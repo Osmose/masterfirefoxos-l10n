@@ -1,0 +1,50 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid "Click on the home button."
+msgstr "முகப்பு பொத்தான் மீது சொடுக்கவும்."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"அது அல்ல. அந்த மூன்றும் சரியாக இருக்கும். தகவமைப்பு செயலி தேடல் மற்ற பேசிகளை"
+" விட உங்களுடைய தேவைகளை புரிந்துக்கொள்கிறது, இது Firefox உலாவியின் இணையத் "
+"தேடல் பொன்று வேலைச்செய்யாது."
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid "Have It All"
+msgstr "அனைத்தையும் அம்சங்களும் உள்ளன"
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid ""
+"Firefox OS adapts to the needs of customers better than any other phone by "
+"anticipating their needs and instantly delivering the information they want."
+" With Adaptive App Search your customers will get more of what they’re "
+"looking for, exactly when they need it."
+msgstr ""
+"வேறு எந்த பேசியைவிட FirefoxOS பேசியே வாடிக்கையாளர்களின் தேவைக்கேற்ப "
+"மாறுகிறது. தகவமைப்பு பயன்பாடு தேடலானது உங்களுடைய வாடிக்கையாளர்களுக்கு "
+"தேவையானவற்றை தக்க நேரத்தில் எதிர்பார்க்கும் தலைப்பில் தகவல்களை வழங்குகிறது. "
+"அவர்களின் ஒவ்வொரு தருணத்தையும் எளிமையாக்குகிறது."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s quite not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"அது அல்ல. அந்த மூன்றும் சரியாக இருக்கும். தகவமைப்பு பயன்பாடு தேடல் மற்ற "
+"பேசிகளை விட உங்களுடைய தேவைகளை புரிந்துக்கொள்கிறது, இது Firefox உலாவியின் "
+"இணையத் தேடல் பொன்று வேலைச்செய்யாது."

@@ -1,0 +1,183 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid "Maps"
+msgstr "Mape"
+
+#: 1-1/key-features/ 1-4/key-features/
+msgid ""
+"Play it all from your phone, or online via Youtube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+"Puštajte sve sa telefona ili preko interneta koristeći Youtube. Pretražujte "
+"i puštajte svoju muzičku kolekciju po albumima ili izvođačima, ocenjujte "
+"pesme i kreirajte liste omiljenih."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Access to over 20,000 free and paid apps at launch, including some of the "
+"most popular global apps today."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this icon represents Contacts."
+msgstr "Zapravo, ova ikonica predstavlja Kontakte."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open the Firefox browser."
+msgstr "Otvorite Firefox pregledač."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Packed with the features that made you want a smartphone in the first place."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
+"Firefox OS keeps the power of the Web in your hands."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"The Firefox Marketplace features thousands of apps for free or at very low "
+"prices."
+msgstr ""
+"Firefox Marketplace poseduje hiljade besplatnih aplikacija ili za jako malu "
+"cenu."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Open Firefox Marketplace."
+msgstr "Otvorite Firefox Marketplace."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Contacts."
+msgstr "Tako je. Ova ikonica predstavlja Kontakte."
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Consumers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the consumer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Korisnici kojima je potrebna podrška sa aplikacijom razvijenom za Firefox OS"
+" biće upućeni na programera aplikacije. Ako na iskustvo korisnika sa "
+"sistemom Firefox OS negativno utiče problem u podršci koji proistekne iz "
+"aplikacije, Mozilla može da preporuči rešenja, uključujući uklanjanje "
+"aplikacije sa uređaja korisnika dok programer ne pruži odgovarajuću pomoć."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "It’s easier than ever to stay connected with Firefox OS."
+msgstr "Sada je lakše nego ikad ostati povezan koristeći Firefox OS."
+
+#: 1-1/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search."
+msgstr ""
+"Ne direktno. Međutim, mnoge najpopularnije Android i iOS aplikacije su "
+"zapravo veb aplikacije koje imaju izvorni “omotač” da bi mogle da "
+"funkcionišu na zaštićenim platformama. Stoga će mnoge ove aplikacije biti "
+"dostupne i preko Prilagodljive pretrage aplikacija."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Demonstrate the powerful map features of Firefox OS, including local transit"
+" info."
+msgstr ""
+"Pokažite moćne funkcije mapa u Firefox OS-u, uključujući informacije o "
+"lokalnom saobraćaju."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Every phone has access to over 20,000 free and paid apps at launch, "
+"including some of the most popular global apps today."
+msgstr ""
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"Show customers how Firefox OS adapts to them, giving them more of what they "
+"need, when they need it."
+msgstr ""
+"Pokažite potrošačima kako se Firefox OS prilagođava njima, pružajući im više"
+" onoga što žele, kada im je potrebno."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following apps is pre-loaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"Koja od sledećih aplikacija je već instalirana u svaki Firefox OS telefon? "
+"Odaberite sve na koje se ovo odnosi."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Tens of thousands of Web apps from around the world are searched instantly."
+msgstr ""
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid "Firefox Marketplace has the cool games and apps your customers want."
+msgstr ""
+"Firefox Marketplace ima zabavne igrice i aplikacije koje Vaši kupci žele."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace and dozens of preloaded apps, like email, maps,"
+" Facebook, a camera, music, and more, Firefox OS is packed with the features"
+" you’d expect in a smartphone."
+msgstr ""
+"Sa Firefox Marketplace-om i desetinama već instaliranih aplikacija, kao što "
+"su e-pošta, mape, Facebook, kamera, muzika i ostalo, Firefox OS je pun "
+"karakteristika koje očekujete od pametnog telefona."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"New and backed by a global community working to help keep the Web accessible"
+" to all."
+msgstr ""
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices. Plus, Adaptive App Search feature makes it easy to find the apps "
+"you really need, when you need it."
+msgstr ""
+"Firefox OS Vam daje najveću vrednost za Vaš novac, sa svime što očekujete — "
+"kameru, e-poštu, aplikacije, muziku, mape i još mnogo toga — po "
+"najkonkurentnijim cenama. Takođe, Prilagodljiva pretraga aplikacija olakšava"
+" pronalaženje aplikacija koje su Vam zaista potrebne, u bilo kom trenutku."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web. Designed to protect the user and system from "
+"malicious applications and content, it also protects applications from each "
+"other."
+msgstr ""
+"Robustan bezbednosni model koji je osnažen tokom više od jedne decenije "
+"pružanja podrške Open Web-u. Projektovan je da zaštiti korisnika i sistem od"
+" zlonamernih aplikacija i sadržaja, i takođe štiti aplikacije od samih sebe."
+
+#: 1-1/demo-tips/ 1-4/demo-tips/
+msgid ""
+"With music at their fingertips, your customers will see how Firefox OS keeps"
+" them entertained and dancing in the streets."
+msgstr ""
+"Sa muzikom na dohvat ruke, Vaši potrošači će videti kako Firefox OS može da "
+"ih zabavi i navede da plešu na ulici."

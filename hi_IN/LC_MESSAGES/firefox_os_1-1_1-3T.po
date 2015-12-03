@@ -1,0 +1,51 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hi-in\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid "Click on the home button."
+msgstr "मुखपृष्ठ बटन पर क्लिक करें."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"ऐसा नहीं है. इनमें से तीन सही हैं. अनुकूल एप्प खोज के साथ, Firefox OS आपको "
+"बेहतर जरूरत के लिए किसी दूसरे फ़ोन की तुलना मैं अनुकूल बनाता है, यह सिर्फ "
+"वेब खोज की तरह Firefox ब्राउज़रों पर काम नहीं करता."
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid "Have It All"
+msgstr "यह सब आपके लिए है"
+
+#: 1-1/introduction/ 1-3T/introduction/
+msgid ""
+"Firefox OS adapts to the needs of customers better than any other phone by "
+"anticipating their needs and instantly delivering the information they want."
+" With Adaptive App Search your customers will get more of what they’re "
+"looking for, exactly when they need it."
+msgstr ""
+"फ़ायरफ़ॉक्स ओएस किसी अन्य फ़ोन से बेहतर अपने ग्राहकों की जरुरतों के मुताबिक "
+"बदलते हैं जिससे वे उनकी जरूरतों का अनुमान लगा सकें और तत्काल उनकी द्वारा "
+"चाही गई सूचनाएँ दे सकें. अनुकूली एप्प खोज से आपके ग्राहक उन चीजों को "
+"अधिकाधिक पाएँगे जिसके लिए वे खोज रहे हैं, ठीक उसी समय जब उन्हे जरूरत होती "
+"है."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/
+msgid ""
+"That’s quite not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+"ऐसा नहीं है. इनमें से तीन सही हैं. अनुकूल एप्प खोज के साथ, Firefox OS आपको "
+"बेहतर जरूरत के लिए किसी दूसरे फ़ोन की तुलना मैं अनुकूल बनाता है, यह सिर्फ "
+"वेब खोज की तरह Firefox ब्राउज़रों पर काम नहीं करता."

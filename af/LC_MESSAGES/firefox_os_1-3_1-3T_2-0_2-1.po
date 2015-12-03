@@ -1,0 +1,87 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Contacts."
+msgstr "Dit is reg! Hierdie ikoon staan vir Kontakte."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Calendar"
+msgstr "Kalender"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Customers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the customer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Klante wat hulplyn-ondersteuning vir programme wat vir Firefox OS gemaak is,"
+" nodig het, moet die program se ontwikkelaar kontak vir hulp. Indien 'n "
+"ondersteuningsinsident die klant se ervaring met Firefox OS versuur, kan "
+"Mozilla tydelike oplossings voorstel, soos om die program te deïnstalleer "
+"totdat die ontwikkelaar beter steundiens kan bied."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"Which of the following apps is preloaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"Watter van die volgende programme is vooraf op elke Firefox OS-foon gelaai? "
+"Kies almal wat van toepassing is."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+"puts the power of the Web in your hands."
+msgstr ""
+"As jy Firefox ken en mal is daaroor, sal jy mal wees oor Firefox OS. Wanneer"
+" jy 'n Firefox OS-toestel kies, het jy die volle krag van die web in jou "
+"hande."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Clock"
+msgstr "Horlosie"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Firefox OS is built on Web technologies but has offline capabilities for all"
+" the phone’s core functions. That means apps do not require an active "
+"Internet connection to work unless they need to send or receive data."
+msgstr ""
+"Firefox OS is geskep met webtegnologie, maar het vanlyn vermoëns vir al die "
+"foon se kernfunksies. Dit beteken dat programme wat nie ’n aktiewe "
+"internetverbinding vereis nie, wel sal werk, tensy hulle data moet stuur of "
+"ontvang."
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
+"able to convert other apps (*.apk and/or C/C++) to Web apps."
+msgstr ""
+"Nie direk. Baie van die gewildste Android- en iOS-programme is egter eintlik"
+" maar webprogramme met 'n visuele omslag vir die betrokke bedryfstelsel, en "
+"hulle is dus gereed vir Firefox OS. Daarom sal baie van daardie programme "
+"via Aanpassende Programsoektog beskikbaar wees. Nutsgoed soos Emscripten en "
+"PhoneGap kan ook ander programme na webprogramme omskakel (*.apk en/of C/C "
+"++)."

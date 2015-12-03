@@ -1,0 +1,256 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"All the audio you want on the go, all on one device. Just plug in your "
+"earphones and start listening."
+msgstr ""
+"Toda la música que quieres sobre la marcha, en un único dispositivo. Conecta"
+" los auriculares y empieza a escuchar."
+
+#: 1-1/which-version/ 1-3T/which-version/ 1-4/which-version/
+msgid ""
+"<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
+"select <strong>Device information</strong>.</li> <li>On the Device "
+"information screen, look for the version numbers under <em>Software</em>. "
+"<ul> <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
+"</ol>"
+msgstr ""
+"<ol> <li>Abre la app Ajustes de tu dispositivo.</li> <li>Desplaza la "
+"pantalla hacia abajo y selecciona <strong>Información</strong>.</li> <li>En "
+"la pantalla de información del dispositivo, busca los números de la versión "
+"en <em>Software</em>. <ul> <li><em>Firefox OS 1.0.1.0</em> significa que "
+"tienes la versión 1.0.1</li> <li><em>Firefox OS 1.1.0.0</em> significa que "
+"tienes la versión 1.1</li> </ul> </li> </ol>"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "The Adaptive Phone"
+msgstr "El teléfono adaptativo"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Swipe to the left."
+msgstr "Desliza hacia la izquierda."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of the following statements about Adaptive App Search are true? Select"
+" all that apply."
+msgstr ""
+"¿Cuáles de las siguientes afirmaciones sobre la Búsqueda Adaptativa de "
+"Aplicaciones son ciertas? Selecciona todas las que sean pertinentes."
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Deeply integrated with your favorite social networks. You can easily import "
+"your Facebook contacts to your phone to keep your community all in one "
+"place."
+msgstr ""
+"Perfectamente integrado con tus redes sociales favoritas. Puedes importar "
+"fácilmente tus contactos de Facebook al teléfono para que tengas tu "
+"comunidad en un solo sitio."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. All of these are true of Adaptive App Search!"
+msgstr ""
+"Exacto. ¡Todas son correctas respecto a la Búsqueda Adaptativa de "
+"Aplicaciones!"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and open Web standards."
+msgstr ""
+"Firefox OS está desarrollado completamente con HTML5 y otros estándares web "
+"abiertos."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "A unique feature included in every Firefox OS smartphone."
+msgstr ""
+"Una característica exclusiva incluida en cada teléfono inteligente Firefox "
+"OS."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"With Adaptive App Search, you can use an app once, quickly and easily, "
+"without installing it. If you want to use it again later, it’s easy to add "
+"it to your homescreen."
+msgstr ""
+"Gracias a la Búsqueda Adaptativa de Aplicaciones, puedes utilizar una "
+"aplicación una vez de forma rápida y sencilla, sin necesidad de instalarla. "
+"Si quieres volver a usarla más adelante, es fácil añadirla a la pantalla de "
+"inicio."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Actually, all of these are true except for the statement about “broadest "
+"selection of devices.” This may be true in the future, but it is not "
+"currently true."
+msgstr ""
+"De hecho, todas son ciertas excepto la afirmación “selección más amplia de "
+"dispositivos”. En el futuro puede ser cierta, pero de momento no."
+
+#: 1-1/about/ 1-3T/about/ 1-4/about/
+msgid "The Firefox Mission"
+msgstr "La misión de Firefox"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there are"
+" not many apps.”"
+msgstr ""
+"¿Cuál es la mejor respuesta a la objeción de este cliente? “He oído que no "
+"hay muchas aplicaciones”."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "That’s right. This icon represents Adaptive App Search."
+msgstr "Correcto. El icono representa la Búsqueda Adaptativa de Aplicaciones."
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "Do my apps work offline?"
+msgstr "¿Funcionan las aplicaciones sin necesidad de conexión a internet?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web."
+msgstr ""
+"Un sólido modelo de seguridad, forjado a lo largo de más de una década de "
+"respaldo a la Web Abierta."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. Adaptive App Search anticipates your needs better than any "
+"other phone."
+msgstr ""
+"Correcto. La Búsqueda Adaptativa de Aplicaciones anticipa tus necesidades "
+"mejor que cualquier otro teléfono."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.”"
+msgstr ""
+"¿Cuál es la mejor respuesta a la objeción de este cliente? “Nunca he oído "
+"hablar de los teléfonos Firefox OS”."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"When you type a word or subject that interests you using Adaptive App Search"
+" what happens? Select all that apply."
+msgstr ""
+"¿Qué ocurre cuando se escribe una palabra o un tema de interés en la "
+"Búsqueda Adaptativa de Aplicaciones? Selecciona todas las que sean "
+"pertinentes."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "How do you access the Adaptive App Search feature on Firefox OS?"
+msgstr ""
+"¿Cómo se accede a la Búsqueda Adaptativa de Aplicaciones en Firefox OS?"
+
+#: 1-1/key-features/ 1-3T/key-features/ 1-4/key-features/
+msgid ""
+"Stay connected, with easy access to your friends and colleagues from "
+"wherever you are."
+msgstr ""
+"Conecta fácilmente con tus amigos y compañeros de trabajo dondequiera que "
+"estés."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. A first time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+"Exacto. A un nuevo usuario de teléfonos inteligentes le interesaría más la "
+"facilidad de uso."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results include photos, video, music, news, maps and more."
+msgstr ""
+"Los resultados incluyen fotos, vídeos, música, noticias, mapas y mucho más."
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "Keep the Web in Your Hands"
+msgstr "Ten la Web en tus manos"
+
+#: 1-1/introduction/ 1-3T/introduction/ 1-4/introduction/
+msgid "A phone that makes every moment count"
+msgstr "Un teléfono que hace que cada momento cuente"
+
+#: 1-1/demo-tips/ 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/demo-tips/ 1-4/key-features/
+#: 1-4/take-the-challenge/
+msgid "Adaptive App Search"
+msgstr "Búsqueda Adaptativa de Aplicaciones"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, all of these are true of Adaptive App Search!"
+msgstr ""
+"De hecho, todas son correctas respecto a la Búsqueda Adaptativa de "
+"Aplicaciones."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Works just like Web search on Firefox browsers."
+msgstr "Funciona igual que la búsqueda en la Web de los navegadores Firefox."
+
+#: 1-1/frequently-asked-questions/ 1-3T/frequently-asked-questions/
+#: 1-4/frequently-asked-questions/
+msgid "What is Adaptive App Search?"
+msgstr "¿Qué es la Búsqueda Adaptativa de Aplicaciones?"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Results from around the Web are displayed like apps on your phone."
+msgstr ""
+"Los resultados de toda la Web se muestran en el teléfono como si fueran "
+"aplicaciones."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Your background image changes instantly to reveal popular photos from the "
+"Web."
+msgstr ""
+"La imagen de fondo cambia al instante y revela fotos populares de la Web."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Take the challenge"
+msgstr "Acepta el desafío"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Firefox OS gives you the broadest selection of devices on the market today."
+msgstr ""
+"Firefox OS te ofrece la más amplia selección de dispositivos disponible "
+"actualmente en el mercado."
+
+#: 1-1/key-features/ 1-1/take-the-challenge/ 1-3T/key-features/
+#: 1-3T/take-the-challenge/ 1-4/key-features/ 1-4/take-the-challenge/
+msgid "FM Radio"
+msgstr "Radio FM"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results are instantly usable — you don’t have to download the app first."
+msgstr ""
+"Los resultados se pueden usar al instante: no es necesario que descargues la"
+" app primero."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Results include relevant maps, pictures, music, news, videos, Twitter feeds "
+"and more."
+msgstr ""
+"Los resultados incluyen mapas, fotos, música, noticias, vídeos, Twitter "
+"<i>feeds</i> y mucho más."
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this is true."
+msgstr "En realidad ésta es la correcta."

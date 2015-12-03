@@ -1,0 +1,100 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: xx\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Adaptive App Search is a new way to find content from across the Web and "
+"engage in an app-like experience without having to download the app to find "
+"what you need. Whenever you search, your phone adapts to the search result "
+"and makes it easy to add those results to your home screen for easy access "
+"later."
+msgstr ""
+
+#: 1-3T/customer-guide/ 1-4/customer-guide/
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below, then drag the bar to learn how to best respond to each of their "
+"unique needs."
+msgstr ""
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
+"OS shows a commitment to keeping the Web in their hands."
+msgstr ""
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Which of these customer responses indicate a ideal candidate for Firefox OS?"
+" Select all that apply."
+msgstr ""
+
+#: 1-3T/customer-guide/ 1-4/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> If you know and love Firefox, "
+"you’ll love Firefox OS. Firefox OS smartphones are entirely HTML5-based, "
+"bringing the best of the Web to your phone. Plus, Firefox OS is designed by "
+"a community dedicated to keeping the Web accessible to all. When you choose "
+"Firefox OS, you have the full power of the Web in your hands."
+msgstr ""
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. With a first time smartphone user, you should talk about its "
+"simplicity and features like Adaptive App Search."
+msgstr ""
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Actually, with a first time smartphone user, you should talk about its "
+"simplicity and features like Adaptive App Search."
+msgstr ""
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"A customer says to you, “I’m looking for an easy way to stay in touch with "
+"my friends, but I don’t want to spend a lot of money”. Which of the "
+"following statements would be a good response? Select all that apply."
+msgstr ""
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, show a commitment to keeping the Web in "
+"the hands of the people. And while all of these statements are true, only "
+"this one is the best response for this particular customer."
+msgstr ""
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"All of these statements are true, but only one is the best response for this"
+" particular customer, who seems to be a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, are part of keeping the Web in the hands"
+" of the people."
+msgstr ""
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid "Actually, this icon represents Adaptive App Search."
+msgstr ""
+
+#: 1-3T/frequently-asked-questions/ 1-4/frequently-asked-questions/
+msgid ""
+"Hotmail and Yahoo mail are currently supported with more on the way in the "
+"future."
+msgstr ""
+
+#: 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+msgid ""
+"Mozilla, the maker of Firefox, built a mobile OS to keep the Web accessible "
+"to all. And since Firefox OS is entirely built in HTML5, you get instant "
+"access to thousands of apps built already for the Web."
+msgstr ""

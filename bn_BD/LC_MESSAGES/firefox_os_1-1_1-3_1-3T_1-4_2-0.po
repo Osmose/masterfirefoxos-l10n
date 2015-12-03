@@ -1,0 +1,21 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: bn-bd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid "Actually, all of these apps come pre-loaded on every Firefox OS phone."
+msgstr "আসলে, এই সকল অ্যাপ Firefox OS ফোনে পূর্ব থেকে লোড করা থাকে।"
+
+#: 1-1/take-the-challenge/ 1-3T/take-the-challenge/ 1-4/take-the-challenge/
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/
+msgid ""
+"That’s right! All of these apps come pre-loaded on every Firefox OS phone."
+msgstr "একদম সঠিক! এই সকল অ্যাপ Firefox OS ফোনে আগে থেকেই ইন্সটল করা রয়েছে"

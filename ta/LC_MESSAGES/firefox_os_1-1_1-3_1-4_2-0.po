@@ -1,0 +1,49 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-1/demo-tips/ 1-4/demo-tips/ 2-0/demo-tips/ 1-3/demo-tips/
+msgid "When you only have a minute, make it count with this simple pitch."
+msgstr ""
+"உங்களிடம் குறைந்த நேரம் உள்ளபோது, இந்த எளிய சுருதியில் எண்ணிக்கை "
+"செய்யுங்கள்."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices."
+msgstr ""
+"Firefox OS உங்களுடைய பணத்திற்கு தகுந்த மதிப்பைத் தருவதோடு, நீங்கள் "
+"எதிர்பார்த்த அனைத்தையும் — படகருவி, மின்னஞ்சல், செயலிகள், இசை மேலும் "
+"கூடுதலாகவும் — குறைந்த விலையிலும் தருகிறது."
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/
+msgid ""
+"Facebook is preloaded on every Firefox OS device and you can import your "
+"Facebook contacts easily!"
+msgstr ""
+"ஒவ்வொரு Firefox OS சாதனத்திலும் முகநுல்(Facebook) செயலி நிறுவப்பட்டு "
+"வருவதால் முகநுலில் உள்ள நண்பர்களை எளிதில் பதிவிறக்க முடியும்!"
+
+#: 1-1/take-the-challenge/ 1-4/take-the-challenge/ 2-0/take-the-challenge/
+#: 1-3/take-the-challenge/
+msgid ""
+"A customer says, “I use Firefox on my home computer and I love it, but I "
+"didn’t know they had a smartphone OS. Why?” Which of the following "
+"statements would be the most appropriate response to this particular "
+"customer?"
+msgstr ""
+"ஒரு வாடிக்கையாளர் உங்களிடம் சொல்கிறார், “எனது வீட்டுக் கணினியில் Firefox "
+"உலாவியைப் பயன்படுத்துகிறேன் அது எனக்கு பிடித்திருக்கிறது, ஆனால் அவர்கள் "
+"திறன்பேசி வைத்திருக்கிறார்களா எனத் தெரியாது. ஏன்?” பின்வரும் கூற்றுகளில் எவை"
+" நல்ல பதிலாக இருக்கும்?"

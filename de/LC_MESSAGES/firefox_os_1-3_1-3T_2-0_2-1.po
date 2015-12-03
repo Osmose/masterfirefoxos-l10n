@@ -1,0 +1,87 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Contacts."
+msgstr "Ganz genau. Dieses Symbol steht für Kontakte."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Calendar"
+msgstr "Kalender"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Customers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the customer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Kunden, die Hilfe mit einer für Firefox OS entwickelten App benötigen, "
+"werden an den App-Entwickler weitergeleitet. Wenn das Kundenerlebnis mit "
+"Firefox OS durch die Hilfsanfrage negativ beeinflusst wird, kann Mozilla "
+"Zwischenlösungen empfehlen, inklusive Deinstallation der App, bis der "
+"Entwickler entsprechend Hilfe leistet."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"Which of the following apps is preloaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"Welche der folgenden Apps sind standardmäßig auf jedem Firefox-OS-Handy "
+"installiert? Wählen Sie alle Zutreffenden aus."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+"puts the power of the Web in your hands."
+msgstr ""
+"Wenn Sie Firefox-Browser lieben, werden Sie auch Firefox-OS-Handys lieben. "
+"Mit der Entscheidung für Firefox OS behalten Sie die Kraft des Internets in "
+"Ihren Händen."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Clock"
+msgstr "Uhr"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Firefox OS is built on Web technologies but has offline capabilities for all"
+" the phone’s core functions. That means apps do not require an active "
+"Internet connection to work unless they need to send or receive data."
+msgstr ""
+"Firefox OS basiert auf Web-Technologien, verfügt aber über Offline-"
+"Möglichkeiten für die Kernfunktionen des Handys. Das bedeutet, dass Apps "
+"keine ständige Internet-Verbindung benötigen, außer wenn die App Daten "
+"senden oder empfangen muss."
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
+"able to convert other apps (*.apk and/or C/C++) to Web apps."
+msgstr ""
+"Nicht direkt. Allerdings sind viele der beliebtesten Android- und iOS-Apps "
+"eigentlich Web-Apps, die über einen nativen „Wrapper“ verfügen, um auf "
+"proprietären Plattformen zu laufen. Daher werden viele dieser Apps über die "
+"adaptive App-Suche verfügbar sein. Werkzeuge wie Emscripten und PhoneGap "
+"können auch andere Apps (*.apk und/oder C/C++) in Web-Apps umwandeln."

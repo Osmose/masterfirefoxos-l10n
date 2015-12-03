@@ -1,0 +1,87 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ha\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Contacts."
+msgstr "Ya yi dai dai. Wannan alamar na wakiltar Abokan Hulɗa."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Calendar"
+msgstr "Kalanda"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Customers who need support with an app built for Firefox OS will be directed"
+" to the app developer for assistance. If the customer experience with "
+"Firefox OS is negatively impacted by the support incident resulting from the"
+" app, Mozilla may recommend workarounds including uninstalling the app until"
+" the developer provides appropriate assistance."
+msgstr ""
+"Abokan ciniki waɗanda ke bukatar tallafi na aikace-aikace da aka gina domin "
+"Firefox OS za'a nuna masu mai samar da aikace-aikacen domin taimako. Idan "
+"abokin ciniki bai gamsu da hulɗarsa ba ta yadda aka sami matsala wajen "
+"tallafawa da ta samo asali daga aikace-aikacen, Mozilla na iya bayar da "
+"shawara wajen kaucewa wanda ya haɗa da cire saka aikace-aikacen har sai mai "
+"samarwa ya bayar da tallafin da ya kamata."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"Which of the following apps is preloaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"Wanne daga cikin waɗannan aikace-aikace aka loda a ko wace wayar Firefox OS."
+" Zaɓi duk wanda ya dace."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+"puts the power of the Web in your hands."
+msgstr ""
+"Idan ka na son Firefox, za ka so Firefox OS. Zaɓar na'urar Firefox OS ya "
+"saka ƙarfin Yanar gizo a hannunka."
+
+#: 1-3T/take-the-challenge/ 2-0/take-the-challenge/ 1-3/take-the-challenge/
+#: 2-1/take-the-challenge/
+msgid "Clock"
+msgstr "Agogo"
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Firefox OS is built on Web technologies but has offline capabilities for all"
+" the phone’s core functions. That means apps do not require an active "
+"Internet connection to work unless they need to send or receive data."
+msgstr ""
+"An gina Firefox OS a kan fasahar Yanar gizo amma ta na iya aiki ko ba a kan "
+"yanar gizo ba ga dukkan ayyukan wayoyi. Wannan na nufin cewa aikace-aikace "
+"ba sa bukatar haɗawa da intanet da aka kunna domin yin aiki ko aikawa ko "
+"kuma karɓar bayanai."
+
+#: 1-3T/frequently-asked-questions/ 2-0/frequently-asked-questions/
+#: 1-3/frequently-asked-questions/ 2-1/frequently-asked-questions/
+msgid ""
+"Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
+"able to convert other apps (*.apk and/or C/C++) to Web apps."
+msgstr ""
+"Ba kai-tsaye ba. To amma, mafi yawaicin aikace-aikace fitattu na Android da "
+"iOS a haƙiƙa aikace-aikace ne na Yanar gizo da ke da “wrapper” ta gida domin"
+" ƙyalesu su gudana a dandali na mallaka. Sabo da haka, yawaicin aikace-"
+"aikacen da su ke iri ɗaya za'a iya samunsu ta hanyar bincike ta Adaptive App"
+" Search. Kayayyaki kamar Emscripten da PhoneGap su ma za su iya mayarwa zuwa"
+" wasu aikace-aikace (*.apk da/ko C/C++) zuwa aikace-aikacen Yanar gizo."

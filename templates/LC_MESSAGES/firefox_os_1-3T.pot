@@ -1,0 +1,335 @@
+# 
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily sync your contacts from Facebook, "
+"too."
+msgstr ""
+
+#: 1-3T/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
+"value for your money. It has everything you expect in a smartphone — camera,"
+" email, apps from the Firefox Marketplace, music and more — at the most "
+"competitive prices."
+msgstr ""
+
+#: 1-3T/demo-tips/
+msgid ""
+"Firefox OS offers everything your customers want in a smartphone — and more "
+"— at prices that are easy to afford."
+msgstr ""
+
+#: 1-3T/frequently-asked-questions/
+msgid ""
+"Users can place website bookmarks on the home page to provide direct access "
+"to those sites. Also, by swiping right from the home screen, users can "
+"simply enter any search term and instantly create a one-time use or "
+"downloadable app. Creating and consuming these apps on demand puts users in "
+"complete control of their smartphone experience and will make it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"The Firefox OS smartphone is preloaded with all the features that you’d "
+"expect, including Messages, Facebook, Email and more, all at a better value."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily sync your friends from Facebook, "
+"too."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "That’s right! You simply go to your home screen and it’s there!"
+msgstr ""
+
+#: 1-3T/demo-tips/
+msgid "Marketplace and Adaptive App Search"
+msgstr ""
+
+#: 1-3T/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and it adapts to your "
+"needs better than any other phone, so you get more of what you need with "
+"less time searching. Plus, it’s packed with all the features you’d expect, "
+"from Camera, to Email, apps from the Firefox Marketplace, Music and more."
+msgstr ""
+
+#: 1-3T/demo-tips/
+msgid ""
+"Firefox OS is intuitive and simple. With a beautifully designed interface, "
+"your customers will find it easy to use from the start. It also supports "
+"dual SIM and several local languages."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace and dozens of preloaded apps like Email, "
+"Facebook, Camera, Music and more, Firefox OS is packed with the features "
+"you’d expect in a smartphone."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — Camera, Email, apps, Music and more — at the most competitive "
+"prices. Plus, Adaptive App Search feature makes it easy to find the app you "
+"really need, when you need it."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"That’s right. With this customer, highlight the full feature set of Firefox "
+"OS, including social apps that are preloaded on the phone, all at great "
+"value."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS phones are new and backed by a global community working to help "
+"keep the Web accessible to all."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Facebook is preloaded on every Firefox OS device and you can sync your "
+"Facebook contacts easily!"
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "Browser"
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "Actually, this icon represents Browser."
+msgstr ""
+
+#: 1-3T/frequently-asked-questions/
+msgid ""
+"App developers around the world are committed to Firefox OS and tens of "
+"hundreds of free applications will be available at launch. The growing list "
+"includes leading app developers like Facebook, YouTube, Twitter and "
+"ConnectA2 as well as a Flashlight app and Calculator."
+msgstr ""
+
+#: 1-3T/key-features/
+msgid ""
+"A new way to get what you need right when you need it. Search for anything "
+"and Firefox OS adapts to your request, displaying photos, video, music, news"
+" and more — making it much easier for you to find what you were looking for."
+msgstr ""
+
+#: 1-3T/demo-tips/
+msgid "Rich Media Experience"
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "Open the Marketplace."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the Open Web. Designed to protect the user and "
+"system from malicious applications and content, it also protects "
+"applications from each other."
+msgstr ""
+
+#: 1-3T/key-features/
+msgid ""
+"Your go-to source for the best apps for Firefox OS. Browse hundreds of free "
+"apps in multiple categories: Games, Tools, Lifestyle and more."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "Phone"
+msgstr ""
+
+#: 1-3T/key-features/
+msgid ""
+"Browse and play your music collection, rate songs and create playlists for "
+"your favorites. Watch videos from your phone, or online via YouTube."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Every phone has access to hundreds of free apps at launch, including some of"
+" the most popular global apps today."
+msgstr ""
+
+#: 1-3T/demo-tips/
+msgid "Easy to use"
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "That’s right. This icon represents Browser."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. You simply go to your home screen to access the Adaptive App "
+"Search feature."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping the Web in their hands"
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. With this customer, highlight the full feature set of Firefox"
+" OS, including social apps that are preloaded on the phone, all at great "
+"value."
+msgstr ""
+
+#: 1-3T/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone you’ll ever use. Adaptive App Search helps you find the things "
+"you need simply — and instantly. The user interface is so intuitive, you "
+"will be able to quickly discover and easily download your favorite apps in "
+"no time."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"If you have worked through the questions and all of the content, then you "
+"have the basics to match the needs of Firefox OS to your customers. Easy to "
+"use, a Firefox OS smartphone is perfect for new smartphone users and full of"
+" all the features that customers want and need. And it is powered by "
+"Mozilla, making Firefox OS the right choice for anyone committed to ensuring"
+" that the Web remains in your hands!"
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "Open the browser."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Actually, for this customer, the best choice is to talk about how easy "
+"Firefox OS is to use, the free apps within the Firefox Marketplace and the "
+"fact the handset is a value, affordable device."
+msgstr ""
+
+#: 1-3T/demo-tips/
+msgid ""
+"Show your customers how easy it is to get apps in Firefox Marketplace, or "
+"from anywhere on the Web with Adaptive App Search. It’s all about giving "
+"users more of what they need, when they need it."
+msgstr ""
+
+#: 1-3T/key-features/
+msgid ""
+"Stay connected easily and conveniently. Set up multiple email accounts, with"
+" support for the most common Exchange, SMTP or IMAP email providers."
+msgstr ""
+
+#: 1-3T/about/
+msgid ""
+"Behind every Firefox OS smartphone is Mozilla, a global community of "
+"thousands dedicated to keeping the Web accessible to all. We believe each "
+"and every one of us has the right to a Web that isn’t controlled by just a "
+"few large entities and that together, we can build brighter future for the "
+"Web. Yeah, we’re a little different than the other guys."
+msgstr ""
+
+#: 1-3T/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit. Our commitment to "
+"keeping the Web open and accessible for all will give your customers the "
+"best of the Web no matter where they go, while keeping them safe and in "
+"control of their online lives."
+msgstr ""
+
+#: 1-3T/demo-tips/
+msgid ""
+"With the Camera, Gallery, Music apps and more, Firefox OS will keep your "
+"customers entertained on the go and connected to the things that matter most"
+" to them."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "Video"
+msgstr ""
+
+#: 1-3T/introduction/
+msgid ""
+"Your customers’ needs are always changing. That’s why Firefox OS does the "
+"same — adapting so your customers can live every moment to its fullest. "
+"Firefox OS devices are perfect for new smartphone users — easy to use and "
+"full of all the features that customers expect. And because Firefox OS "
+"devices are powered by Mozilla, they’re the perfect choice for anyone "
+"committed to keeping the Web open for all."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS phones are packed with the features that made you want a "
+"smartphone in the first place."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "ConnectA2"
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid "YouTube"
+msgstr ""
+
+#: 1-3T/frequently-asked-questions/
+msgid ""
+"Firefox OS provides two ways to get apps: <ul> <li>Marketplace — our go-to "
+"source for hundreds of great free apps, including popular apps like Twitter "
+"and Facebook, and for awesome local content from the best Web developers in "
+"your region.</li> <li>Adaptive App Search — just type a single word like "
+"“news” to discover related mobile apps in your region.</li> </ul>"
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"A customer says, “I use Firefox on my home computer and I love it, but I "
+"didn’t know they had a mobile OS. Why?” Which of the following statements "
+"would be the most appropriate response to this particular customer?"
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS phones provide access to hundreds of free apps at launch, "
+"including some of the most popular global apps today."
+msgstr ""
+
+#: 1-3T/introduction/
+msgid ""
+"Firefox OS is packed with all the features that made your customers want a "
+"smartphone in the first place: Camera, Gallery, social features, Music and "
+"more. Firefox OS users have complete access to apps in the Firefox "
+"Marketplace, without the need for a sign-in. There, they can get all the "
+"popular, big name apps, as well as local content designed to help them get "
+"the most out of the world around them."
+msgstr ""
+
+#: 1-3T/key-features/
+msgid ""
+"Firefox OS is deeply integrated with your favorite social networks. Easily "
+"sync your Facebook contacts to your phone to keep your community all in one "
+"place."
+msgstr ""
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"The Firefox Marketplace features thousands of apps for free and there is no "
+"need to sign in."
+msgstr ""

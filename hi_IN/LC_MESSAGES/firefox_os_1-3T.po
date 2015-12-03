@@ -1,0 +1,462 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hi-in\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily sync your contacts from Facebook, "
+"too."
+msgstr ""
+"Firefox OS आरंभ करने के लिए सबसे आसान स्मार्टफ़ोन है. अपने पसंदीदा एप्प पहले"
+" से ही लोड हैं और आप आसानी से, फेसबुक से अपने संपर्क को आयात और सिंक कर सकते"
+" हैं."
+
+#: 1-3T/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
+"value for your money. It has everything you expect in a smartphone — camera,"
+" email, apps from the Firefox Marketplace, music and more — at the most "
+"competitive prices."
+msgstr ""
+"<strong>यहाँ आप कह सकते हैं क्या है:</strong> Firefox OS आपको आपके पैसे का "
+"सबसे अधिक मूल्य देता है. इसमे वह सब है जो आप एक स्मार्टफ़ोन में उम्मीद करते "
+"है - Firefox Marketplace से एप्प्स, कैमरा, ईमेल और अधिक - सबसे अधिक "
+"प्रतिस्पर्धी कीमतों पर."
+
+#: 1-3T/demo-tips/
+msgid ""
+"Firefox OS offers everything your customers want in a smartphone — and more "
+"— at prices that are easy to afford."
+msgstr ""
+"Firefox OS उन सारे चीजों की पेशकश करता है जो आपके ग्राहक किसी स्मार्टफ़ोन "
+"में देखना चाहते हैं — और भी बहुत कुछ — उन कीमतों पर जिसका वहन आप आसानी से कर"
+" सकते हैं."
+
+#: 1-3T/frequently-asked-questions/
+msgid ""
+"Users can place website bookmarks on the home page to provide direct access "
+"to those sites. Also, by swiping right from the home screen, users can "
+"simply enter any search term and instantly create a one-time use or "
+"downloadable app. Creating and consuming these apps on demand puts users in "
+"complete control of their smartphone experience and will make it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+"उपयोक्ताओं वेबसाइट पुस्तचिह्न को गृह पृष्ठ पर रख सकते हैं ताकि उन साइटों के "
+"साथ सीधी पहुँच ली जा सके. इसके अलावा, मुखपृष्ठ स्क्रीन से दाएँ स्वाइप करने "
+"से, उपयोक्ताओं किसी भी खोज शब्द को केवल दर्ज करें और तुरंत एक बार उपयोग या "
+"डाउनलोड एप्लिकेशन बना सकते हैं.मांग पर इन एप्प्स को बनाने और उपभोग करने से "
+"उपयोक्ता को उनके अनुप्रयोग के पूर्ण नियंत्रण में डालता है और स्मार्टफ़ोन "
+"अनुभव है और यह संभव बनेगे कि लोगों को वे मिले जो चाहते हैं"
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"The Firefox OS smartphone is preloaded with all the features that you’d "
+"expect, including Messages, Facebook, Email and more, all at a better value."
+msgstr ""
+"Firefox OS स्मार्टफोन संदेश, फेसबुक, ईमेल और अधिक, एक बेहतर मूल्य सहित आप की"
+" उम्मीद के अनुसार सभी सुविधाओं के साथ पहले से भरपूर है."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily sync your friends from Facebook, "
+"too."
+msgstr ""
+"Firefox OS आरंभ करने के लिए सबसे आसान स्मार्टफ़ोन है. अपने पसंदीदा एप्प पहले"
+" से ही लोड हैं और आप आसानी से, फेसबुक से अपने संपर्क को आयात और सिंक कर सकते"
+" हैं."
+
+#: 1-3T/take-the-challenge/
+msgid "That’s right! You simply go to your home screen and it’s there!"
+msgstr ""
+"ग्राहकों की प्रतिक्रियाओं के कौन से संकेत, जो एक Firefox OS आदर्श उम्मीदवार "
+"को दर्शाता है? लागू होने वाले सभी का चयन करें!"
+
+#: 1-3T/demo-tips/
+msgid "Marketplace and Adaptive App Search"
+msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+
+#: 1-3T/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and it adapts to your "
+"needs better than any other phone, so you get more of what you need with "
+"less time searching. Plus, it’s packed with all the features you’d expect, "
+"from Camera, to Email, apps from the Firefox Marketplace, Music and more."
+msgstr ""
+"<strong>यहाँ आप कह सकते हैं क्या है:</strong> प्रथम बार स्मार्टफ़ोन "
+"उपयोक्ताओं के लिए Firefox OS सबसे अच्छा विकल्प है. यह प्रयोग करने में सबसे "
+"आसान है, और यह किसी भी अन्य फ़ोन से बेहतर आपकी आवश्यकताओं के अनुकूल है, ताकि"
+" आप कम समय के खोज साथ आपको जरूरत से अधिक मिलता है. इसके अलावा, यह उम्मीद "
+"मुताबिक सभी सुविधाओं के साथ पैक किया जाता है जैसे कि कैमरा से, ईमेल तक, "
+"Firefox Marketplace से एप्प्स, संगीत और अधिक."
+
+#: 1-3T/demo-tips/
+msgid ""
+"Firefox OS is intuitive and simple. With a beautifully designed interface, "
+"your customers will find it easy to use from the start. It also supports "
+"dual SIM and several local languages."
+msgstr ""
+"Firefox OS अंतरज्ञानी है और काफी सरल है. बेहद खूबसूरत तरीके से डिजायन किए गए"
+" अंतरफलक के साथ, आपके ग्राहक आरंभ से ही इसका उपयोग आसान पाएँगे. यह साथ ही "
+"दोहरे सिम और कई स्थानीय भाषाओं का समर्थन करता है."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"With the Firefox Marketplace and dozens of preloaded apps like Email, "
+"Facebook, Camera, Music and more, Firefox OS is packed with the features "
+"you’d expect in a smartphone."
+msgstr ""
+"Firefox Marketplace और ईमेल की तरह दर्जनों एप्प्स पहले से ही साथ हैं जैसे, "
+"ईमेल फेसबुक, कैमरा, संगीत, और अधिक, Firefox OS आपकी स्मार्टफ़ोन की सभी "
+"सुविधाओं के साथ पैक किया जाता है."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — Camera, Email, apps, Music and more — at the most competitive "
+"prices. Plus, Adaptive App Search feature makes it easy to find the app you "
+"really need, when you need it."
+msgstr ""
+"Firefox OS आपको आपके पैसों का सही मूल्य देता है, और आपकी उम्मीद से भी ज्यादा"
+" — कैमरा, ईमेल, एप्प्स, संगीत और अधिक — अधिक प्रतिस्पर्धी कीमतों पर."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"That’s right. With this customer, highlight the full feature set of Firefox "
+"OS, including social apps that are preloaded on the phone, all at great "
+"value."
+msgstr ""
+"यह सही है. इससे ग्राहक सभी महान मूल्यों से, firefox os के सभी गुणों के साथ "
+"साथ, सामाजिक एप्प्स जो कि फ़ोन मैं मौजूद हैं पर, प्रकाश डालता है."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS phones are new and backed by a global community working to help "
+"keep the Web accessible to all."
+msgstr ""
+"फ़ायरफ़ॉक्स ओएस फोन नए हैं और सभी के लिए वेब सुलभ रखने में मदद करने के लिए "
+"एक वैश्विक समुदाय द्वारा समर्थित हैं.  "
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Facebook is preloaded on every Firefox OS device and you can sync your "
+"Facebook contacts easily!"
+msgstr ""
+"फेसबुक हर फ़ायरफ़ॉक्स ओएस डिवाइस पर पहले से मौजूद है और आप आसानी से अपने "
+"फेसबुक संपर्कों को सिंक कर सकते हैं!"
+
+#: 1-3T/take-the-challenge/
+msgid "Browser"
+msgstr "ब्राउज़र"
+
+#: 1-3T/take-the-challenge/
+msgid "Actually, this icon represents Browser."
+msgstr "दरअसल, यह आइकॉन ब्राउज़र को दर्शाता है."
+
+#: 1-3T/frequently-asked-questions/
+msgid ""
+"App developers around the world are committed to Firefox OS and tens of "
+"hundreds of free applications will be available at launch. The growing list "
+"includes leading app developers like Facebook, YouTube, Twitter and "
+"ConnectA2 as well as a Flashlight app and Calculator."
+msgstr ""
+"दुनिया भर के एप्लिकेशन डेवलपर Firefox OS के लिए प्रतिबद्ध हैं और शुभारंभ के "
+"अवसर पर सैकड़ों हजारों मुफ्त अनुप्रयोगों उपलब्ध हो जाएगा. बढ़ती हुई सूची में"
+" अग्रणी एप्लिकेशन डेवलपर है Facebook, YouTube, Twitter और ConnectA2 साथ ही "
+"साथ Flashlight ऐप्प  और Calculator भी है."
+
+#: 1-3T/key-features/
+msgid ""
+"A new way to get what you need right when you need it. Search for anything "
+"and Firefox OS adapts to your request, displaying photos, video, music, news"
+" and more — making it much easier for you to find what you were looking for."
+msgstr ""
+"जब आपको इसकी जरूरत है उसी वक़्त पाने के लिए एक नया तरीका, कुछ भी खोजने, और "
+"Firefox OS आपके अनुरोध को मानकर फोटो, वीडियो, संगीत, समाचार और अधिक "
+"प्रदर्शित करने के लिए."
+
+#: 1-3T/demo-tips/
+msgid "Rich Media Experience"
+msgstr "Rich Media Experience (NT)"
+
+#: 1-3T/take-the-challenge/
+msgid "Open the Marketplace."
+msgstr "Marketplace खोलें."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the Open Web. Designed to protect the user and "
+"system from malicious applications and content, it also protects "
+"applications from each other."
+msgstr ""
+"Firefox OS के पास एक मजबूत सुरक्षा मॉडल है जो एक दशक से खोलो वेब का समर्थन "
+"के लिए कठोर युद्ध कर रहा है यह दुर्भावनापूर्ण अनुप्रयोगों और सामग्री से "
+"उपयोक्ता और सिस्टम को सुरक्षित रखने के लिए बनाया गया है."
+
+#: 1-3T/key-features/
+msgid ""
+"Your go-to source for the best apps for Firefox OS. Browse hundreds of free "
+"apps in multiple categories: Games, Tools, Lifestyle and more."
+msgstr ""
+"Firefox OS के सबसे अच्छे ऐप्स के लिए आपका उद्गम. कई श्रेणियों में सैकड़ों "
+"मुफ्त ऐप्स ब्राउज़ करें: खेल, औज़ार, जीवनशैली और भी काफी कुछ."
+
+#: 1-3T/take-the-challenge/
+msgid "Phone"
+msgstr "Phone"
+
+#: 1-3T/key-features/
+msgid ""
+"Browse and play your music collection, rate songs and create playlists for "
+"your favorites. Watch videos from your phone, or online via YouTube."
+msgstr ""
+"अपने संगीत संग्रह को ब्राउज करें और चलाएँ, गानों को रेट करें और अपने पसंदीदा"
+" के लिए प्लेलिस्ट बनाएँ. अपने फोन से वीडियो देखें या ऑनलाइन YouTube के "
+"द्वारा."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Every phone has access to hundreds of free apps at launch, including some of"
+" the most popular global apps today."
+msgstr ""
+"हर फ़ोन मैं लांच से ही प्रमुख वैश्विक एप्प्स सहित, हज़ारो एप्प्स मौजूद हैं."
+
+#: 1-3T/demo-tips/
+msgid "Easy to use"
+msgstr "उपयोग में आसान"
+
+#: 1-3T/take-the-challenge/
+msgid "That’s right. This icon represents Browser."
+msgstr "यह सही है. यह आइकॉन संपर्कों को दर्शाता है."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. You simply go to your home screen to access the Adaptive App "
+"Search feature."
+msgstr ""
+"ऐसा नहीं है . अनुकूली एप्प्स खोज का उपयोग करने के लिए आप अपने होम स्क्रीन पर"
+" जाओ. "
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping the Web in their hands"
+msgstr ""
+"यदि आप Firefox से प्यार करते हैं, तो आप Firefox OS से भी प्यार करेंगे. "
+"Firefox OS डिवाइस का चुनाव करके वेब की शक्ति आपके हाथों में होती है."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"That’s not it. With this customer, highlight the full feature set of Firefox"
+" OS, including social apps that are preloaded on the phone, all at great "
+"value."
+msgstr ""
+"ऐसा नहीं है. इससे ग्राहक सभी महान मूल्यों से, firefox os के सभी गुणों के साथ"
+" साथ, सामाजिक एप्प्स जो कि फ़ोन मैं मौजूद हैं पर, प्रकाश डालता है."
+
+#: 1-3T/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone you’ll ever use. Adaptive App Search helps you find the things "
+"you need simply — and instantly. The user interface is so intuitive, you "
+"will be able to quickly discover and easily download your favorite apps in "
+"no time."
+msgstr ""
+"<strong>यहाँ आप कह सकते हैं क्या है:</strong> Firefox OS सबसे आसान "
+"स्मार्टफ़ोन है जिसे आपने कभी उपयोग किया है. अनुकूली एप्प खोज चीजों को आसानी "
+"से और तुरन्त खोजने में मदद करता है. उपयोक्ता अंतरफलक इतना सहज है कि जल्दी से"
+" पसंदीदा ऐप्स का पता लगा सकते हैं और बिना किसी देरी के डाउनलोड भी कर सकते "
+"है."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"If you have worked through the questions and all of the content, then you "
+"have the basics to match the needs of Firefox OS to your customers. Easy to "
+"use, a Firefox OS smartphone is perfect for new smartphone users and full of"
+" all the features that customers want and need. And it is powered by "
+"Mozilla, making Firefox OS the right choice for anyone committed to ensuring"
+" that the Web remains in your hands!"
+msgstr ""
+"यदि आपने प्रश्न के माध्यम से काम किया है और सभी सामग्री है, तो आपके पास अपने"
+" ग्राहकों को Firefox OS की जरूरतों से मेल करने के लिए मूल है. उपयोग करने के "
+"लिए आसान है, एक Firefox OS स्मार्टफ़ोन, नए स्मार्टफ़ोन उपयोक्ताओं और "
+"ग्राहकों की जरूरत की सभी सुविधाओं का पूरा के लिए एकदम सही है. और यह Mozilla "
+"द्वारा संचालित है, Firefox OS सुनिश्चित करने के लिए प्रतिबद्ध है और सभी के "
+"लिए सही विकल्प बनाने, और वेब उनके हाथों में रहता है."
+
+#: 1-3T/take-the-challenge/
+msgid "Open the browser."
+msgstr "ब्राउज़र खोलें."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Actually, for this customer, the best choice is to talk about how easy "
+"Firefox OS is to use, the free apps within the Firefox Marketplace and the "
+"fact the handset is a value, affordable device."
+msgstr ""
+"दरअसल, इस ग्राहक के लिए सबसे अच्छा विकल्प फ़ायरफ़ॉक्स ओएस उपयोग करने के लिए "
+"कितना आसान है के बारे में बात करने के लिए है."
+
+#: 1-3T/demo-tips/
+msgid ""
+"Show your customers how easy it is to get apps in Firefox Marketplace, or "
+"from anywhere on the Web with Adaptive App Search. It’s all about giving "
+"users more of what they need, when they need it."
+msgstr ""
+"अपने ग्राहकों को दिखाएँ कि Firefox Marketplace में ऐप्स को पाना कितना आसान "
+"है, या वेब पर कहीं से भी – अनुकूलित ऐप्प खोज से. यह उपयोक्ता को उनकी जरूरत "
+"का अधिकाधिक देना है, जब उन्हें इसकी जरूरत होती है."
+
+#: 1-3T/key-features/
+msgid ""
+"Stay connected easily and conveniently. Set up multiple email accounts, with"
+" support for the most common Exchange, SMTP or IMAP email providers."
+msgstr ""
+"आसानी और सुविधा से कनेक्टेड रहें. कई ईमेल खाता सेटअप करें, सबसे सामान्य "
+"Exchange, SMTP या IMAP ईमेल प्रदाता से."
+
+#: 1-3T/about/
+msgid ""
+"Behind every Firefox OS smartphone is Mozilla, a global community of "
+"thousands dedicated to keeping the Web accessible to all. We believe each "
+"and every one of us has the right to a Web that isn’t controlled by just a "
+"few large entities and that together, we can build brighter future for the "
+"Web. Yeah, we’re a little different than the other guys."
+msgstr ""
+"हर Firefox OS स्मार्टफ़ोन के पीछे Mozilla है: हजारों का एक वैश्विक समुदाय जो"
+" सभी के लिए सुलभ वेब रखने के लिए समर्पित है . क्योंकि हमारा मानना है कि हर "
+"किसीको वेब का अधिकार है जो की कुछ बड़ी संस्थाओं द्वारा नियंत्रित नहीं है और "
+"जो इकट्ठा होकर वेब के बेहतर भविष्य के लिए तैयार किया गया है. हाँ, हम अन्य "
+"लोगों से थोड़ा अलग हैं."
+
+#: 1-3T/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit. Our commitment to "
+"keeping the Web open and accessible for all will give your customers the "
+"best of the Web no matter where they go, while keeping them safe and in "
+"control of their online lives."
+msgstr ""
+"Mozilla पर, हम एक बदलाव के लिए आए हैं, न कि लाभ कमाने के लिए.सभी के लिए वेब "
+"को खुला और पहुँच के अंदर रखने की हमारी प्रतिबद्धता आपको वेब का सर्वोत्तम "
+"देगी चाहे जहाँ भी वे जाएँ वे सुरक्षित और अपने ऑनलाइन जिंदगी में सुरक्षित बने"
+" रहेंगे."
+
+#: 1-3T/demo-tips/
+msgid ""
+"With the Camera, Gallery, Music apps and more, Firefox OS will keep your "
+"customers entertained on the go and connected to the things that matter most"
+" to them."
+msgstr ""
+"कैमरा, गैलरी, संगीत ऐप्स और कई सारे चीजों के साथ Firefox OS आपके ग्राहकों को"
+" लगातार मनोरंजन देगा और उन चीजों से कनेक्टेड है जो उनके लिए काफी जरूरी हैं."
+
+#: 1-3T/take-the-challenge/
+msgid "Video"
+msgstr "वीडियो"
+
+#: 1-3T/introduction/
+msgid ""
+"Your customers’ needs are always changing. That’s why Firefox OS does the "
+"same — adapting so your customers can live every moment to its fullest. "
+"Firefox OS devices are perfect for new smartphone users — easy to use and "
+"full of all the features that customers expect. And because Firefox OS "
+"devices are powered by Mozilla, they’re the perfect choice for anyone "
+"committed to keeping the Web open for all."
+msgstr ""
+"आपके ग्राहकों की जरूरतें हमेशा बदलती रहती हैं. इसलिए Firefox OS अपने "
+"ग्राहकों की जरूरतों के मुताबिक बदलते है — ताकि आपके ग्राहक हर पल पूरी तरह जी"
+" सकें. Firefox OS नए स्मार्टफ़ोन उपयोक्ताओं के लिए परिपूर्ण है —ग्राहकों की "
+"उम्मीद के अनुसार सभी सुविधाओं से भरा और उपयोग में आसान. और चूँकि Firefox OS "
+"Mozilla द्वारा ऊर्जावान है, वे उन सभी के लिए सही विकल्प है जो यह सुनिश्चित "
+"करने के लिए प्रतिबद्ध हैं कि वेब सभी के लिए खुली रहे."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS phones are packed with the features that made you want a "
+"smartphone in the first place."
+msgstr "firefox os फ़ोन्स के बेहतरीन फीचर्स के कारण आज यह आपकी पहली पसंद है."
+
+#: 1-3T/take-the-challenge/
+msgid "ConnectA2"
+msgstr "सम्पर्कA2"
+
+#: 1-3T/take-the-challenge/
+msgid "YouTube"
+msgstr "YouTube"
+
+#: 1-3T/frequently-asked-questions/
+msgid ""
+"Firefox OS provides two ways to get apps: <ul> <li>Marketplace — our go-to "
+"source for hundreds of great free apps, including popular apps like Twitter "
+"and Facebook, and for awesome local content from the best Web developers in "
+"your region.</li> <li>Adaptive App Search — just type a single word like "
+"“news” to discover related mobile apps in your region.</li> </ul>"
+msgstr ""
+"Firefox OS एप्प्स पाने के लिए दो तरीके सुझाता है:<ul><li>Firefox  "
+"Marketplace — Twitter और Facebook और शानदार स्थानीय सामग्री की तरह के "
+"लोकप्रिय सामग्री – आपके क्षेत्र के सबसे अच्छे वेब डेवलेपर "
+"से.</li><li>अनुकूली ऐप्प खोज — “news” जैसे एक शब्द को टाइप करें ताकि आपके "
+"क्षेत्र में संबंधित मोबाइल ऐप्स पा सकें.</li></ul>"
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"A customer says, “I use Firefox on my home computer and I love it, but I "
+"didn’t know they had a mobile OS. Why?” Which of the following statements "
+"would be the most appropriate response to this particular customer?"
+msgstr ""
+"एक ग्राहक आपसे कहता है कि, “मैं अपने घर के कंप्यूटर पर Firefox का उपयोग करता"
+" हूँ और मैं इसे पसंद करता हूँ, लेकिन मुझे नहीं पता था कि इनके पास मोबाइल ओएस"
+" था. क्यों?” निम्नलिखित बयानों में से कौन सी एक अच्छी प्रतिक्रिया होगी? लागू"
+" होने वाले सभी का चयन करें."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"Firefox OS phones provide access to hundreds of free apps at launch, "
+"including some of the most popular global apps today."
+msgstr ""
+"Firefox OS फ़ोन्स के द्वारा आप लांच से ही कुछ सबसे लोकप्रिय वैश्विक एप्प्स "
+"सहित, हज़ारो एप्प्स को एक्सेस कर सकते हैं."
+
+#: 1-3T/introduction/
+msgid ""
+"Firefox OS is packed with all the features that made your customers want a "
+"smartphone in the first place: Camera, Gallery, social features, Music and "
+"more. Firefox OS users have complete access to apps in the Firefox "
+"Marketplace, without the need for a sign-in. There, they can get all the "
+"popular, big name apps, as well as local content designed to help them get "
+"the most out of the world around them."
+msgstr ""
+"Firefox OS सभी सुविधाओं से भरा-पूरा है जिसके कारण आपके ग्राहकों के लिए "
+"स्मार्टफ़ोन पहली जगह पर आ जाता है: कैमरा, गैलरी, सामाजिक सुविधाएँ, संगीत के "
+"साथ और भी बहुत कुछ. Firefox OS उपयोक्ता Firefox Marketplace में ऐप्स की पूरी"
+" पहुँच देता है बिना कोई साइन-इन किए. वहाँ आप सभी लोकप्रिय, नामी-गिरामी ऐप्स "
+"के साथ ही साथ उन स्थानीय सामग्रियों को पाएँगे जो उन्हें उनकी आस-पास की "
+"दुनिया का अधिकाधिक हासिल करने देती."
+
+#: 1-3T/key-features/
+msgid ""
+"Firefox OS is deeply integrated with your favorite social networks. Easily "
+"sync your Facebook contacts to your phone to keep your community all in one "
+"place."
+msgstr ""
+"Firefox OS आपके पसंदीदा सोसल संजाल के एकीकृत है. अपने Facebook संपर्क को "
+"अपने फोन में अपने समुदाय के साथ एक स्थान पर बनाए रखने के लिए आसानी से सिंक "
+"करें."
+
+#: 1-3T/take-the-challenge/
+msgid ""
+"The Firefox Marketplace features thousands of apps for free and there is no "
+"need to sign in."
+msgstr ""
+"Firefox Marketplace में हजारों एप्प की सुविधाएँ हैं और हस्ताक्षर करने की कोई"
+" जरूरत नहीं है।"

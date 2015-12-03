@@ -1,0 +1,498 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. A first-time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+"C'est correct. Un utilisateur novice sera d'abord intéressé par l'ergonomie "
+"et la simplicité d'utilisation."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What are some examples of the kind of personalization and control that "
+"Firefox OS allows?  Select all that apply."
+msgstr ""
+"Quels sont les exemples de ce genre de personnalisation et de contrôle "
+"permis par Firefox OS&nbsp;? Sélectionnez tout ce qui convient."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is made with you and your needs in mind, so it is extremely easy "
+"to use and allows for greater control, personalization and customization "
+"than many other smartphones on the market."
+msgstr ""
+"Firefox OS est conçu pour vous, en ayant vos intérêts à l'esprit. Il est "
+"donc très facile à utiliser, il permet davantage de contrôle et propose une "
+"personnalisation plus poussée que les autres smartphones présents sur le "
+"marché."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "An excellent user experience"
+msgstr "Une excellente expérience utilisateur"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "A phone for everyone"
+msgstr "Un téléphone pour tout le monde"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid "Social and contact sync"
+msgstr "Réseaux sociaux et synchronisation des contacts"
+
+#: 2-0/about/ 1-3/about/ 2-1/about/
+msgid "The Mozilla Mission"
+msgstr "La mission de Mozilla"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, this icon represents the Firefox Browser."
+msgstr "En fait, cette icône est celle du navigateur Firefox."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, show a commitment to keeping the power "
+"of the Web in the hands of the people. And while all of these statements are"
+" true, only this one is the best response for this particular customer."
+msgstr ""
+"Correct. Ce client semble être un fan de Firefox. Parlez-lui des téléphones "
+"Firefox OS, créés par Mozilla, qui permettent à tout le monde de profiter de"
+" la puissance du Web. Et bien que toutes ces déclarations soient vraies, "
+"seule celle-ci est la meilleure réponse à apporter à ce client. "
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share contacts"
+msgstr "Partager des contacts"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you’ve worked through all of the questions and content, you’re ready to "
+"match Firefox OS to the needs of your customers.  Easy to use, a Firefox OS "
+"smartphone is perfect for new smartphone users and full of all the features "
+"that customers want and need.  And it’s powered by Mozilla, making Firefox "
+"OS the right choice for anyone committed to ensuring that the power of the "
+"Web remains in their hands!"
+msgstr ""
+"Si vous avez essayé de répondre à toutes les questions, vous êtes prêt à "
+"montrer à vos clients que Firefox OS correspond à leurs besoins. Facile à "
+"utiliser, un smartphone Firefox OS est parfait pour les nouveaux "
+"utilisateurs de smartphones et il offre beaucoup de toutes les "
+"fonctionnalités que les clients veulent et dont ils ont besoin. Et il est "
+"créé par Mozilla, ce qui fait de Firefox OS  le bon choix pour quiconque est"
+" engagé à veiller à ce que la puissance du Web reste dans les mains des "
+"utilisateurs&nbsp;!"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there "
+"aren’t many apps available.”"
+msgstr ""
+"Dites quelle est la meilleure réponse à cette objection : « J'ai entendu "
+"qu'il n'y avait pas beaucoup d'applications disponibles. » ?"
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and adapts to your needs"
+" better than any other phone. That means you get more of what you need with "
+"less time spent searching. Plus, it’s packed with all the features you’d "
+"expect — camera, email, apps, music, maps and more!"
+msgstr ""
+"<strong>Voici ce que vous pouvez dire&nbsp; : </strong> Firefox OS est le "
+"meilleur choix pour la première utilisation d'un smartphone. Il est plus "
+"facile à utiliser et à adapter à vos besoins que n'importe quel autre "
+"téléphone. Cela veut dire que vous pouvez obtenir plus que ce qui vous est "
+"nécessaire en passant moins de temps à chercher. De plus, il est préparé "
+"avec tout ce que vous en attendez —&nbsp;appareil photo, messagerie "
+"électronique, applications, musique, cartes et plus encore&nbsp; !"
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below to learn how to best respond to each of their unique needs."
+msgstr ""
+"Comprendre mieux les besoins de vos clients et savoir comment réagir de "
+"façon adéquate est essentiel pour saisir toute occasion commerciale. "
+"Découvrez les segments de la clientèle ci-dessous pour apprendre à mieux "
+"répondre à chacun de ses besoins uniques."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"Ils sont nouveaux et soutenus par une communauté engagée à conserver le Web "
+"accessible à tous."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve never heard of "
+"Firefox OS phones.\""
+msgstr ""
+"Dites quelle est la meilleure réponse à cette objection : « Je n'ai jamais "
+"entendu parler des téléphones Firefox OS. »"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Will my apps work offline?"
+msgstr "Mes applications vont-elles fonctionner hors connexion ?"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Stay connected easily and conveniently. Set up multiple email accounts, with"
+" support for the most common Exchange, POP3 or IMAP email providers."
+msgstr ""
+"Restez connecté(e) facilement et commodément. Configurez plusieurs comptes "
+"de messagerie, prenant en charge les protocoles Exchange, POP3 ou IMAP."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Life is complicated, your smartphone shouldn’t be. Firefox OS is designed "
+"for better performance, easier customization and simpler navigation. "
+"Everything your customer needs or wants is either one scroll or swipe away."
+msgstr ""
+"La vie est déjà compliquée, votre smartphone ne doit pas l'être. Firefox OS "
+"est conçu pour de meilleures performances, une personnalisation facile et "
+"une navigation simple. Tout ce que vous voulez, ou dont avez besoin, est à "
+"un glissement de doigt."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these are true about Firefox OS."
+msgstr "En fait, toutes ces affirmations sur Firefox OS sont exactes."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Firefox OS is backed by a global community of developers and content "
+"providers dedicated to creating new and exciting content and even locally-"
+"relevant apps for the Firefox OS platform. New apps and content are added "
+"every day."
+msgstr ""
+"Firefox OS est soutenu par une communauté mondiale de développeurs et de "
+"fournisseurs de contenu qui souhaitent créer pour la plateforme Firefox OS "
+"de nouveaux contenus et même des applications pertinentes pour votre région."
+" De nouvelles applications et de nouveaux contenus sont ajoutés chaque jour."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things are possible with a Firefox OS phone."
+msgstr "C'est exact ! Tout cela est possible avec un téléphone Firefox OS."
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid "Exchange, POP3 and IMAP are currently supported."
+msgstr ""
+"Les protocoles Exchange, POP3 et IMAP sont actuellement pris en charge."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "There are more. Try again."
+msgstr "Il y a davantage de réponses. Essayez encore."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping power of the the Web in their hands."
+msgstr ""
+"En fait, lorsque vous rencontrez un fan de Firefox, dites-lui que choisir "
+"Firefox OS c'est aussi un engagement à maintenir la puissance du Web entre "
+"les mains des utilisateurs."
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"Firefox OS comes preloaded with popular instant messaging and social media "
+"apps, like Facebook, so your customers will be able to stay connected with "
+"friends and family. They can also sync their contacts to the phone, quickly "
+"and easily."
+msgstr ""
+"Firefox OS est fournit avec les principales applications de messagerie "
+"instantanée et de réseaux sociaux, dont Facebook, vos clients seront donc "
+"capables de rester connectés avec leurs famille et amis. Ils peuvent "
+"également synchroniser facilement et rapidement leurs contacts avec le "
+"téléphone."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share images"
+msgstr "Partager des images"
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Your go-to source for the best apps on Firefox OS. Browse multiple "
+"categories, including games, utilities, music, travel, sports and more."
+msgstr ""
+"Votre source  favorite pour découvrir les meilleures applications sur "
+"Firefox OS. Parcourez de nombreuses catégories qui comprennent les jeux, les"
+" services publics, la musique, les voyages, le sport et plus encore."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "That’s right. This icon represents the Firefox Browser."
+msgstr "C'est exact. Cette icône est celle du navigateur Firefox."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Keep the Web in your hands"
+msgstr "Gardez le Web entre vos mains"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Firefox Marketplace is our go-to source for free apps, including favorites "
+"like Twitter and Facebook, and for awesome local content from the best Web "
+"developers in your region."
+msgstr ""
+"Le Marketplace de Firefox est notre source privilégiée pour les applications"
+" gratuites, vous y trouverez les plus populaires comme Twitter et Facebook, "
+"mais aussi celles qui correspondent le mieux à votre région ou pays, conçues"
+" par les meilleurs développeurs locaux."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"They’re packed with the features that made you want a smartphone in the "
+"first place."
+msgstr ""
+"Ils disposent de toutes les fonctionnalités qui vous ont donné envie d'avoir"
+" un smartphone."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps already built for the Web."
+msgstr ""
+"Mozilla, le créateur de Firefox, a créé un OS pour smartphone qui vise à "
+"maintenir le Web accessible à tous. Et puisque Firefox OS est entièrement en"
+" HTML5, vous obtenez un accès instantané à des milliers d'applications déjà "
+"intégrées au Web."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Set your phone to your language"
+msgstr "Régler votre téléphone pour qu'il parle votre langue"
+
+#: 2-0/frequently-asked-questions/ 1-3/frequently-asked-questions/
+#: 2-1/frequently-asked-questions/
+msgid ""
+"Users can place bookmarks to any website on their home screen to provide the"
+" functionality of that site directly from there. Also, users can simply "
+"enter any search term on the home screen and instantly create a one-time use"
+" or downloadable app. Creating and consuming these apps on demand puts users"
+" in complete control of their smartphone experience and makes it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+"Les utilisateurs peuvent placer des marque-pages de n'importe quel site Web "
+"sur leur écran d'accueil pour fournir les fonctionnalités de ce site "
+"directement à partir de là. En outre, les utilisateurs peuvent simplement "
+"saisir un terme de recherche sur l'écran d'accueil et créer instantanément "
+"une application téléchargeable. Pouvoir créer et utiliser ces applications à"
+" la demande donne aux utilisateurs le contrôle complet de leur expérience du"
+" smartphone et leur donne le contenu exact qu'ils veulent, quand ils le "
+"veulent."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily pair your device with a wide range of Bluetooth accessories. Share "
+"contacts, images, videos or your favorite URLs with friends."
+msgstr ""
+"Associez facilement votre appareil avec une large gamme d'accessoires "
+"Bluetooth. Partagez des contacts, des images, des vidéos ou vos URL préférés"
+" avec vos amis."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> If you know and love Firefox, "
+"you’ll love Firefox OS.  Firefox OS smartphones are entirely HTML5-based, "
+"bringing the best of the Web to your phone.  Plus, Firefox OS is designed by"
+" a community dedicated to keeping the Web accessible to all. When you choose"
+" Firefox OS, you have the full power of the Web in your hands."
+msgstr ""
+"<Strong> Voici ce que vous pouvez dire&nbsp;: </ strong> Si vous connaissez "
+"et aimez Firefox, vous allez adorer Firefox OS. Les smartphones Firefox OS "
+"sont entièrement basés sur le HTML5, ce qui apporte le meilleur du Web sur "
+"votre téléphone. De plus, Firefox OS est conçu par une communauté qui veut "
+"maintenir le Web accessible à tous. Lorsque vous choisissez Firefox OS, vous"
+" avez toute la puissance du Web entre vos mains."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"All of these statements are true, but only one is the best response for this"
+" particular customer, who seems to be a Firefox fan. Talk about how Firefox "
+"OS phones, made by Mozilla, help keep the power of the Web in the hands of "
+"the people."
+msgstr ""
+"Toutes ces déclarations sont vraies, mais seule l'une d'elles est la "
+"meilleure réponse à apporter à ce client, qui semble être un fan de Firefox."
+" Parlez-lui des téléphones Firefox OS, créés par Mozilla, qui permettent à "
+"tout le monde de profiter de la puissance du Web."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
+msgstr ""
+"Firefox OS repose entièrement sur les standards du HTML5 et du Web ouvert."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Take the Challenge"
+msgstr "Relevez le défi"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
+"OS shows a commitment to keeping the power of the Web in their hands."
+msgstr ""
+"C'est exact. Lorsque vous rencontrez un fan de Firefox, dites-lui que "
+"choisir Firefox OS c'est aussi un engagement à maintenir la puissance du Web"
+" entre les mains des utilisateurs."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Share videos"
+msgstr "Partager des vidéos"
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit.   Firefox OS "
+"smartphones are backed by a global community of developers working to "
+"innovate and further Web technologies.    When you choose Firefox OS, you’re"
+" helping build a brighter future for the Web for all."
+msgstr ""
+"Chez Mozilla, nous sommes là pour faire la différence, pas des profits."
+"      Les smartphones Firefox OS sont soutenus par une communauté mondiale "
+"de développeurs travaillant dans l'innovation et l'amélioration des "
+"technologies web.   Quand vous choisissez Firefox OS, vous contribuez à "
+"bâtir un avenir meilleur pour le web et pour tous.                "
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s packed with the features that made you want a smartphone in the first "
+"place."
+msgstr ""
+"Il dispose de toutes les fonctionnalités qui vous ont donné envie d'avoir un"
+" smartphone."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It’s new and backed by a global community working to help keep the Web "
+"accessible to all."
+msgstr ""
+"Il est nouveau et soutenu par une communauté engagée à conserver le Web "
+"accessible à tous."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"That’s right! All of these things can be shared via Bluetooth with your "
+"Firefox OS phone."
+msgstr ""
+"C'est ça ! Tout cela peut être partagé via Bluetooth avec votre téléphone "
+"Firefox OS."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"Apps developers are slowly realizing the benefit of HTML5 in support of the "
+"Open Web."
+msgstr ""
+"Les développeurs d'applications réalisent lentement ce qu'apporte HTML 5 "
+"pour soutenir le Web ouvert."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Easily import your Facebook friends to your phone and keep your community "
+"all in one place thanks to deep integration with your favorite social "
+"networks."
+msgstr ""
+"Importer facilement vos amis Facebook sur votre téléphone et gardez votre "
+"communauté en un seul endroit grâce à l'excellente intégration avec vos "
+"réseaux sociaux préférés."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid ""
+"Your customers want to get the most out of life, so why should they get any "
+"less from their mobile device?  Firefox OS devices are perfect for new "
+"smartphone users — easy to use and full of all the features that they "
+"expect. And because Firefox OS devices are powered by Mozilla, they’re the "
+"perfect choice for anyone committed to keeping the Web open for all."
+msgstr ""
+"Vos clients veulent vivre leur vie au maximum, alors pourquoi devraient-ils "
+"en attendre moins de leur mobile ? Les appareils Firefox OS sont parfaits "
+"pour les nouveaux utilisateurs de smartphones — faciles à utiliser et "
+"offrant toutes les fonctionnalités attendues. Et parce qu'ils sont soutenus "
+"par Mozilla, ils sont le meilleur choix pour tous ceux qui sont concernés "
+"par la préservation d'un web ouvert à tous."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid ""
+"Play it all from your phone, or online via YouTube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites."
+msgstr ""
+"Jouez vos airs préférés à partir de votre téléphone, ou en ligne via "
+"YouTube. Parcourez et lisez votre collection de musique par album ou par "
+"artiste, notez vos chansons et créez des listes de lecture pour vos favoris."
+
+#: 2-0/customer-guide/ 1-3/customer-guide/ 2-1/customer-guide/
+msgid ""
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone to get you started.  The user interface is so intuitive, you’ll "
+"be able to quickly discover and download your favorite apps and be ready to "
+"go in no time."
+msgstr ""
+"<strong>Voici ce que vous pouvez dire&nbsp;:</strong> Firefox OS est le "
+"smartphone le plus facile pour commencer. L'interface utilisateur est très "
+"intuitive, vous serez en mesure de découvrir rapidement et télécharger vos "
+"applications préférées et être prêt à vous en servir en un rien de temps."
+
+#: 2-0/key-features/ 1-3/key-features/ 2-1/key-features/
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: 2-0/demo-tips/ 1-3/demo-tips/ 2-1/demo-tips/
+msgid ""
+"With Camera, Gallery, Music apps and more, Firefox OS will keep your "
+"customers entertained on the go and connected to the things that matter most"
+" to them.  <br><br>Camera: Photograph, edit and share. Show off our full-"
+"featured camera and gallery apps, including built-in style filters, video "
+"and more.  <br><br>Music: With music at their fingertips, your customers "
+"will see how Firefox OS keeps them entertained and dancing in the streets."
+msgstr ""
+"Avec notamment des applications d'appareil photo/caméra, galerie de photos "
+"et de musique, Firefox OS permettra à vos clients de se distraire en route "
+"et de rester connectés avec ce qui leur tient le plus à cœur. <br><br>Caméra"
+" : faites des photos, modifiez-les et partagez-les. Montrez nos applications"
+" appareil photos et galerie avec les filtres intégrés, la vidéo, "
+"etc.<br><br>Musique : avec leur musique au bout des doigts, vos clients "
+"verront comment Firefox OS va les amuser et les faire danser dans les rues."
+
+#: 2-0/introduction/ 1-3/introduction/ 2-1/introduction/
+msgid "Made with you in mind"
+msgstr "Conçu en pensant à vous"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"It features a robust security model that is battle-hardened from more than a"
+" decade supporting the Open Web. Designed to protect the user and system "
+"from malicious applications and content, it also protects applications from "
+"each other."
+msgstr ""
+"Il dispose d'un modèle de sécurité robuste qui a été éprouvé par "
+"l'expérience de plus d'une décennie de Web ouvert. Conçu pour protéger "
+"l'utilisateur et le système d'applications malveillantes et le contenu, il "
+"protège également les applications entre elles."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Control your data usage"
+msgstr "Contrôler votre consommation de données"
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid ""
+"If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
+"power of the Web in your hands."
+msgstr ""
+"Si vous appréciez Firefox, vous allez adorer Firefox OS. En choisissant "
+"Firefox OS, vous profitez de toute la puissance du Web."
+
+#: 2-0/take-the-challenge/ 1-3/take-the-challenge/ 2-1/take-the-challenge/
+msgid "Actually, all of these things are possible with a Firefox OS phone."
+msgstr "En fait, tout cela est possible avec un téléphone Firefox OS."
